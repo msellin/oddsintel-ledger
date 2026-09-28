@@ -6,7 +6,7 @@
  ],
  "generated": "2026-09-28",
  "sources": {
-  "betzena_picks": "ledger/competitor_raw/betzena.csv (scraped 2026-09-28 from betzena.com/<market>?date=\u2026, AFTER the matches \u2014 internal validation only)",
+  "betzena_picks": "NOT published (removed 2026-09-28, owner decision: EU database-right / terms-of-service caution). Kept privately by the operator; regenerate with scripts/scrape_betzena.py while the site's ~30-day history lasts.",
   "scripts": [
    "scripts/scrape_betzena.py",
    "scripts/audit_vs_betzena.py",
