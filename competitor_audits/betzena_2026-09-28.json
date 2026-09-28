@@ -1,0 +1,1760 @@
+{
+ "what": "Betzena (betzena.com) vs OddsIntel \u2014 30-day audit. Human-readable version: docs/BETZENA_AUDIT_2026_09_28.md",
+ "window": [
+  "2026-08-29",
+  "2026-09-27"
+ ],
+ "generated": "2026-09-28",
+ "sources": {
+  "betzena_picks": "ledger/competitor_raw/betzena.csv (scraped 2026-09-28 from betzena.com/<market>?date=\u2026, AFTER the matches \u2014 internal validation only)",
+  "scripts": [
+   "scripts/scrape_betzena.py",
+   "scripts/audit_vs_betzena.py",
+   "scripts/backtest_consensus_picks.py"
+  ]
+ },
+ "betzena_backtest": {
+  "window": [
+   "2026-08-29",
+   "2026-09-27"
+  ],
+  "scraped": 18294,
+  "matched": 18023,
+  "markets": {
+   "over-1-5": {
+    "published": {
+     "n": 3714,
+     "hit_pct": 75.88,
+     "pinnacle_expected_hit_pct": null,
+     "hit_pct_on_fair_subset": null,
+     "their_odds": {
+      "n": 3714,
+      "roi_pct": -3.75,
+      "avg_odds": 1.278
+     },
+     "pinnacle_close": null,
+     "best_close_all_books": null,
+     "best_close_accessible": null
+    },
+    "matched_to_our_fixtures": {
+     "n": 3663,
+     "hit_pct": 75.95,
+     "pinnacle_expected_hit_pct": 72.22,
+     "hit_pct_on_fair_subset": 74.69,
+     "their_odds": {
+      "n": 3663,
+      "roi_pct": -3.65,
+      "avg_odds": 1.278
+     },
+     "pinnacle_close": {
+      "n": 2529,
+      "roi_pct": -1.91,
+      "avg_odds": 1.326
+     },
+     "best_close_all_books": {
+      "n": 3652,
+      "roi_pct": -1.37,
+      "avg_odds": 1.31
+     },
+     "best_close_accessible": {
+      "n": 3169,
+      "roi_pct": -2.21,
+      "avg_odds": 1.306
+     }
+    },
+    "picks_per_day": 123.8,
+    "tips": {
+     "Over 1.5": 3714
+    },
+    "market_top_n": {
+     "n": 3424,
+     "hit_pct": 76.64,
+     "pinnacle_expected_hit_pct": 74.27,
+     "hit_pct_on_fair_subset": 76.64,
+     "their_odds": null,
+     "pinnacle_close": {
+      "n": 3424,
+      "roi_pct": -2.44,
+      "avg_odds": 1.281
+     },
+     "best_close_all_books": {
+      "n": 3424,
+      "roi_pct": -0.93,
+      "avg_odds": 1.301
+     },
+     "best_close_accessible": {
+      "n": 2916,
+      "roi_pct": -1.62,
+      "avg_odds": 1.292
+     }
+    },
+    "model_top_n": {
+     "n": 3040,
+     "hit_pct": 74.21,
+     "pinnacle_expected_hit_pct": 72.39,
+     "hit_pct_on_fair_subset": 74.21,
+     "their_odds": null,
+     "pinnacle_close": {
+      "n": 3040,
+      "roi_pct": -3.17,
+      "avg_odds": 1.318
+     },
+     "best_close_all_books": {
+      "n": 3040,
+      "roi_pct": -1.69,
+      "avg_odds": 1.338
+     },
+     "best_close_accessible": {
+      "n": 2729,
+      "roi_pct": -2.43,
+      "avg_odds": 1.329
+     }
+    }
+   },
+   "over-0-5-ht": {
+    "published": {
+     "n": 3888,
+     "hit_pct": 71.53,
+     "pinnacle_expected_hit_pct": null,
+     "hit_pct_on_fair_subset": null,
+     "their_odds": {
+      "n": 3888,
+      "roi_pct": -4.51,
+      "avg_odds": 1.346
+     },
+     "pinnacle_close": null,
+     "best_close_all_books": null,
+     "best_close_accessible": null
+    },
+    "matched_to_our_fixtures": {
+     "n": 3839,
+     "hit_pct": 71.56,
+     "pinnacle_expected_hit_pct": 66.0,
+     "hit_pct_on_fair_subset": 66.67,
+     "their_odds": {
+      "n": 3839,
+      "roi_pct": -4.48,
+      "avg_odds": 1.346
+     },
+     "pinnacle_close": {
+      "n": 888,
+      "roi_pct": -5.01,
+      "avg_odds": 1.43
+     },
+     "best_close_all_books": {
+      "n": 3003,
+      "roi_pct": -2.91,
+      "avg_odds": 1.373
+     },
+     "best_close_accessible": {
+      "n": 1924,
+      "roi_pct": -3.53,
+      "avg_odds": 1.355
+     }
+    },
+    "picks_per_day": 129.6,
+    "tips": {
+     "Over 0.5 HT": 3888
+    },
+    "market_top_n": {
+     "n": 1476,
+     "hit_pct": 68.83,
+     "pinnacle_expected_hit_pct": 67.12,
+     "hit_pct_on_fair_subset": 68.83,
+     "their_odds": null,
+     "pinnacle_close": {
+      "n": 1476,
+      "roi_pct": -4.45,
+      "avg_odds": 1.391
+     },
+     "best_close_all_books": {
+      "n": 1476,
+      "roi_pct": -1.89,
+      "avg_odds": 1.428
+     },
+     "best_close_accessible": {
+      "n": 358,
+      "roi_pct": -0.98,
+      "avg_odds": 1.39
+     }
+    }
+   },
+   "double-chance": {
+    "published": {
+     "n": 4504,
+     "hit_pct": 76.24,
+     "pinnacle_expected_hit_pct": null,
+     "hit_pct_on_fair_subset": null,
+     "their_odds": {
+      "n": 4504,
+      "roi_pct": -5.81,
+      "avg_odds": 1.255
+     },
+     "pinnacle_close": null,
+     "best_close_all_books": null,
+     "best_close_accessible": null
+    },
+    "matched_to_our_fixtures": {
+     "n": 4440,
+     "hit_pct": 76.22,
+     "pinnacle_expected_hit_pct": 74.83,
+     "hit_pct_on_fair_subset": 76.35,
+     "their_odds": {
+      "n": 4440,
+      "roi_pct": -5.82,
+      "avg_odds": 1.255
+     },
+     "pinnacle_close": null,
+     "best_close_all_books": {
+      "n": 4426,
+      "roi_pct": -1.81,
+      "avg_odds": 1.308
+     },
+     "best_close_accessible": {
+      "n": 3507,
+      "roi_pct": -3.91,
+      "avg_odds": 1.271
+     }
+    },
+    "picks_per_day": 150.1,
+    "tips": {
+     "12": 2616,
+     "1X": 1467,
+     "X2": 421
+    },
+    "market_top_n": {
+     "n": 4440,
+     "hit_pct": 83.85,
+     "pinnacle_expected_hit_pct": 81.78,
+     "hit_pct_on_fair_subset": 83.85,
+     "their_odds": null,
+     "pinnacle_close": null,
+     "best_close_all_books": {
+      "n": 4432,
+      "roi_pct": -0.64,
+      "avg_odds": 1.191
+     },
+     "best_close_accessible": {
+      "n": 3210,
+      "roi_pct": -2.3,
+      "avg_odds": 1.169
+     }
+    }
+   },
+   "match-winner": {
+    "published": {
+     "n": 5893,
+     "hit_pct": 52.37,
+     "pinnacle_expected_hit_pct": null,
+     "hit_pct_on_fair_subset": null,
+     "their_odds": {
+      "n": 5893,
+      "roi_pct": -5.31,
+      "avg_odds": 1.907
+     },
+     "pinnacle_close": null,
+     "best_close_all_books": null,
+     "best_close_accessible": null
+    },
+    "matched_to_our_fixtures": {
+     "n": 5796,
+     "hit_pct": 52.17,
+     "pinnacle_expected_hit_pct": 50.0,
+     "hit_pct_on_fair_subset": 52.01,
+     "their_odds": {
+      "n": 5796,
+      "roi_pct": -5.54,
+      "avg_odds": 1.909
+     },
+     "pinnacle_close": {
+      "n": 5514,
+      "roi_pct": -3.58,
+      "avg_odds": 1.952
+     },
+     "best_close_all_books": {
+      "n": 5781,
+      "roi_pct": 2.72,
+      "avg_odds": 2.08
+     },
+     "best_close_accessible": {
+      "n": 5217,
+      "roi_pct": -0.27,
+      "avg_odds": 2.016
+     }
+    },
+    "picks_per_day": 196.4,
+    "tips": {
+     "1": 3925,
+     "2": 1954,
+     "X": 14
+    },
+    "market_top_n": {
+     "n": 5731,
+     "hit_pct": 58.09,
+     "pinnacle_expected_hit_pct": 55.1,
+     "hit_pct_on_fair_subset": 58.09,
+     "their_odds": null,
+     "pinnacle_close": {
+      "n": 5731,
+      "roi_pct": -2.97,
+      "avg_odds": 1.743
+     },
+     "best_close_all_books": {
+      "n": 5731,
+      "roi_pct": 5.79,
+      "avg_odds": 1.885
+     },
+     "best_close_accessible": {
+      "n": 4913,
+      "roi_pct": 3.81,
+      "avg_odds": 1.834
+     }
+    },
+    "model_top_n": {
+     "n": 677,
+     "hit_pct": 61.6,
+     "pinnacle_expected_hit_pct": 55.77,
+     "hit_pct_on_fair_subset": 61.6,
+     "their_odds": null,
+     "pinnacle_close": {
+      "n": 677,
+      "roi_pct": 1.77,
+      "avg_odds": 1.705
+     },
+     "best_close_all_books": {
+      "n": 677,
+      "roi_pct": 8.69,
+      "avg_odds": 1.809
+     },
+     "best_close_accessible": {
+      "n": 644,
+      "roi_pct": 4.88,
+      "avg_odds": 1.757
+     }
+    }
+   },
+   "draw-specials": {
+    "published": {
+     "n": 148,
+     "hit_pct": 37.16,
+     "pinnacle_expected_hit_pct": null,
+     "hit_pct_on_fair_subset": null,
+     "their_odds": {
+      "n": 148,
+      "roi_pct": 0.94,
+      "avg_odds": 2.747
+     },
+     "pinnacle_close": null,
+     "best_close_all_books": null,
+     "best_close_accessible": null
+    },
+    "matched_to_our_fixtures": {
+     "n": 143,
+     "hit_pct": 37.06,
+     "pinnacle_expected_hit_pct": 34.12,
+     "hit_pct_on_fair_subset": 37.41,
+     "their_odds": {
+      "n": 143,
+      "roi_pct": 0.71,
+      "avg_odds": 2.744
+     },
+     "pinnacle_close": {
+      "n": 139,
+      "roi_pct": 0.94,
+      "avg_odds": 2.718
+     },
+     "best_close_all_books": {
+      "n": 143,
+      "roi_pct": 8.29,
+      "avg_odds": 2.934
+     },
+     "best_close_accessible": {
+      "n": 131,
+      "roi_pct": 4.46,
+      "avg_odds": 2.879
+     }
+    },
+    "picks_per_day": 4.9,
+    "tips": {
+     "Draw": 148
+    },
+    "market_top_n": {
+     "n": 143,
+     "hit_pct": 32.17,
+     "pinnacle_expected_hit_pct": 35.43,
+     "hit_pct_on_fair_subset": 32.17,
+     "their_odds": null,
+     "pinnacle_close": {
+      "n": 143,
+      "roi_pct": -17.59,
+      "avg_odds": 2.603
+     },
+     "best_close_all_books": {
+      "n": 143,
+      "roi_pct": -6.62,
+      "avg_odds": 2.931
+     },
+     "best_close_accessible": {
+      "n": 126,
+      "roi_pct": -3.13,
+      "avg_odds": 2.86
+     }
+    },
+    "model_top_n": {
+     "n": 20,
+     "hit_pct": 35.0,
+     "pinnacle_expected_hit_pct": 34.02,
+     "hit_pct_on_fair_subset": 35.0,
+     "their_odds": null,
+     "pinnacle_close": {
+      "n": 20,
+      "roi_pct": -11.95,
+      "avg_odds": 2.7
+     },
+     "best_close_all_books": {
+      "n": 20,
+      "roi_pct": -1.7,
+      "avg_odds": 2.908
+     },
+     "best_close_accessible": {
+      "n": 17,
+      "roi_pct": 14.41,
+      "avg_odds": 2.79
+     }
+    }
+   },
+   "correct-score": {
+    "published": {
+     "n": 147,
+     "hit_pct": 18.37,
+     "pinnacle_expected_hit_pct": null,
+     "hit_pct_on_fair_subset": null,
+     "their_odds": {
+      "n": 147,
+      "roi_pct": -12.99,
+      "avg_odds": 4.719
+     },
+     "pinnacle_close": null,
+     "best_close_all_books": null,
+     "best_close_accessible": null
+    },
+    "matched_to_our_fixtures": {
+     "n": 142,
+     "hit_pct": 17.61,
+     "pinnacle_expected_hit_pct": null,
+     "hit_pct_on_fair_subset": null,
+     "their_odds": {
+      "n": 142,
+      "roi_pct": -17.32,
+      "avg_odds": 4.71
+     },
+     "pinnacle_close": null,
+     "best_close_all_books": null,
+     "best_close_accessible": null
+    },
+    "picks_per_day": 4.9,
+    "tips": {
+     "1-0": 82,
+     "0-0": 48,
+     "0-1": 9,
+     "1-1": 4,
+     "0-2": 2,
+     "2-0": 2
+    }
+   }
+  },
+  "same_matches": {
+   "over-1-5": {
+    "n": 1929,
+    "their_hit": 74.5,
+    "our_hit": 73.3,
+    "agree_pct": 97.7,
+    "their_hit_when_agree": 74.5,
+    "their_hit_when_we_disagree": 77.3,
+    "our_hit_when_we_disagree": 22.7,
+    "pinnacle_prob_of_their_pick_avg": 72.4,
+    "their_roi_at_pinnacle": {
+     "n": 1929,
+     "roi_pct": -2.22,
+     "avg_odds": 1.32
+    },
+    "our_roi_at_pinnacle": {
+     "n": 1929,
+     "roi_pct": -3.39,
+     "avg_odds": 1.35
+    },
+    "our_roi_at_best_estonian": {
+     "n": 1796,
+     "roi_pct": -2.39,
+     "avg_odds": 1.36
+    },
+    "our_roi_when_we_disagree_at_pinnacle": {
+     "n": 44,
+     "roi_pct": -33.86,
+     "avg_odds": 2.76
+    },
+    "by_pinnacle_prob_of_their_pick": {
+     "50-60%": {
+      "n": 133,
+      "their_hit": 63.2,
+      "our_hit": 54.1
+     },
+     "60-70%": {
+      "n": 542,
+      "their_hit": 70.7,
+      "our_hit": 69.2
+     },
+     "70-80%": {
+      "n": 974,
+      "their_hit": 75.3,
+      "our_hit": 74.9
+     },
+     "80-90%": {
+      "n": 280,
+      "their_hit": 85.0,
+      "our_hit": 84.3
+     }
+    }
+   },
+   "match-winner": {
+    "n": 676,
+    "their_hit": 53.1,
+    "our_hit": 53.3,
+    "agree_pct": 95.1,
+    "their_hit_when_agree": 54.0,
+    "their_hit_when_we_disagree": 36.4,
+    "our_hit_when_we_disagree": 39.4,
+    "pinnacle_prob_of_their_pick_avg": 49.9,
+    "their_roi_at_pinnacle": {
+     "n": 653,
+     "roi_pct": 0.67,
+     "avg_odds": 1.94
+    },
+    "our_roi_at_pinnacle": {
+     "n": 653,
+     "roi_pct": 0.1,
+     "avg_odds": 1.93
+    },
+    "our_roi_at_best_estonian": {
+     "n": 651,
+     "roi_pct": 0.58,
+     "avg_odds": 1.98
+    },
+    "our_roi_when_we_disagree_at_pinnacle": {
+     "n": 31,
+     "roi_pct": -6.87,
+     "avg_odds": 2.5
+    },
+    "by_pinnacle_prob_of_their_pick": {
+     "20-30%": {
+      "n": 2,
+      "their_hit": 50.0,
+      "our_hit": 50.0
+     },
+     "30-40%": {
+      "n": 147,
+      "their_hit": 41.5,
+      "our_hit": 42.2
+     },
+     "40-50%": {
+      "n": 222,
+      "their_hit": 50.0,
+      "our_hit": 49.5
+     },
+     "50-60%": {
+      "n": 154,
+      "their_hit": 57.1,
+      "our_hit": 57.1
+     },
+     "60-70%": {
+      "n": 79,
+      "their_hit": 67.1,
+      "our_hit": 67.1
+     },
+     "70-80%": {
+      "n": 42,
+      "their_hit": 76.2,
+      "our_hit": 76.2
+     },
+     "80-90%": {
+      "n": 7,
+      "their_hit": 85.7,
+      "our_hit": 85.7
+     }
+    }
+   },
+   "double-chance": {
+    "n": 505,
+    "their_hit": 77.0,
+    "our_hit": 78.4,
+    "agree_pct": 83.8,
+    "their_hit_when_agree": 78.7,
+    "their_hit_when_we_disagree": 68.3,
+    "our_hit_when_we_disagree": 75.6,
+    "pinnacle_prob_of_their_pick_avg": 74.6,
+    "their_roi_at_pinnacle": null,
+    "our_roi_at_pinnacle": null,
+    "our_roi_at_best_estonian": {
+     "n": 478,
+     "roi_pct": -1.57,
+     "avg_odds": 1.26
+    },
+    "our_roi_when_we_disagree_at_pinnacle": null,
+    "by_pinnacle_prob_of_their_pick": {
+     "60-70%": {
+      "n": 54,
+      "their_hit": 74.1,
+      "our_hit": 66.7
+     },
+     "70-80%": {
+      "n": 389,
+      "their_hit": 79.7,
+      "our_hit": 81.2
+     },
+     "80-90%": {
+      "n": 44,
+      "their_hit": 72.7,
+      "our_hit": 75.0
+     }
+    }
+   }
+  }
+ },
+ "oddsintel_published_same_window": {
+  "basis": "11 bots with bot_distribution.on_performance, settled pre-match, kickoff in window, bot_ledger.odds_public / pnl_unit_public, flat stake",
+  "all": {
+   "n": 990,
+   "hit_pct": 46.8,
+   "avg_odds": 2.46,
+   "breakeven_hit_pct": 40.7,
+   "roi_pct": 4.0
+  },
+  "1x2": {
+   "n": 717,
+   "hit_pct": 45.3,
+   "avg_odds": 2.58,
+   "breakeven_hit_pct": 38.8,
+   "roi_pct": 4.9
+  },
+  "ou25": {
+   "n": 273,
+   "hit_pct": 50.5,
+   "avg_odds": 2.14,
+   "breakeven_hit_pct": 46.7,
+   "roi_pct": 1.7
+  },
+  "active_only": {
+   "n": 173,
+   "hit_pct": 34.7,
+   "avg_odds": 3.12,
+   "breakeven_hit_pct": 32.1,
+   "roi_pct": 3.0
+  },
+  "caveat": "\u00b1~4 pts standard error on the all-picks ROI; not yet distinguishable from break-even"
+ },
+ "consensus_backtest": {
+  "window": [
+   "2026-08-29",
+   "2026-09-27"
+  ],
+  "betzena_hit_pct": {
+   "over_under_15": 75.9,
+   "over_under_1h_05": 71.5,
+   "double_chance": 76.2,
+   "1x2": 52.4
+  },
+  "markets": {
+   "over_under_15": {
+    ">=60%": {
+     "consensus": {
+      "n": 4394,
+      "per_day": 146.5,
+      "hit_pct": 75.0,
+      "pinnacle_prob_avg": 72.5,
+      "at_pinnacle_close": {
+       "n": 4394,
+       "roi_pct": -2.47,
+       "avg_odds": 1.309
+      },
+      "at_best_estonian_close": {
+       "n": 3713,
+       "roi_pct": -1.66,
+       "avg_odds": 1.32
+      }
+     },
+     "model_agrees": {
+      "n": 2842,
+      "per_day": 94.7,
+      "hit_pct": 75.1,
+      "pinnacle_prob_avg": 73.4,
+      "at_pinnacle_close": {
+       "n": 2842,
+       "roi_pct": -3.38,
+       "avg_odds": 1.297
+      },
+      "at_best_estonian_close": {
+       "n": 2557,
+       "roi_pct": -2.66,
+       "avg_odds": 1.308
+      }
+     },
+     "price_beats_fair": {
+      "n": 75,
+      "per_day": 2.5,
+      "hit_pct": 72.0,
+      "pinnacle_prob_avg": 72.2,
+      "at_pinnacle_close": {
+       "n": 75,
+       "roi_pct": -4.44,
+       "avg_odds": 1.325
+      },
+      "at_best_estonian_close": {
+       "n": 75,
+       "roi_pct": 4.26,
+       "avg_odds": 1.44
+      }
+     },
+     "model_and_price": {
+      "n": 53,
+      "per_day": 1.8,
+      "hit_pct": 69.8,
+      "pinnacle_prob_avg": 72.8,
+      "at_pinnacle_close": {
+       "n": 53,
+       "roi_pct": -7.13,
+       "avg_odds": 1.319
+      },
+      "at_best_estonian_close": {
+       "n": 53,
+       "roi_pct": 1.26,
+       "avg_odds": 1.428
+      }
+     }
+    },
+    ">=70%": {
+     "consensus": {
+      "n": 2546,
+      "per_day": 84.9,
+      "hit_pct": 79.2,
+      "pinnacle_prob_avg": 76.9,
+      "at_pinnacle_close": {
+       "n": 2546,
+       "roi_pct": -2.09,
+       "avg_odds": 1.24
+      },
+      "at_best_estonian_close": {
+       "n": 2218,
+       "roi_pct": -1.19,
+       "avg_odds": 1.252
+      }
+     },
+     "model_agrees": {
+      "n": 1559,
+      "per_day": 52.0,
+      "hit_pct": 79.1,
+      "pinnacle_prob_avg": 77.7,
+      "at_pinnacle_close": {
+       "n": 1559,
+       "roi_pct": -3.16,
+       "avg_odds": 1.229
+      },
+      "at_best_estonian_close": {
+       "n": 1418,
+       "roi_pct": -2.78,
+       "avg_odds": 1.241
+      }
+     },
+     "price_beats_fair": {
+      "n": 43,
+      "per_day": 1.4,
+      "hit_pct": 67.4,
+      "pinnacle_prob_avg": 76.1,
+      "at_pinnacle_close": {
+       "n": 43,
+       "roi_pct": -15.14,
+       "avg_odds": 1.257
+      },
+      "at_best_estonian_close": {
+       "n": 43,
+       "roi_pct": -6.71,
+       "avg_odds": 1.37
+      }
+     },
+     "model_and_price": {
+      "n": 22,
+      "per_day": 0.7,
+      "hit_pct": 59.1,
+      "pinnacle_prob_avg": 77.2,
+      "at_pinnacle_close": {
+       "n": 22,
+       "roi_pct": -27.14,
+       "avg_odds": 1.243
+      },
+      "at_best_estonian_close": {
+       "n": 22,
+       "roi_pct": -22.5,
+       "avg_odds": 1.319
+      }
+     }
+    },
+    ">=75%": {
+     "consensus": {
+      "n": 1578,
+      "per_day": 52.6,
+      "hit_pct": 82.8,
+      "pinnacle_prob_avg": 79.9,
+      "at_pinnacle_close": {
+       "n": 1578,
+       "roi_pct": -1.07,
+       "avg_odds": 1.196
+      },
+      "at_best_estonian_close": {
+       "n": 1368,
+       "roi_pct": -0.64,
+       "avg_odds": 1.207
+      }
+     },
+     "model_agrees": {
+      "n": 885,
+      "per_day": 29.5,
+      "hit_pct": 83.4,
+      "pinnacle_prob_avg": 80.4,
+      "at_pinnacle_close": {
+       "n": 885,
+       "roi_pct": -0.95,
+       "avg_odds": 1.189
+      },
+      "at_best_estonian_close": {
+       "n": 785,
+       "roi_pct": -0.59,
+       "avg_odds": 1.199
+      }
+     },
+     "price_beats_fair": {
+      "n": 25,
+      "per_day": 0.8,
+      "hit_pct": 64.0,
+      "pinnacle_prob_avg": 78.8,
+      "at_pinnacle_close": {
+       "n": 25,
+       "roi_pct": -22.68,
+       "avg_odds": 1.215
+      },
+      "at_best_estonian_close": {
+       "n": 25,
+       "roi_pct": -13.77,
+       "avg_odds": 1.34
+      }
+     },
+     "model_and_price": {
+      "n": 10,
+      "per_day": 0.3,
+      "hit_pct": 60.0,
+      "pinnacle_prob_avg": 80.0,
+      "at_pinnacle_close": {
+       "n": 10,
+       "roi_pct": -28.4,
+       "avg_odds": 1.199
+      },
+      "at_best_estonian_close": {
+       "n": 10,
+       "roi_pct": -23.6,
+       "avg_odds": 1.275
+      }
+     }
+    },
+    ">=80%": {
+     "consensus": {
+      "n": 694,
+      "per_day": 23.1,
+      "hit_pct": 85.6,
+      "pinnacle_prob_avg": 83.0,
+      "at_pinnacle_close": {
+       "n": 694,
+       "roi_pct": -1.53,
+       "avg_odds": 1.151
+      },
+      "at_best_estonian_close": {
+       "n": 545,
+       "roi_pct": -1.39,
+       "avg_odds": 1.158
+      }
+     },
+     "model_agrees": {
+      "n": 350,
+      "per_day": 11.7,
+      "hit_pct": 86.3,
+      "pinnacle_prob_avg": 83.1,
+      "at_pinnacle_close": {
+       "n": 350,
+       "roi_pct": -0.86,
+       "avg_odds": 1.15
+      },
+      "at_best_estonian_close": {
+       "n": 291,
+       "roi_pct": -1.2,
+       "avg_odds": 1.157
+      }
+     },
+     "price_beats_fair": {
+      "n": 8,
+      "per_day": 0.3,
+      "hit_pct": 62.5,
+      "pinnacle_prob_avg": 82.3,
+      "at_pinnacle_close": {
+       "n": 8,
+       "roi_pct": -28.12,
+       "avg_odds": 1.162
+      },
+      "at_best_estonian_close": {
+       "n": 8,
+       "roi_pct": -22.75,
+       "avg_odds": 1.266
+      }
+     },
+     "model_and_price": {
+      "n": 3,
+      "per_day": 0.1,
+      "hit_pct": 33.3,
+      "pinnacle_prob_avg": 81.3,
+      "at_pinnacle_close": {
+       "n": 3,
+       "roi_pct": -61.33,
+       "avg_odds": 1.177
+      },
+      "at_best_estonian_close": {
+       "n": 3,
+       "roi_pct": -54.67,
+       "avg_odds": 1.283
+      }
+     }
+    },
+    ">=85%": {
+     "consensus": {
+      "n": 140,
+      "per_day": 4.7,
+      "hit_pct": 89.3,
+      "pinnacle_prob_avg": 86.1,
+      "at_pinnacle_close": {
+       "n": 140,
+       "roi_pct": -0.77,
+       "avg_odds": 1.112
+      },
+      "at_best_estonian_close": {
+       "n": 117,
+       "roi_pct": -0.26,
+       "avg_odds": 1.112
+      }
+     },
+     "model_agrees": {
+      "n": 40,
+      "per_day": 1.3,
+      "hit_pct": 92.5,
+      "pinnacle_prob_avg": 86.1,
+      "at_pinnacle_close": {
+       "n": 40,
+       "roi_pct": 2.88,
+       "avg_odds": 1.112
+      },
+      "at_best_estonian_close": {
+       "n": 36,
+       "roi_pct": 1.65,
+       "avg_odds": 1.109
+      }
+     },
+     "price_beats_fair": {
+      "n": 1,
+      "per_day": 0.0,
+      "hit_pct": 100.0,
+      "pinnacle_prob_avg": 87.4,
+      "at_pinnacle_close": {
+       "n": 1,
+       "roi_pct": 10.0,
+       "avg_odds": 1.1
+      },
+      "at_best_estonian_close": {
+       "n": 1,
+       "roi_pct": 15.0,
+       "avg_odds": 1.15
+      }
+     },
+     "model_and_price": null
+    },
+    ">=90%": {
+     "consensus": null,
+     "model_agrees": null,
+     "price_beats_fair": null,
+     "model_and_price": null
+    }
+   },
+   "over_under_1h_05": {
+    ">=60%": {
+     "consensus": {
+      "n": 1648,
+      "per_day": 54.9,
+      "hit_pct": 67.4,
+      "pinnacle_prob_avg": 66.8,
+      "at_pinnacle_close": {
+       "n": 1648,
+       "roi_pct": -6.19,
+       "avg_odds": 1.397
+      },
+      "at_best_estonian_close": {
+       "n": 453,
+       "roi_pct": -5.14,
+       "avg_odds": 1.412
+      }
+     },
+     "model_agrees": null,
+     "price_beats_fair": {
+      "n": 4,
+      "per_day": 0.1,
+      "hit_pct": 75.0,
+      "pinnacle_prob_avg": 66.0,
+      "at_pinnacle_close": {
+       "n": 4,
+       "roi_pct": 6.5,
+       "avg_odds": 1.425
+      },
+      "at_best_estonian_close": {
+       "n": 4,
+       "roi_pct": 15.62,
+       "avg_odds": 1.566
+      }
+     },
+     "model_and_price": null
+    },
+    ">=70%": {
+     "consensus": {
+      "n": 237,
+      "per_day": 7.9,
+      "hit_pct": 73.8,
+      "pinnacle_prob_avg": 70.7,
+      "at_pinnacle_close": {
+       "n": 237,
+       "roi_pct": -1.78,
+       "avg_odds": 1.331
+      },
+      "at_best_estonian_close": {
+       "n": 58,
+       "roi_pct": 1.14,
+       "avg_odds": 1.333
+      }
+     },
+     "model_agrees": null,
+     "price_beats_fair": {
+      "n": 1,
+      "per_day": 0.0,
+      "hit_pct": 100.0,
+      "pinnacle_prob_avg": 70.0,
+      "at_pinnacle_close": {
+       "n": 1,
+       "roi_pct": 36.0,
+       "avg_odds": 1.36
+      },
+      "at_best_estonian_close": {
+       "n": 1,
+       "roi_pct": 43.5,
+       "avg_odds": 1.435
+      }
+     },
+     "model_and_price": null
+    },
+    ">=75%": {
+     "consensus": null,
+     "model_agrees": null,
+     "price_beats_fair": null,
+     "model_and_price": null
+    },
+    ">=80%": {
+     "consensus": null,
+     "model_agrees": null,
+     "price_beats_fair": null,
+     "model_and_price": null
+    },
+    ">=85%": {
+     "consensus": null,
+     "model_agrees": null,
+     "price_beats_fair": null,
+     "model_and_price": null
+    },
+    ">=90%": {
+     "consensus": null,
+     "model_agrees": null,
+     "price_beats_fair": null,
+     "model_and_price": null
+    }
+   },
+   "double_chance": {
+    ">=60%": {
+     "consensus": {
+      "n": 8667,
+      "per_day": 288.9,
+      "hit_pct": 79.1,
+      "pinnacle_prob_avg": 77.6,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 6360,
+       "roi_pct": -3.7,
+       "avg_odds": 1.226
+      }
+     },
+     "model_agrees": {
+      "n": 1030,
+      "per_day": 34.3,
+      "hit_pct": 81.6,
+      "pinnacle_prob_avg": 77.8,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 976,
+       "roi_pct": -1.29,
+       "avg_odds": 1.219
+      }
+     },
+     "price_beats_fair": {
+      "n": 231,
+      "per_day": 7.7,
+      "hit_pct": 79.7,
+      "pinnacle_prob_avg": 78.0,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 231,
+       "roi_pct": 19.74,
+       "avg_odds": 1.495
+      }
+     },
+     "model_and_price": {
+      "n": 15,
+      "per_day": 0.5,
+      "hit_pct": 93.3,
+      "pinnacle_prob_avg": 77.4,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 15,
+       "roi_pct": 40.83,
+       "avg_odds": 1.505
+      }
+     }
+    },
+    ">=70%": {
+     "consensus": {
+      "n": 8233,
+      "per_day": 274.4,
+      "hit_pct": 79.7,
+      "pinnacle_prob_avg": 78.1,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 6032,
+       "roi_pct": -3.43,
+       "avg_odds": 1.22
+      }
+     },
+     "model_agrees": {
+      "n": 947,
+      "per_day": 31.6,
+      "hit_pct": 82.7,
+      "pinnacle_prob_avg": 78.5,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 899,
+       "roi_pct": -0.4,
+       "avg_odds": 1.209
+      }
+     },
+     "price_beats_fair": {
+      "n": 225,
+      "per_day": 7.5,
+      "hit_pct": 80.0,
+      "pinnacle_prob_avg": 78.2,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 225,
+       "roi_pct": 19.9,
+       "avg_odds": 1.491
+      }
+     },
+     "model_and_price": {
+      "n": 14,
+      "per_day": 0.5,
+      "hit_pct": 92.9,
+      "pinnacle_prob_avg": 77.9,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 14,
+       "roi_pct": 40.53,
+       "avg_odds": 1.509
+      }
+     }
+    },
+    ">=75%": {
+     "consensus": {
+      "n": 5120,
+      "per_day": 170.7,
+      "hit_pct": 83.1,
+      "pinnacle_prob_avg": 81.2,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 3751,
+       "roi_pct": -2.67,
+       "avg_odds": 1.178
+      }
+     },
+     "model_agrees": {
+      "n": 610,
+      "per_day": 20.3,
+      "hit_pct": 85.2,
+      "pinnacle_prob_avg": 81.5,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 573,
+       "roi_pct": -0.55,
+       "avg_odds": 1.168
+      }
+     },
+     "price_beats_fair": {
+      "n": 147,
+      "per_day": 4.9,
+      "hit_pct": 77.6,
+      "pinnacle_prob_avg": 80.9,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 147,
+       "roi_pct": 16.31,
+       "avg_odds": 1.482
+      }
+     },
+     "model_and_price": {
+      "n": 8,
+      "per_day": 0.3,
+      "hit_pct": 100.0,
+      "pinnacle_prob_avg": 81.9,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 8,
+       "roi_pct": 58.88,
+       "avg_odds": 1.589
+      }
+     }
+    },
+    ">=80%": {
+     "consensus": {
+      "n": 2452,
+      "per_day": 81.7,
+      "hit_pct": 88.0,
+      "pinnacle_prob_avg": 85.6,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 1826,
+       "roi_pct": -1.27,
+       "avg_odds": 1.123
+      }
+     },
+     "model_agrees": {
+      "n": 295,
+      "per_day": 9.8,
+      "hit_pct": 87.8,
+      "pinnacle_prob_avg": 86.0,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 276,
+       "roi_pct": -1.43,
+       "avg_odds": 1.116
+      }
+     },
+     "price_beats_fair": {
+      "n": 71,
+      "per_day": 2.4,
+      "hit_pct": 81.7,
+      "pinnacle_prob_avg": 85.2,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 71,
+       "roi_pct": 23.14,
+       "avg_odds": 1.507
+      }
+     },
+     "model_and_price": {
+      "n": 4,
+      "per_day": 0.1,
+      "hit_pct": 100.0,
+      "pinnacle_prob_avg": 86.5,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 4,
+       "roi_pct": 80.75,
+       "avg_odds": 1.808
+      }
+     }
+    },
+    ">=85%": {
+     "consensus": {
+      "n": 1177,
+      "per_day": 39.2,
+      "hit_pct": 92.5,
+      "pinnacle_prob_avg": 89.3,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 891,
+       "roi_pct": -0.46,
+       "avg_odds": 1.08
+      }
+     },
+     "model_agrees": {
+      "n": 148,
+      "per_day": 4.9,
+      "hit_pct": 93.2,
+      "pinnacle_prob_avg": 89.5,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 136,
+       "roi_pct": 0.8,
+       "avg_odds": 1.087
+      }
+     },
+     "price_beats_fair": {
+      "n": 28,
+      "per_day": 0.9,
+      "hit_pct": 92.9,
+      "pinnacle_prob_avg": 89.8,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 28,
+       "roi_pct": 42.06,
+       "avg_odds": 1.519
+      }
+     },
+     "model_and_price": {
+      "n": 2,
+      "per_day": 0.1,
+      "hit_pct": 100.0,
+      "pinnacle_prob_avg": 90.0,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 2,
+       "roi_pct": 137.5,
+       "avg_odds": 2.375
+      }
+     }
+    },
+    ">=90%": {
+     "consensus": {
+      "n": 441,
+      "per_day": 14.7,
+      "hit_pct": 95.7,
+      "pinnacle_prob_avg": 92.6,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 326,
+       "roi_pct": 1.74,
+       "avg_odds": 1.061
+      }
+     },
+     "model_agrees": {
+      "n": 61,
+      "per_day": 2.0,
+      "hit_pct": 95.1,
+      "pinnacle_prob_avg": 92.6,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 55,
+       "roi_pct": 3.08,
+       "avg_odds": 1.088
+      }
+     },
+     "price_beats_fair": {
+      "n": 12,
+      "per_day": 0.4,
+      "hit_pct": 91.7,
+      "pinnacle_prob_avg": 92.8,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 12,
+       "roi_pct": 60.31,
+       "avg_odds": 1.74
+      }
+     },
+     "model_and_price": {
+      "n": 1,
+      "per_day": 0.0,
+      "hit_pct": 100.0,
+      "pinnacle_prob_avg": 91.9,
+      "at_pinnacle_close": null,
+      "at_best_estonian_close": {
+       "n": 1,
+       "roi_pct": 260.0,
+       "avg_odds": 3.6
+      }
+     }
+    }
+   },
+   "1x2": {
+    ">=60%": {
+     "consensus": {
+      "n": 1648,
+      "per_day": 54.9,
+      "hit_pct": 73.8,
+      "pinnacle_prob_avg": 69.4,
+      "at_pinnacle_close": {
+       "n": 1648,
+       "roi_pct": -1.71,
+       "avg_odds": 1.343
+      },
+      "at_best_estonian_close": {
+       "n": 1442,
+       "roi_pct": 3.96,
+       "avg_odds": 1.401
+      }
+     },
+     "model_agrees": {
+      "n": 209,
+      "per_day": 7.0,
+      "hit_pct": 77.0,
+      "pinnacle_prob_avg": 69.2,
+      "at_pinnacle_close": {
+       "n": 209,
+       "roi_pct": 1.98,
+       "avg_odds": 1.337
+      },
+      "at_best_estonian_close": {
+       "n": 201,
+       "roi_pct": 8.79,
+       "avg_odds": 1.407
+      }
+     },
+     "price_beats_fair": {
+      "n": 151,
+      "per_day": 5.0,
+      "hit_pct": 70.9,
+      "pinnacle_prob_avg": 67.5,
+      "at_pinnacle_close": {
+       "n": 151,
+       "roi_pct": -1.78,
+       "avg_odds": 1.399
+      },
+      "at_best_estonian_close": {
+       "n": 151,
+       "roi_pct": 31.1,
+       "avg_odds": 1.829
+      }
+     },
+     "model_and_price": {
+      "n": 12,
+      "per_day": 0.4,
+      "hit_pct": 83.3,
+      "pinnacle_prob_avg": 66.9,
+      "at_pinnacle_close": {
+       "n": 12,
+       "roi_pct": 18.5,
+       "avg_odds": 1.402
+      },
+      "at_best_estonian_close": {
+       "n": 12,
+       "roi_pct": 110.58,
+       "avg_odds": 2.338
+      }
+     }
+    },
+    ">=70%": {
+     "consensus": {
+      "n": 673,
+      "per_day": 22.4,
+      "hit_pct": 79.0,
+      "pinnacle_prob_avg": 76.8,
+      "at_pinnacle_close": {
+       "n": 673,
+       "roi_pct": -5.31,
+       "avg_odds": 1.205
+      },
+      "at_best_estonian_close": {
+       "n": 593,
+       "roi_pct": 2.09,
+       "avg_odds": 1.272
+      }
+     },
+     "model_agrees": {
+      "n": 84,
+      "per_day": 2.8,
+      "hit_pct": 83.3,
+      "pinnacle_prob_avg": 76.8,
+      "at_pinnacle_close": {
+       "n": 84,
+       "roi_pct": -0.35,
+       "avg_odds": 1.2
+      },
+      "at_best_estonian_close": {
+       "n": 82,
+       "roi_pct": 12.81,
+       "avg_odds": 1.343
+      }
+     },
+     "price_beats_fair": {
+      "n": 46,
+      "per_day": 1.5,
+      "hit_pct": 80.4,
+      "pinnacle_prob_avg": 76.4,
+      "at_pinnacle_close": {
+       "n": 46,
+       "roi_pct": -1.37,
+       "avg_odds": 1.236
+      },
+      "at_best_estonian_close": {
+       "n": 46,
+       "roi_pct": 57.0,
+       "avg_odds": 1.875
+      }
+     },
+     "model_and_price": {
+      "n": 4,
+      "per_day": 0.1,
+      "hit_pct": 50.0,
+      "pinnacle_prob_avg": 75.8,
+      "at_pinnacle_close": {
+       "n": 4,
+       "roi_pct": -40.5,
+       "avg_odds": 1.245
+      },
+      "at_best_estonian_close": {
+       "n": 4,
+       "roi_pct": 204.5,
+       "avg_odds": 3.743
+      }
+     }
+    },
+    ">=75%": {
+     "consensus": {
+      "n": 366,
+      "per_day": 12.2,
+      "hit_pct": 83.6,
+      "pinnacle_prob_avg": 80.6,
+      "at_pinnacle_close": {
+       "n": 366,
+       "roi_pct": -4.4,
+       "avg_odds": 1.148
+      },
+      "at_best_estonian_close": {
+       "n": 325,
+       "roi_pct": -0.48,
+       "avg_odds": 1.187
+      }
+     },
+     "model_agrees": {
+      "n": 47,
+      "per_day": 1.6,
+      "hit_pct": 85.1,
+      "pinnacle_prob_avg": 80.6,
+      "at_pinnacle_close": {
+       "n": 47,
+       "roi_pct": -2.68,
+       "avg_odds": 1.15
+      },
+      "at_best_estonian_close": {
+       "n": 45,
+       "roi_pct": -2.19,
+       "avg_odds": 1.166
+      }
+     },
+     "price_beats_fair": {
+      "n": 20,
+      "per_day": 0.7,
+      "hit_pct": 90.0,
+      "pinnacle_prob_avg": 82.1,
+      "at_pinnacle_close": {
+       "n": 20,
+       "roi_pct": 3.8,
+       "avg_odds": 1.156
+      },
+      "at_best_estonian_close": {
+       "n": 20,
+       "roi_pct": 28.4,
+       "avg_odds": 1.475
+      }
+     },
+     "model_and_price": {
+      "n": 2,
+      "per_day": 0.1,
+      "hit_pct": 50.0,
+      "pinnacle_prob_avg": 81.1,
+      "at_pinnacle_close": {
+       "n": 2,
+       "roi_pct": -43.5,
+       "avg_odds": 1.19
+      },
+      "at_best_estonian_close": {
+       "n": 2,
+       "roi_pct": -41.0,
+       "avg_odds": 1.245
+      }
+     }
+    },
+    ">=80%": {
+     "consensus": {
+      "n": 168,
+      "per_day": 5.6,
+      "hit_pct": 89.3,
+      "pinnacle_prob_avg": 84.3,
+      "at_pinnacle_close": {
+       "n": 168,
+       "roi_pct": -1.94,
+       "avg_odds": 1.1
+      },
+      "at_best_estonian_close": {
+       "n": 151,
+       "roi_pct": 2.45,
+       "avg_odds": 1.154
+      }
+     },
+     "model_agrees": {
+      "n": 22,
+      "per_day": 0.7,
+      "hit_pct": 86.4,
+      "pinnacle_prob_avg": 84.4,
+      "at_pinnacle_close": {
+       "n": 22,
+       "roi_pct": -5.18,
+       "avg_odds": 1.102
+      },
+      "at_best_estonian_close": {
+       "n": 22,
+       "roi_pct": -3.68,
+       "avg_odds": 1.118
+      }
+     },
+     "price_beats_fair": {
+      "n": 14,
+      "per_day": 0.5,
+      "hit_pct": 92.9,
+      "pinnacle_prob_avg": 84.3,
+      "at_pinnacle_close": {
+       "n": 14,
+       "roi_pct": 5.07,
+       "avg_odds": 1.13
+      },
+      "at_best_estonian_close": {
+       "n": 14,
+       "roi_pct": 36.29,
+       "avg_odds": 1.541
+      }
+     },
+     "model_and_price": {
+      "n": 1,
+      "per_day": 0.0,
+      "hit_pct": 100.0,
+      "pinnacle_prob_avg": 85.1,
+      "at_pinnacle_close": {
+       "n": 1,
+       "roi_pct": 13.0,
+       "avg_odds": 1.13
+      },
+      "at_best_estonian_close": {
+       "n": 1,
+       "roi_pct": 18.0,
+       "avg_odds": 1.18
+      }
+     }
+    },
+    ">=85%": {
+     "consensus": {
+      "n": 52,
+      "per_day": 1.7,
+      "hit_pct": 94.2,
+      "pinnacle_prob_avg": 88.7,
+      "at_pinnacle_close": {
+       "n": 52,
+       "roi_pct": -0.17,
+       "avg_odds": 1.06
+      },
+      "at_best_estonian_close": {
+       "n": 48,
+       "roi_pct": 2.15,
+       "avg_odds": 1.09
+      }
+     },
+     "model_agrees": {
+      "n": 7,
+      "per_day": 0.2,
+      "hit_pct": 85.7,
+      "pinnacle_prob_avg": 88.9,
+      "at_pinnacle_close": {
+       "n": 7,
+       "roi_pct": -9.14,
+       "avg_odds": 1.066
+      },
+      "at_best_estonian_close": {
+       "n": 7,
+       "roi_pct": -8.0,
+       "avg_odds": 1.081
+      }
+     },
+     "price_beats_fair": {
+      "n": 4,
+      "per_day": 0.1,
+      "hit_pct": 100.0,
+      "pinnacle_prob_avg": 86.7,
+      "at_pinnacle_close": {
+       "n": 4,
+       "roi_pct": 9.0,
+       "avg_odds": 1.09
+      },
+      "at_best_estonian_close": {
+       "n": 4,
+       "roi_pct": 30.75,
+       "avg_odds": 1.308
+      }
+     },
+     "model_and_price": {
+      "n": 1,
+      "per_day": 0.0,
+      "hit_pct": 100.0,
+      "pinnacle_prob_avg": 85.1,
+      "at_pinnacle_close": {
+       "n": 1,
+       "roi_pct": 13.0,
+       "avg_odds": 1.13
+      },
+      "at_best_estonian_close": {
+       "n": 1,
+       "roi_pct": 18.0,
+       "avg_odds": 1.18
+      }
+     }
+    },
+    ">=90%": {
+     "consensus": {
+      "n": 15,
+      "per_day": 0.5,
+      "hit_pct": 93.3,
+      "pinnacle_prob_avg": 91.7,
+      "at_pinnacle_close": {
+       "n": 15,
+       "roi_pct": -3.87,
+       "avg_odds": 1.03
+      },
+      "at_best_estonian_close": {
+       "n": 14,
+       "roi_pct": -3.64,
+       "avg_odds": 1.037
+      }
+     },
+     "model_agrees": {
+      "n": 3,
+      "per_day": 0.1,
+      "hit_pct": 100.0,
+      "pinnacle_prob_avg": 91.8,
+      "at_pinnacle_close": {
+       "n": 3,
+       "roi_pct": 3.33,
+       "avg_odds": 1.033
+      },
+      "at_best_estonian_close": {
+       "n": 3,
+       "roi_pct": 4.33,
+       "avg_odds": 1.043
+      }
+     },
+     "price_beats_fair": null,
+     "model_and_price": null
+    }
+   }
+  }
+ }
+}
