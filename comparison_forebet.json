@@ -1,13 +1,13 @@
 {
   "source": "Forebet",
   "source_url": "https://www.forebet.com/en/football-predictions/predictions-1x2/<date>  (and /under-over-25-goals/<date>)",
-  "snapshot_at_utc": "2026-09-25T07:23:39+00:00",
+  "snapshot_at_utc": "2026-09-28T08:53:19+00:00",
   "window": {
     "start": "2026-05-04",
-    "end": "2026-09-26"
+    "end": "2026-09-29"
   },
   "data_through": "2026-09-18",
-  "data_age_days": 7,
+  "data_age_days": 10,
   "status": "ok",
   "min_sample_each_side": 50,
   "scope_notes": "1X2 highest-prob pick + OU 2.5 pick only, soccer, settled rows (Forebet's own predict_y/predict_no flag), 10 EUR flat stake. Coverage limited to ~last 38 days because Forebet date URLs older than that silently fall back to today. FOREBET-REPRICE-2026-09-02: their_stats is NOT Forebet's published ROI. Forebet's quoted odds are frequently unobtainable — see scripts/verify_forebet_odds_cross_source.py, which shows 9.5% of their picks claiming >1.5x the best price available anywhere against 0.7% for a third-party control, concentrated on winners (p=2.4e-06). their_stats therefore re-settles their own picks at the BEST closing price across our books — the most favourable realistic assumption for them — over the subset we can fixture-match. Their published figure is kept verbatim as their_stats_claimed_odds, and at_median_close / at_bet365_close in their_reprice show what an ordinary single account would get.",
@@ -18,6 +18,10 @@
     "hit_rate_pct": 50.09,
     "pnl_total": -319.2,
     "stake_total": 11220.0,
+    "window_start": "2026-05-25",
+    "window_end": "2026-09-18",
+    "ci_low_pct": -9.32,
+    "ci_high_pct": 3.63,
     "priced_at": "best closing price across our books",
     "n_total_picks": 1943,
     "coverage_pct": 57.7
@@ -41,28 +45,44 @@
       "roi_pct": 8.99,
       "hit_rate_pct": 50.09,
       "pnl_total": 1008.6,
-      "stake_total": 11220.0
+      "stake_total": 11220.0,
+      "window_start": "2026-05-25",
+      "window_end": "2026-09-18",
+      "ci_low_pct": 1.7,
+      "ci_high_pct": 16.28
     },
     "at_best_close": {
       "n": 1122,
       "roi_pct": -2.84,
       "hit_rate_pct": 50.09,
       "pnl_total": -319.2,
-      "stake_total": 11220.0
+      "stake_total": 11220.0,
+      "window_start": "2026-05-25",
+      "window_end": "2026-09-18",
+      "ci_low_pct": -9.32,
+      "ci_high_pct": 3.63
     },
     "at_median_close": {
       "n": 1122,
       "roi_pct": -7.59,
       "hit_rate_pct": 50.09,
       "pnl_total": -851.11,
-      "stake_total": 11220.0
+      "stake_total": 11220.0,
+      "window_start": "2026-05-25",
+      "window_end": "2026-09-18",
+      "ci_low_pct": -13.68,
+      "ci_high_pct": -1.49
     },
     "at_bet365_close": {
       "n": 1067,
       "roi_pct": -6.79,
       "hit_rate_pct": 50.14,
       "pnl_total": -724.7,
-      "stake_total": 10670.0
+      "stake_total": 10670.0,
+      "window_start": "2026-05-25",
+      "window_end": "2026-09-18",
+      "ci_low_pct": -13.08,
+      "ci_high_pct": -0.51
     }
   },
   "their_breakdown": {
@@ -132,18 +152,26 @@
     "not_settled": 61
   },
   "our_stats_same_window": {
-    "n": 445,
-    "stake_total": 4450.0,
-    "pnl_total": 417.52,
-    "roi_pct": 9.38,
-    "hit_rate_pct": 40.22,
-    "avg_odds": 2.894,
+    "n": 452,
+    "stake_total": 4520.0,
+    "pnl_total": 489.12,
+    "roi_pct": 10.82,
+    "hit_rate_pct": 40.49,
+    "avg_odds": 2.902,
     "priced_at": "best price live at pick time",
-    "n_total_settled": 449,
+    "n_total_settled": 456,
     "coverage_pct": 99.1,
-    "roi_pct_recorded": 14.59,
-    "roi_pct_recorded_all_rows": 14.29,
-    "hit_rate_pct_recorded_all_rows": 40.09,
+    "roi_pct_recorded": 15.95,
+    "roi_pct_recorded_all_rows": 15.64,
+    "hit_rate_pct_recorded_all_rows": 40.35,
     "restatement_note": "roi_pct is priced at odds that were live at pick time. roi_pct_recorded is the same bets at the stored odds_at_pick, which STALE-BEST-ODDS-2026-09-02 showed to be a high-water mark across the whole snapshot history rather than a price on offer."
+  },
+  "our_stats_matched_window": {
+    "n": 405,
+    "roi_pct": 9.19,
+    "ci_low_pct": -4.36,
+    "ci_high_pct": 22.75,
+    "window_start": "2026-05-25",
+    "window_end": "2026-09-18"
   }
 }
