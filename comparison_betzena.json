@@ -1,7 +1,7 @@
 {
  "source": "Betzena",
  "source_url": "https://www.betzena.com/<market>?date=<YYYY-MM-DD>  (free markets: over-1-5, double-chance, match-winner, over-0-5-ht, draw-specials, correct-score)",
- "snapshot_at_utc": "2026-09-28T09:48:00+00:00",
+ "snapshot_at_utc": "2026-09-28T09:59:41+00:00",
  "window": {
   "start": "2026-08-29",
   "end": "2026-09-27"
@@ -188,12 +188,12 @@
   "restatement_note": "roi_pct is priced at odds that were live at pick time. roi_pct_recorded is the same bets at the stored odds_at_pick, which STALE-BEST-ODDS-2026-09-02 showed to be a high-water mark across the whole snapshot history rather than a price on offer."
  },
  "our_stats_matched_window": {
-  "n": 165,
-  "roi_pct": 4.95,
-  "ci_low_pct": -17.78,
-  "ci_high_pct": 27.68,
+  "n": 40,
+  "roi_pct": 32.08,
+  "ci_low_pct": -19.63,
+  "ci_high_pct": 83.78,
   "window_start": "2026-08-29",
   "window_end": "2026-09-27",
-  "basis": "landing headline: bot_ledger public price, in_record, ACTIVE non-VIP bots (getHeadlineFlat)"
+  "basis": "landing headline: posted to the public channel before kick-off (bot_ledger_headline, #233), public price, ACTIVE non-VIP bots"
  }
 }
