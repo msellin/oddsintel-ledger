@@ -1,7 +1,7 @@
 {
   "source": "DeepBetting",
   "source_url": "https://deepbetting.io/dashboard/  (via /backend/api/predictions-api.php?type=stats)",
-  "snapshot_at_utc": "2026-09-28T08:52:50+00:00",
+  "snapshot_at_utc": "2026-09-28T18:57:20+00:00",
   "window": {
     "start": "2026-05-04",
     "end": "2026-09-29"
@@ -278,26 +278,27 @@
     "status_None": 3
   },
   "our_stats_same_window": {
-    "n": 452,
-    "stake_total": 4520.0,
-    "pnl_total": 489.12,
-    "roi_pct": 10.82,
-    "hit_rate_pct": 40.49,
+    "n": 453,
+    "stake_total": 4530.0,
+    "pnl_total": 479.12,
+    "roi_pct": 10.58,
+    "hit_rate_pct": 40.4,
     "avg_odds": 2.902,
     "priced_at": "best price live at pick time",
-    "n_total_settled": 456,
+    "n_total_settled": 457,
     "coverage_pct": 99.1,
-    "roi_pct_recorded": 15.95,
-    "roi_pct_recorded_all_rows": 15.64,
-    "hit_rate_pct_recorded_all_rows": 40.35,
+    "roi_pct_recorded": 15.69,
+    "roi_pct_recorded_all_rows": 15.39,
+    "hit_rate_pct_recorded_all_rows": 40.26,
     "restatement_note": "roi_pct is priced at odds that were live at pick time. roi_pct_recorded is the same bets at the stored odds_at_pick, which STALE-BEST-ODDS-2026-09-02 showed to be a high-water mark across the whole snapshot history rather than a price on offer."
   },
   "our_stats_matched_window": {
-    "n": 448,
-    "roi_pct": 9.45,
-    "ci_low_pct": -3.66,
-    "ci_high_pct": 22.57,
+    "n": 513,
+    "roi_pct": 12.16,
+    "ci_low_pct": -0.39,
+    "ci_high_pct": 24.71,
     "window_start": "2026-05-04",
-    "window_end": "2026-09-26"
+    "window_end": "2026-09-26",
+    "basis": "landing headline: every pick logged before kick-off (bot_ledger_headline, #235), public price, ACTIVE non-VIP bots"
   }
 }

@@ -1,4 +1,28 @@
 kickoff_date,league,home_team,away_team,market,oddsintel_pick,oddsintel_odds,oddsintel_result,forebet_pick,forebet_odds,forebet_result,signalodds_pick,signalodds_odds,signalodds_result
+2026-09-28,Prva Liga,OFK Bor 1919,Metalac GM,1x2,home,3.050,lost,,,,,,
+2026-09-27,,Vancouver Whitecaps FC,D.C. United,1x2,,,,,,,Vancouver Whitecaps FC,1.290,lost
+2026-09-27,,Tigres,Puebla,1x2,,,,,,,Tigres,1.650,won
+2026-09-27,,Santos Laguna,Pachuca,1x2,,,,,,,Pachuca,2.200,lost
+2026-09-27,Primera Nacional,Racing Cordoba,Godoy Cruz,1x2,home,3.250,lost,,,,,,
+2026-09-27,Serie C - Girone B,Perugia,Reggiana,1x2,home,3.510,won,,,,,,
+2026-09-27,Primera División Femenina,Athletic Club W,Atletico Madrid W,1x2,home,3.200,won,,,,,,
+2026-09-27,Primera División Femenina,Athletic Club W,Atletico Madrid W,1x2,home,3.850,won,,,,,,
+2026-09-26,,Tijuana,Atlas,1x2,,,,,,,Tijuana,2.140,lost
+2026-09-26,Division Intermedia,Tacuary,Benjamín Aceval,1x2,home,3.600,won,,,,,,
+2026-09-26,,Slovenia,Scotland,1x2,,,,,,,Slovenia,2.700,lost
+2026-09-26,,Shrewsbury Town,Colchester United,1x2,,,,,,,Shrewsbury Town,2.550,lost
+2026-09-26,,Rotherham United,Crewe Alexandra,1x2,,,,,,,Rotherham United,2.120,lost
+2026-09-26,Ligue 3,Quevilly,Amiens,1x2,home,3.680,lost,,,,,,
+2026-09-26,Segunda División,Celta de Vigo II,Sabadell,1x2,home,3.380,lost,,,,,,
+2026-09-26,Prva Liga,Borac Čačak,TSC Bačka Topola,1x2,home,3.400,lost,,,,,,
+2026-09-26,,AD Ceuta FC,Real Sociedad B,1x2,,,,,,,AD Ceuta FC,2.660,won
+2026-09-25,,TSV Havelse,SC Fortuna Köln,1x2,,,,,,,SC Fortuna Köln,2.280,won
+2026-09-25,,Sweden,Romania,1x2,,,,,,,Sweden,1.510,won
+2026-09-25,USL Championship,Sporting JAX,Loudoun United,1x2,home,3.250,lost,,,,,,
+2026-09-25,,Hungary,Ukraine,1x2,,,,,,,Hungary,2.400,lost
+2026-09-25,,Girona FC,Albacete,1x2,,,,,,,Girona FC,1.580,won
+2026-09-25,,Georgia,Northern Ireland,1x2,,,,,,,Georgia,1.910,lost
+2026-09-25,,Armenia,Latvia,1x2,,,,,,,Armenia,1.850,won
 2026-09-22,Non League Premier - Southern Central,Stratford Town,Bromsgrove Sporting,1x2,home,3.750,lost,,,,,,
 2026-09-21,Second League,Dobrudzha,CSKA Sofia II,1x2,home,3.400,lost,,,,,,
 2026-09-21,Primera C,Central Ballester,Central Cordoba,1x2,home,3.860,lost,,,,,,
@@ -371,7 +395,6 @@ kickoff_date,league,home_team,away_team,market,oddsintel_pick,oddsintel_odds,odd
 2026-08-19,,Celtic,LASK,1x2,,,,,,,Celtic,1.670,won
 2026-08-19,Cupa României,CS Afumati,FC Voluntari,1x2,home,4.200,lost,,,,,,
 2026-08-19,,Atlético Madrid,Málaga,1x2,,,,,,,Atlético Madrid,1.370,won
-2026-08-19,Copa Venezuela,Aragua FC,Fundación Lara Deportiva,1x2,home,2.760,lost,,,,,,
 2026-08-18,,Shanghai Shenhua FC,Beijing FC,1x2,,,,,,,Shanghai Shenhua FC,2.160,lost
 2026-08-18,Second League,Pirin Blagoevgrad,Hebar 1918,1x2,home,3.100,lost,,,,,,
 2026-08-18,,Pachuca,Puebla,1x2,,,,,,,Pachuca,1.620,lost
@@ -389,7 +412,6 @@ kickoff_date,league,home_team,away_team,market,oddsintel_pick,oddsintel_odds,odd
 2026-08-17,3. Division - Girone 2,Molde II,Rosenborg II,1x2,home,3.580,won,,,,,,
 2026-08-17,Eerste Divisie,Jong Ajax,Emmen,1x2,home,2.930,lost,,,,,,
 2026-08-17,,IF Gnistan,Ilves Tampere,1x2,,,,,,,IF Gnistan,2.620,won
-2026-08-17,Toto Cup Ligat Al,Hapoel Ramat Gan,Beitar Jerusalem,1x2,home,4.500,lost,,,,,,
 2026-08-17,Division Intermedia,3 de Noviembre,Atlético Tembetary,1x2,home,3.300,won,,,,,,
 2026-08-16,Primera B Metropolitana,UAI Urquiza,Deportivo Armenio,1x2,home,3.550,lost,,,,,,
 2026-08-16,,San Jose Earthquakes,St. Louis City SC,1x2,,,,,,,San Jose Earthquakes,2.210,lost
