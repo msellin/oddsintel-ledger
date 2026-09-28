@@ -11,7 +11,9 @@ prove the picks that were posted, but not every pick is posted. The seal covers 
 
 ## Files
 - `<date>/<batch>.jsonl` — the exact bytes that were hashed: one pick per line (bot, match, market,
-  selection, odds, pick time, kick-off).
+  selection, recorded odds, pick time, kick-off). Since `"format":2` (2026-09-28) each line also carries
+  `graded_odds` / `graded_basis`: the price the public record grades the pick at (best price available on
+  any publishable book at pick time), so that price is provably fixed before kick-off as well.
 - `<date>/<batch>.tsr` — the TSA's signed token over `sha256(<batch>.jsonl)`.
 - `index.json` — every batch with its sha256, TSA, TSA time and pick count.
 
