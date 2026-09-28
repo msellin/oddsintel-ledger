@@ -95,8 +95,12 @@ Take any row and:
 2. Confirm the final `score` against that public source.
 3. Apply the bet definition (`market` + `selection`) to the score to
    derive the result yourself — won/lost/void.
-4. Check `placed_at_utc < kickoff_utc` to confirm the bet was logged
-   pre-kickoff (no after-the-fact editing).
+4. Check `placed_at_utc < kickoff_utc` to confirm our database recorded the
+   bet pre-kickoff. That field is our own timestamp, so it is a consistency
+   check, not independent proof: the independent evidence that a pick existed
+   before kickoff is its Telegram channel post. The snapshot + OpenTimestamps
+   only prove the row has not changed since the night it was first published
+   (corrected 2026-09-28, #230).
 
 ## Why median CLV not mean?
 
