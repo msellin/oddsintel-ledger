@@ -1,7 +1,7 @@
 {
   "source": "DeepBetting",
   "source_url": "https://deepbetting.io/dashboard/  (via /backend/api/predictions-api.php?type=stats)",
-  "snapshot_at_utc": "2026-09-29T08:06:51+00:00",
+  "snapshot_at_utc": "2026-09-29T08:53:56+00:00",
   "window": {
     "start": "2026-05-04",
     "end": "2026-09-30"
