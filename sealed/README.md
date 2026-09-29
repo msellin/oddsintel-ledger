@@ -18,6 +18,10 @@ prove the picks that were posted, but not every pick is posted. The seal covers 
 - `index.json` — every batch with its sha256, TSA, TSA time and pick count.
 
 A batch is published only after **all** its matches have kicked off, so a pending pick is never revealed early.
+**VIP picks** (since 2026-09-29) are sealed the same way, in their own batches, and a VIP batch is published only
+once **every pick in it is settled and at least 6 hours after its last kick-off**. Its `index.json` entry carries
+`"vip": true`. That flag is only about *when* the file is published: it is not inside the sealed lines, because the
+seal proves a pick's facts were fixed before kick-off — not which record or tier the pick belongs to.
 
 ## Verify a pick yourself
 ```bash
