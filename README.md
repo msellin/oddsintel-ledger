@@ -111,8 +111,7 @@ sub-optimal snap. Those produce outlier CLV values (±50%+) that wildly
 swing the mean.
 
 Median is robust to this. As of the
-[CLOSING-LINE-COVERAGE](https://github.com/msellin/odds-intel-engine/commit/f5c0c94)
-fix landing 2026-06-24, every imminent match (T-15 → T+5) now gets a
+CLOSING-LINE-COVERAGE fix (engine commit `f5c0c94`) landing 2026-06-24, every imminent match (T-15 → T+5) now gets a
 fresh per-fixture Pinnacle snap every 5 minutes, so the noise tail will
 decay over the coming weeks and the mean will become trustworthy again.
 Until then: **median is the publishable number.**
@@ -122,8 +121,12 @@ Until then: **median is the publishable number.**
 The bet-row schema is intentionally narrow — no model-internal scores,
 no calibrated probabilities, no signal weights. That's by design: this
 ledger is for external verification of outcomes, not for replicating
-the model. If you want the inputs, train your own model on public data
-or read the [open-source engine](https://github.com/msellin/odds-intel-engine).
+the model. If you want the inputs, train your own model on public data.
+The engine's source is private since 2026-09-29; this ledger is published separately at
+[github.com/msellin/oddsintel-ledger](https://github.com/msellin/oddsintel-ledger), mirrored
+from the engine after every change, and every file in it can be checked without our code
+(`ots verify <file>` for the nightly snapshots, the RFC 3161 tokens in `sealed/` with openssl
+or oddsintel.app/verify).
 
 If we have to evolve the schema, additive-only changes will land in a
 new field; we will not silently rename or remove fields.
