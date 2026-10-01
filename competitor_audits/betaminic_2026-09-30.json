@@ -4,7 +4,7 @@
  "name": "Betaminic",
  "slug": "betaminic-review",
  "url": "https://www.betaminic.com/shootingbets/results/",
- "generated_at": "2026-10-01T10:51:52+00:00",
+ "generated_at": "2026-10-01T11:12:26+00:00",
  "prereg": {
   "path": "ops/price-check/betaminic.yml",
   "logged_at": "2026-10-01T10:40:24Z",
@@ -19,13 +19,15 @@
   ],
   "dropped": [
    {
-    "what": "price_check (added after the first run, see `added`)",
+    "what": "the price check (added after the first run)",
     "when": "2026-10-01T11:15Z",
-    "why": "it needs every price a book offered before kick-off; odds retention keeps ~3 rows per series after 7 days, so for a September window the highest price offered is unknowable (the first attempt compared with the last pre-kick-off price, which is a closing-line comparison, not a reachability test). Runs on windows we capture live (Forebet)."
+    "why": "it needs every price a bookmaker offered before kick-off, and our stored prices for a September window are no longer complete (internal note: odds retention keeps ~3 rows per series after 7 days; the first attempt compared with the last pre-kick-off price, a closing-line comparison, not a reachability test)",
+    "public": "it needs every price a bookmaker offered before kick-off, and our stored prices for this window are no longer complete"
    },
    {
     "what": "Spread (Asian handicap) picks",
-    "why": "no Asian-handicap close pricing or settlement in the shared audit v1; counted and printed as excluded"
+    "why": "no Asian-handicap close pricing or settlement in the shared audit v1; counted and printed as excluded",
+    "public": "our audit does not price or grade Asian handicaps yet"
    }
   ]
  },
@@ -44,7 +46,8 @@
  },
  "sample": {
   "picks_read": 1067,
-  "graded": 526,
+  "graded": 939,
+  "graded_busy": 894,
   "excluded_untested": {
    "Spread +0.5": 29,
    "Spread +1.5": 8,
@@ -65,7 +68,23 @@
  "markets": {
   "1x2": {
    "label": "Match result (1X2)",
+   "own_basis": "all_picks",
+   "greyed_unmatched": false,
    "own": {
+    "n": 894,
+    "won": 409,
+    "win_rate": 45.75,
+    "avg_odds": 2.941,
+    "breakeven": 39.12,
+    "return_pct": 19.74,
+    "range": [
+     10.64,
+     29.49
+    ],
+    "range_note": null,
+    "too_few": false
+   },
+   "own_matched": {
     "n": 481,
     "won": 210,
     "win_rate": 43.66,
@@ -87,172 +106,158 @@
    "pnl": [
     [
      "2026-09-01",
-     -1.45,
-     6
+     0.9,
+     9
     ],
     [
      "2026-09-02",
-     2.48,
-     15
+     13.5,
+     27
     ],
     [
      "2026-09-03",
-     10.73,
-     26
+     20.7,
+     47
     ],
     [
      "2026-09-04",
-     10.98,
-     40
+     21.4,
+     79
     ],
     [
      "2026-09-05",
-     7.38,
-     68
-    ],
-    [
-     "2026-09-06",
-     21.28,
-     90
-    ],
-    [
-     "2026-09-07",
-     33.64,
-     99
-    ],
-    [
-     "2026-09-08",
-     32.49,
-     106
-    ],
-    [
-     "2026-09-09",
-     39.35,
+     17.69,
      125
     ],
     [
+     "2026-09-06",
+     42.55,
+     176
+    ],
+    [
+     "2026-09-07",
+     57.21,
+     191
+    ],
+    [
+     "2026-09-08",
+     58.06,
+     205
+    ],
+    [
+     "2026-09-09",
+     70.1,
+     241
+    ],
+    [
      "2026-09-10",
-     34.3,
-     134
+     68.83,
+     262
     ],
     [
      "2026-09-11",
-     30.3,
-     141
+     66.43,
+     286
     ],
     [
      "2026-09-12",
-     42.83,
-     197
-    ],
-    [
-     "2026-09-13",
-     25.3,
-     253
-    ],
-    [
-     "2026-09-14",
-     27.3,
-     259
-    ],
-    [
-     "2026-09-15",
-     24.05,
-     264
-    ],
-    [
-     "2026-09-16",
-     22.28,
-     274
-    ],
-    [
-     "2026-09-17",
-     23.98,
-     281
-    ],
-    [
-     "2026-09-18",
-     20.76,
-     290
-    ],
-    [
-     "2026-09-19",
-     28.82,
-     325
-    ],
-    [
-     "2026-09-20",
-     34.08,
-     354
-    ],
-    [
-     "2026-09-21",
-     41.16,
-     364
-    ],
-    [
-     "2026-09-22",
-     43.26,
-     372
-    ],
-    [
-     "2026-09-23",
-     44.66,
+     97.45,
      381
     ],
     [
+     "2026-09-13",
+     98.31,
+     478
+    ],
+    [
+     "2026-09-14",
+     99.81,
+     489
+    ],
+    [
+     "2026-09-15",
+     89.26,
+     506
+    ],
+    [
+     "2026-09-16",
+     88.23,
+     528
+    ],
+    [
+     "2026-09-17",
+     100.3,
+     541
+    ],
+    [
+     "2026-09-18",
+     105.48,
+     557
+    ],
+    [
+     "2026-09-19",
+     112.5,
+     621
+    ],
+    [
+     "2026-09-20",
+     125.81,
+     671
+    ],
+    [
+     "2026-09-21",
+     136.51,
+     684
+    ],
+    [
+     "2026-09-22",
+     140.86,
+     700
+    ],
+    [
+     "2026-09-23",
+     140.36,
+     713
+    ],
+    [
      "2026-09-24",
-     46.76,
-     383
+     144.46,
+     723
     ],
     [
      "2026-09-25",
-     50.14,
-     393
+     152.84,
+     738
     ],
     [
      "2026-09-26",
-     50.03,
-     432
+     153.18,
+     798
     ],
     [
      "2026-09-27",
-     58.92,
-     462
+     167.21,
+     855
     ],
     [
      "2026-09-28",
-     62.97,
-     468
+     169.06,
+     866
     ],
     [
      "2026-09-29",
-     61.69,
-     473
+     171.16,
+     879
     ],
     [
      "2026-09-30",
-     58.96,
-     481
+     176.5,
+     894
     ]
    ],
    "price_check": {
     "n": 0,
-    "skipped": "window older than odds retention; prices before kick-off no longer complete"
-   },
-   "own_incl_unmatched": {
-    "n": 894,
-    "won": 409,
-    "win_rate": 45.75,
-    "avg_odds": 2.941,
-    "breakeven": 39.12,
-    "return_pct": 19.74,
-    "range": [
-     10.64,
-     29.49
-    ],
-    "range_note": null,
-    "too_few": false
+    "skipped": "this window is older than our odds retention (7 days), so the prices offered before kick-off are no longer complete"
    },
    "own_unmatched_only": {
     "n": 413,
@@ -329,11 +334,30 @@
     "our_win_rate": 43.66,
     "agree_pct": 97.51
    },
-   "bonferroni": null
+   "bonferroni": [
+    10.64,
+    29.49
+   ]
   },
   "over_under_25": {
    "label": "Over/Under 2.5 goals",
+   "own_basis": "matched",
+   "greyed_unmatched": true,
    "own": {
+    "n": 43,
+    "won": 27,
+    "win_rate": 62.79,
+    "avg_odds": 2.422,
+    "breakeven": 43.48,
+    "return_pct": 44.23,
+    "range": [
+     13.61,
+     72.31
+    ],
+    "range_note": null,
+    "too_few": true
+   },
+   "own_matched": {
     "n": 43,
     "won": 27,
     "win_rate": 62.79,
@@ -466,21 +490,7 @@
    ],
    "price_check": {
     "n": 0,
-    "skipped": "window older than odds retention; prices before kick-off no longer complete"
-   },
-   "own_incl_unmatched": {
-    "n": 87,
-    "won": 45,
-    "win_rate": 51.72,
-    "avg_odds": 2.43,
-    "breakeven": 43.19,
-    "return_pct": 21.57,
-    "range": [
-     -0.71,
-     42.37
-    ],
-    "range_note": null,
-    "too_few": true
+    "skipped": "this window is older than our odds retention (7 days), so the prices offered before kick-off are no longer complete"
    },
    "own_unmatched_only": {
     "n": 44,
@@ -561,7 +571,20 @@
   },
   "over_under_15": {
    "label": "Over/Under 1.5 goals",
+   "own_basis": "matched",
+   "greyed_unmatched": false,
    "own": {
+    "n": 2,
+    "won": 2,
+    "win_rate": 100.0,
+    "avg_odds": 3.415,
+    "breakeven": 41.17,
+    "return_pct": 241.5,
+    "range": null,
+    "range_note": "no losses in n; range not meaningful",
+    "too_few": true
+   },
+   "own_matched": {
     "n": 2,
     "won": 2,
     "win_rate": 100.0,
@@ -591,18 +614,7 @@
    ],
    "price_check": {
     "n": 0,
-    "skipped": "window older than odds retention; prices before kick-off no longer complete"
-   },
-   "own_incl_unmatched": {
-    "n": 2,
-    "won": 2,
-    "win_rate": 100.0,
-    "avg_odds": 3.415,
-    "breakeven": 41.17,
-    "return_pct": 241.5,
-    "range": null,
-    "range_note": "no losses in n; range not meaningful",
-    "too_few": true
+    "skipped": "this window is older than our odds retention (7 days), so the prices offered before kick-off are no longer complete"
    },
    "own_unmatched_only": {
     "n": 0
@@ -666,7 +678,12 @@
   },
   "over_under_35": {
    "label": "Over/Under 3.5 goals",
+   "own_basis": "matched",
+   "greyed_unmatched": true,
    "own": {
+    "n": 0
+   },
+   "own_matched": {
     "n": 0
    },
    "n_void": 0,
@@ -677,21 +694,7 @@
    "pnl": [],
    "price_check": {
     "n": 0,
-    "skipped": "window older than odds retention; prices before kick-off no longer complete"
-   },
-   "own_incl_unmatched": {
-    "n": 2,
-    "won": 1,
-    "win_rate": 50.0,
-    "avg_odds": 2.225,
-    "breakeven": 45.09,
-    "return_pct": 5.0,
-    "range": [
-     -100.0,
-     110.0
-    ],
-    "range_note": null,
-    "too_few": true
+    "skipped": "this window is older than our odds retention (7 days), so the prices offered before kick-off are no longer complete"
    },
    "own_unmatched_only": {
     "n": 2,
@@ -729,71 +732,73 @@
    "bonferroni": null
   }
  },
- "busy_markets": [],
+ "busy_markets": [
+  "1x2"
+ ],
  "pooled": {
   "own": {
-   "n": 526,
-   "won": 239,
-   "win_rate": 45.44,
-   "avg_odds": 2.876,
-   "breakeven": 39.71,
-   "return_pct": 15.74,
+   "n": 894,
+   "won": 409,
+   "win_rate": 45.75,
+   "avg_odds": 2.941,
+   "breakeven": 39.12,
+   "return_pct": 19.74,
    "range": [
-    1.25,
-    29.67
+    10.64,
+    29.49
    ],
    "range_note": null,
    "too_few": false
   },
   "pinnacle": {
-   "n": 291,
-   "won": 142,
-   "win_rate": 48.8,
-   "avg_odds": 2.401,
-   "breakeven": 45.44,
-   "return_pct": 8.12,
+   "n": 260,
+   "won": 121,
+   "win_rate": 46.54,
+   "avg_odds": 2.447,
+   "breakeven": 44.75,
+   "return_pct": 4.91,
    "range": [
-    -6.43,
-    22.61
+    -9.54,
+    20.12
    ],
    "range_note": null,
    "too_few": true
   },
   "clv": {
-   "n": 291,
-   "mean_pct": 6.38,
+   "n": 260,
+   "mean_pct": 6.32,
    "range": [
-    3.2,
-    9.23
+    2.79,
+    9.24
    ],
-   "share_beating_pct": 68.0
+   "share_beating_pct": 68.5
   }
  },
  "scorecard": {
   "shows_odds": "yes",
-  "shows_pl": "untested",
-  "profitable": "untested",
-  "profitable_k": 0,
+  "shows_pl": "yes",
+  "profitable": "yes",
+  "profitable_k": 1,
   "beats_close": "unreliable",
-  "beats_rule": "untested",
-  "record_matches": "untested",
+  "beats_rule": "yes",
+  "record_matches": "yes",
   "proof_grade": "C"
  },
  "tiles": [
   {
-   "value": "526",
-   "label": "picks tested"
+   "value": "894",
+   "label": "picks tested, Match result (1X2)"
   },
   {
-   "value": "—",
-   "label": "its headline claim"
+   "value": "11.4%",
+   "label": "its claimed soccer yield (28,213 bets)"
   },
   {
-   "value": "+15.7%",
+   "value": "+19.7%",
    "label": "return at its own odds"
   },
   {
-   "value": "+8.1%",
+   "value": "+4.9%",
    "label": "at Pinnacle's close; CLV unreliable (grade C)"
   }
  ],
@@ -963,5 +968,35 @@
    }
   }
  },
- "claims": []
+ "claims": [
+  {
+   "quote": "Telegram alerts for valuable odds before they drop.",
+   "url": "https://www.betaminic.com/shootingbets/",
+   "read_on": "2026-10-01",
+   "measures": "clv"
+  },
+  {
+   "quote": "Historical results are based on Bet365 odds at the time of the alert being submitted.",
+   "url": "https://www.betaminic.com/shootingbets/results/",
+   "read_on": "2026-10-01",
+   "measures": "capture"
+  },
+  {
+   "quote": "They are only included in the results if the Bet365 odds are above the recommended minimum odds.",
+   "url": "https://www.betaminic.com/shootingbets/results/",
+   "read_on": "2026-10-01",
+   "measures": "sample"
+  },
+  {
+   "quote": "Soccer 28,213 bets, yield 11.38",
+   "url": "https://www.betaminic.com/shootingbets/results/",
+   "read_on": "2026-10-01",
+   "measures": "own_odds"
+  }
+ ],
+ "facts": {
+  "shows_pl": "yes",
+  "price": "not shown on its public pages; a free start through its Telegram bot (@ShootingBetsBot)",
+  "product": "Telegram alerts when sharp odds drop, to bet at slower bookmakers (Bet365 as the reference) before they follow"
+ }
 }
