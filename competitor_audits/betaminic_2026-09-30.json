@@ -4,7 +4,7 @@
  "name": "Betaminic",
  "slug": "betaminic-review",
  "url": "https://www.betaminic.com/shootingbets/results/",
- "generated_at": "2026-10-01T14:46:54+00:00",
+ "generated_at": "2026-10-01T15:30:57+00:00",
  "prereg": {
   "path": "ops/price-check/betaminic.yml",
   "logged_at": "2026-10-01T10:40:24Z",
@@ -104,7 +104,7 @@
      27.86
     ],
     "range_note": null,
-    "too_few": true
+    "too_few": false
    },
    "n_void": 0,
    "n_ungraded": 0,
@@ -279,7 +279,7 @@
      37.88
     ],
     "range_note": null,
-    "too_few": true
+    "too_few": false
    },
    "pinnacle": {
     "n": 245,
