@@ -4,7 +4,7 @@
  "name": "Betaminic",
  "slug": "betaminic-review",
  "url": "https://www.betaminic.com/shootingbets/results/",
- "generated_at": "2026-10-01T11:36:16+00:00",
+ "generated_at": "2026-10-01T14:46:54+00:00",
  "prereg": {
   "path": "ops/price-check/betaminic.yml",
   "logged_at": "2026-10-01T10:40:24Z",
@@ -54,14 +54,14 @@
   "site_graded_unmatched": 479,
   "excluded_untested": {
    "Spread +0.5": 29,
+   "Spread -3.5": 4,
    "Spread +1.5": 8,
-   "Spread +2.5": 1,
    "Spread -2.5": 7,
    "Spread -0.5": 7,
    "Spread -1.5": 3,
-   "Spread -3.5": 4,
+   "Spread -5.5": 1,
    "Totals 4.5": 2,
-   "Spread -5.5": 1
+   "Spread +2.5": 1
   },
   "unmatched": {
    "over_under_25": 47,
@@ -86,8 +86,8 @@
     "breakeven": 39.12,
     "return_pct": 18.92,
     "range": [
-     10.46,
-     28.08
+     10.76,
+     28.52
     ],
     "range_note": null,
     "too_few": false
@@ -100,8 +100,8 @@
     "breakeven": 39.21,
     "return_pct": 12.47,
     "range": [
-     -2.49,
-     27.44
+     -2.97,
+     27.86
     ],
     "range_note": null,
     "too_few": true
@@ -275,8 +275,8 @@
     "breakeven": 39.01,
     "return_pct": 25.81,
     "range": [
-     14.08,
-     37.83
+     15.33,
+     37.88
     ],
     "range_note": null,
     "too_few": true
@@ -289,19 +289,19 @@
     "breakeven": 44.76,
     "return_pct": 4.96,
     "range": [
-     -9.56,
-     20.25
+     -9.93,
+     21.11
     ],
     "range_note": null,
     "too_few": true,
-    "coverage_pct": 53.0
+    "coverage_pct": 27.4
    },
    "clv": {
     "n": 245,
     "mean_pct": 6.81,
     "range": [
-     3.54,
-     9.74
+     3.45,
+     10.0
     ],
     "share_beating_pct": 69.8
    },
@@ -314,8 +314,8 @@
      "breakeven": 44.76,
      "return_pct": 4.96,
      "range": [
-      -9.56,
-      20.25
+      -9.93,
+      21.11
      ],
      "range_note": null,
      "too_few": true
@@ -328,8 +328,8 @@
      "breakeven": 88.59,
      "return_pct": -4.71,
      "range": [
-      -11.43,
-      1.95
+      -11.59,
+      2.06
      ],
      "range_note": null,
      "too_few": true
@@ -343,8 +343,8 @@
     "agree_pct": 100.0
    },
    "bonferroni": [
-    10.46,
-    28.08
+    10.76,
+    28.52
    ]
   },
   "over_under_25": {
@@ -359,8 +359,8 @@
     "breakeven": 43.19,
     "return_pct": 28.01,
     "range": [
-     7.44,
-     48.04
+     7.2,
+     47.91
     ],
     "range_note": null,
     "too_few": true
@@ -373,8 +373,8 @@
     "breakeven": 44.16,
     "return_pct": 46.55,
     "range": [
-     17.76,
-     74.59
+     15.39,
+     72.91
     ],
     "range_note": null,
     "too_few": true
@@ -533,8 +533,8 @@
     "breakeven": 42.36,
     "return_pct": 12.23,
     "range": [
-     -19.43,
-     42.58
+     -19.95,
+     42.33
     ],
     "range_note": null,
     "too_few": true
@@ -547,19 +547,19 @@
     "breakeven": 50.83,
     "return_pct": 39.58,
     "range": [
-     9.76,
-     65.62
+     8.71,
+     66.29
     ],
     "range_note": null,
     "too_few": true,
-    "coverage_pct": 65.0
+    "coverage_pct": 29.9
    },
    "clv": {
     "n": 26,
     "mean_pct": 1.15,
     "range": [
-     -2.45,
-     4.39
+     -2.47,
+     4.2
     ],
     "share_beating_pct": 57.7
    },
@@ -572,8 +572,8 @@
      "breakeven": 50.83,
      "return_pct": 39.58,
      "range": [
-      9.76,
-      65.62
+      8.71,
+      66.29
      ],
      "range_note": null,
      "too_few": true
@@ -586,8 +586,8 @@
      "breakeven": 77.76,
      "return_pct": -9.88,
      "range": [
-      -35.63,
-      12.61
+      -35.08,
+      12.15
      ],
      "range_note": null,
      "too_few": true
@@ -775,8 +775,8 @@
    "breakeven": 39.12,
    "return_pct": 18.92,
    "range": [
-    10.46,
-    28.08
+    10.76,
+    28.52
    ],
    "range_note": null,
    "too_few": false
@@ -789,8 +789,8 @@
    "breakeven": 44.76,
    "return_pct": 4.96,
    "range": [
-    -9.56,
-    20.25
+    -9.93,
+    21.11
    ],
    "range_note": null,
    "too_few": true
@@ -799,8 +799,8 @@
    "n": 245,
    "mean_pct": 6.81,
    "range": [
-    3.54,
-    9.74
+    3.45,
+    10.0
    ],
    "share_beating_pct": 69.8
   }
@@ -925,8 +925,8 @@
     "breakeven": 46.5,
     "return_pct": 4.56,
     "range": [
-     -5.63,
-     12.42
+     -5.29,
+     12.68
     ],
     "range_note": null,
     "too_few": false
@@ -939,8 +939,8 @@
     "breakeven": 50.08,
     "return_pct": -2.29,
     "range": [
-     -11.64,
-     5.07
+     -11.68,
+     5.23
     ],
     "range_note": null,
     "too_few": false,
@@ -950,8 +950,8 @@
     "n": 795,
     "mean_pct": 0.87,
     "range": [
-     -0.41,
-     2.0
+     -0.29,
+     2.03
     ],
     "share_beating_pct": 56.4
    }
@@ -968,8 +968,8 @@
     "breakeven": 44.77,
     "return_pct": 3.0,
     "range": [
-     -10.52,
-     16.43
+     -9.97,
+     16.16
     ],
     "range_note": null,
     "too_few": true
@@ -982,8 +982,8 @@
     "breakeven": 47.4,
     "return_pct": -2.95,
     "range": [
-     -14.71,
-     8.47
+     -13.93,
+     8.18
     ],
     "range_note": null,
     "too_few": true,
@@ -994,7 +994,7 @@
     "mean_pct": 0.13,
     "range": [
      -1.7,
-     1.83
+     1.81
     ],
     "share_beating_pct": 53.0
    }
