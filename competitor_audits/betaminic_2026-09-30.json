@@ -4,7 +4,7 @@
  "name": "Betaminic",
  "slug": "betaminic-review",
  "url": "https://www.betaminic.com/shootingbets/results/",
- "generated_at": "2026-10-01T11:25:39+00:00",
+ "generated_at": "2026-10-01T11:36:16+00:00",
  "prereg": {
   "path": "ops/price-check/betaminic.yml",
   "logged_at": "2026-10-01T10:40:24Z",
@@ -614,7 +614,7 @@
     "breakeven": 41.17,
     "return_pct": 241.5,
     "range": null,
-    "range_note": "no losses in n; range not meaningful",
+    "range_note": "no losses in 2 picks; range not meaningful",
     "too_few": true
    },
    "own_matched": {
@@ -625,7 +625,7 @@
     "breakeven": 41.17,
     "return_pct": 241.5,
     "range": null,
-    "range_note": "no losses in n; range not meaningful",
+    "range_note": "no losses in 2 picks; range not meaningful",
     "too_few": true
    },
    "n_void": 0,
@@ -660,17 +660,15 @@
     "breakeven": 58.09,
     "return_pct": 91.0,
     "range": null,
-    "range_note": "no losses in n; range not meaningful",
+    "range_note": "no losses in 2 picks; range not meaningful",
     "too_few": true,
     "coverage_pct": 100.0
    },
    "clv": {
     "n": 2,
     "mean_pct": 40.18,
-    "range": [
-     13.4,
-     66.97
-    ],
+    "range": null,
+    "range_note": "all 2 picks on one side of the close; range not meaningful",
     "share_beating_pct": 100.0
    },
    "baseline": {
@@ -682,7 +680,7 @@
      "breakeven": 58.09,
      "return_pct": 91.0,
      "range": null,
-     "range_note": "no losses in n; range not meaningful",
+     "range_note": "no losses in 2 picks; range not meaningful",
      "too_few": true
     },
     "rule": {
