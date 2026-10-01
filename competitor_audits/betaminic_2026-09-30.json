@@ -4,7 +4,7 @@
  "name": "Betaminic",
  "slug": "betaminic-review",
  "url": "https://www.betaminic.com/shootingbets/results/",
- "generated_at": "2026-10-01T11:12:26+00:00",
+ "generated_at": "2026-10-01T11:16:07+00:00",
  "prereg": {
   "path": "ops/price-check/betaminic.yml",
   "logged_at": "2026-10-01T10:40:24Z",
@@ -45,9 +45,13 @@
   "edited_after_ko": 0
  },
  "sample": {
-  "picks_read": 1067,
+  "picks_read": 1047,
   "graded": 939,
   "graded_busy": 894,
+  "voids": 0,
+  "ungraded": 0,
+  "unmatched_excluded": 46,
+  "site_graded_unmatched": 413,
   "excluded_untested": {
    "Spread +0.5": 29,
    "Spread +1.5": 8,
@@ -780,7 +784,7 @@
   "profitable": "yes",
   "profitable_k": 1,
   "beats_close": "unreliable",
-  "beats_rule": "yes",
+  "beats_rule": "untested",
   "record_matches": "yes",
   "proof_grade": "C"
  },
@@ -798,86 +802,87 @@
    "label": "return at its own odds"
   },
   {
-   "value": "+4.9%",
-   "label": "at Pinnacle's close; CLV unreliable (grade C)"
+   "value": "260",
+   "label": "of 894 picks had a Pinnacle close: too few to read against the close"
   }
  ],
  "example_day": {
-  "day": "2026-09-30",
-  "card_n": 8,
-  "card_won": 3,
+  "day": "2026-09-26",
+  "card_n": 39,
+  "card_won": 15,
+  "prominent_n": 1,
   "rows": [
    {
-    "league": "3. SNL - East",
-    "country": "Slovenia",
-    "home": "Dobrovce",
-    "away": "Hajdina",
+    "league": "Liga MX",
+    "country": "Mexico",
+    "home": "Cruz Azul",
+    "away": "Deportivo Toluca",
     "market": "1x2",
-    "site_selection": "Home",
-    "odds": 3.0,
-    "outcome": "lost",
-    "score": "0-3",
-    "pin": null
-   },
-   {
-    "league": "Division 2 - Norrland",
-    "country": "Sweden",
-    "home": "Umeaa Akademi",
-    "away": "IFK Umea",
-    "market": "1x2",
-    "site_selection": "Home",
-    "odds": 1.4,
-    "outcome": "won",
-    "score": "6-0",
-    "pin": null
-   },
-   {
-    "league": "First Amateur Division",
-    "country": "Belgium",
-    "home": "Harelbeke",
-    "away": "Hoogstraten VV",
-    "market": "1x2",
-    "site_selection": "Home",
-    "odds": 3.2,
+    "site_selection": "Away",
+    "odds": 1.85,
     "outcome": "lost",
     "score": "3-3",
-    "pin": 2.69
+    "pin": null
    },
    {
-    "league": "Friendlies",
-    "country": "World",
-    "home": "Seychelles",
-    "away": "Sri Lanka",
+    "league": "1. Liga Promotion",
+    "country": "Switzerland",
+    "home": "FC Zurich II",
+    "away": "Grand-Saconnex",
     "market": "1x2",
     "site_selection": "Away",
-    "odds": 2.3,
+    "odds": 1.7,
     "outcome": "won",
-    "score": "0-2",
-    "pin": 2.06
+    "score": "1-2",
+    "pin": 1.81
    },
    {
-    "league": "Liga Alef",
-    "country": "Israel",
-    "home": "Hapoel Bnei Musmus",
-    "away": "Maccabi Kiryat Ata-Bialik",
-    "market": "1x2",
-    "site_selection": "Away",
-    "odds": 1.75,
-    "outcome": "lost",
-    "score": "1-0",
-    "pin": 1.65
-   },
-   {
-    "league": "UEFA Europa Cup - Women",
-    "country": "World",
-    "home": "Malmo",
-    "away": "St. Polten",
+    "league": "1. Liga Promotion",
+    "country": "Switzerland",
+    "home": "Young Boys II",
+    "away": "Basel II",
     "market": "1x2",
     "site_selection": "Home",
-    "odds": 1.57,
+    "odds": 2.2,
+    "outcome": "lost",
+    "score": "0-2",
+    "pin": null
+   },
+   {
+    "league": "3. Division",
+    "country": "Denmark",
+    "home": "Holstebro",
+    "away": "Ishoj",
+    "market": "1x2",
+    "site_selection": "Away",
+    "odds": 3.25,
     "outcome": "won",
+    "score": "1-3",
+    "pin": 2.86
+   },
+   {
+    "league": "3. Division - Girone 1",
+    "country": "Norway",
+    "home": "Lokomotiv Oslo",
+    "away": "Gamle Oslo",
+    "market": "1x2",
+    "site_selection": "Home",
+    "odds": 4.33,
+    "outcome": "won",
+    "score": "4-1",
+    "pin": 3.44
+   },
+   {
+    "league": "3. Division - Girone 2",
+    "country": "Norway",
+    "home": "Byasen",
+    "away": "Orkla",
+    "market": "1x2",
+    "site_selection": "Away",
+    "odds": 7.0,
+    "outcome": "lost",
     "score": "3-0",
-    "pin": 1.43
+    "pin": 4.65
    }
   ]
  },
