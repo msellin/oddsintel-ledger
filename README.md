@@ -70,7 +70,7 @@ football model.
       "market": "1x2",
       "selection": "home",
       "placed_odds": 3.35,
-      "bookmaker": null,                   // recommended_bookmaker if set
+      "bookmaker": null,                   // the book's DISPLAY name if set (see note below)
       "placed_at_utc": "2026-05-04T04:27:01Z",
       "closing_odds": 3.15,
       "clv_any_pct": 6.35,                 // vs any-book close
@@ -130,3 +130,12 @@ or oddsintel.app/verify).
 
 If we have to evolve the schema, additive-only changes will land in a
 new field; we will not silently rename or remove fields.
+
+
+## Note — bookmaker names (2026-10-02)
+
+From the 2026-10-03 snapshot on, `bookmaker` reads `Other bookmaker` where it used to say `1xBet` or `Paripesa`.
+Those two brands are not named on our public surfaces while a legal question is open. Every other value is unchanged.
+Each snapshot holds every bet since 2026-05-04, so from 10-03 on the past rows of those two books read `Other bookmaker`
+too. The snapshots up to 2026-10-02 are unchanged: they are timestamped and anchored, and rewriting them would break
+their proofs. A row's price and result are identical in both forms.
