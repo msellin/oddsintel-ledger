@@ -139,3 +139,27 @@ Those two brands are not named on our public surfaces while a legal question is 
 Each snapshot holds every bet since 2026-05-04, so from 10-03 on the past rows of those two books read `Other bookmaker`
 too. The snapshots up to 2026-10-02 are unchanged: they are timestamped and anchored, and rewriting them would break
 their proofs. A row's price and result are identical in both forms.
+
+
+## Note — the ledger is the /performance headline; prices are checked (2026-10-03)
+
+From the first snapshot after 2026-10-03 the file holds exactly the picks and prices of the all-time figure on
+oddsintel.app/performance. Until then it selected only the strategies active on the day it was written, so when one
+was retired on 2026-10-02 its 472 earlier picks left the file (n 936 → 464) — the page had stopped doing that on
+2026-09-29. What changes per row (no field is removed or renamed):
+
+- **cohort**: every pick logged before kick-off while its strategy was Active, retired strategies included, plus the
+  sharp-line forward test (`source` = `sim` or `forward_test`, new field).
+- **`placed_odds`**: the best price on any publishable bookmaker at pick time (the page's price). A price more than
+  1.25× Pinnacle's at that moment that none of the other bookmakers then quoting came within 5 % of is re-graded at
+  the best price another bookmaker actually offered; `price_verdict` (`clean` / `phantom` / `unverifiable` / null =
+  not checked), `price_repriced` and `odds_public_as_recorded` (new fields) let you redo it.
+- **`price_basis`** now uses the page's vocabulary: `available` (all publishable books), `published` (forward test),
+  `recorded` (no quote stored at pick time), `our_books`.
+- **`stake`** is a flat 10 for every row and **`pnl`** is at `placed_odds` — the page's method. `pnl_stored` now holds
+  the same result in units (1 = one stake), no longer a Kelly-staked euro amount.
+- **`closing_odds`** and **`clv_any_pct`** are null; **`clv_pin_pct`** is the page's closing-line figure (the sharp
+  close: Pinnacle, else a 5+-bookmaker consensus).
+
+Snapshots up to 2026-10-03 are unchanged (timestamped and anchored). The dated restatement with its numbers is on
+oddsintel.app/record/corrections.
