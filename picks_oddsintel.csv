@@ -1,400 +1,891 @@
 source,kickoff_date,league,home_team,away_team,market,pick,odds,result,pnl_per_unit,ref_url
-oddsintel,2026-09-25,Second League,Tersana,Baladiyyat Al Mehalla,1x2,draw,2.800,won,1.8000,https://oddsintel.app/picks
-oddsintel,2026-09-25,UEFA U21 Championship - Qualification,Netherlands U21,Norway U21,1x2,home,1.860,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-25,UEFA Nations League,Poland,Bosnia & Herzegovina,1x2,home,1.720,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-25,UEFA Nations League,Sweden,Romania,1x2,home,1.520,won,0.5200,https://oddsintel.app/picks
-oddsintel,2026-09-25,Primera B Metropolitana,Ituzaingó,Defensores Unidos,1x2,draw,3.100,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-25,Division Intermedia,Independiente F.b.c.,Sportivo Carapeguá,1x2,draw,3.400,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-25,2. Division,HIK,Roskilde,1x2,away,1.530,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-25,Division Intermedia,General Caballero,3 de Noviembre,1x2,home,1.740,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-25,UEFA U21 Championship - Qualification,Estonia U21,Faroe Islands U21,1x2,away,2.480,won,1.4800,https://oddsintel.app/picks
-oddsintel,2026-09-25,Copa de la División Profesional,ABB,Aurora,1x2,away,2.250,won,1.2500,https://oddsintel.app/picks
-oddsintel,2026-09-25,Copa de la División Profesional,Nacional Potosí,Always Ready,1x2,home,2.200,won,1.2000,https://oddsintel.app/picks
-oddsintel,2026-09-25,Regionalliga - Nord,Schöningen,SV Drochtersen/Assel,1x2,away,1.780,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-25,COSAFA U20 Championship,Namibia U20,Mozambique U20,1x2,away,1.880,won,0.8800,https://oddsintel.app/picks
-oddsintel,2026-09-25,USL Super League,Lexington W,Dallas Trinity W,1x2,home,2.020,won,1.0200,https://oddsintel.app/picks
-oddsintel,2026-09-25,UEFA Nations League,Georgia,Northern Ireland,1x2,home,1.870,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-25,UEFA Nations League,Montenegro,Cyprus,1x2,home,1.850,won,0.8500,https://oddsintel.app/picks
-oddsintel,2026-09-25,3. Division - Girone 2,Aalesund II,Rosenborg II,1x2,away,1.950,won,0.9500,https://oddsintel.app/picks
-oddsintel,2026-09-25,UEFA U21 Championship - Qualification,Cyprus U21,Romania U21,1x2,away,1.450,won,0.4500,https://oddsintel.app/picks
-oddsintel,2026-09-25,UEFA Nations League,Türkiye,France,1x2,away,1.360,won,0.3600,https://oddsintel.app/picks
-oddsintel,2026-09-25,CONCACAF Nations League,Bermuda,Guadeloupe,1x2,home,2.450,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-25,Paulista - U20,São Paulo U20,EC São Bernardo U20,1x2,home,1.330,won,0.3300,https://oddsintel.app/picks
-oddsintel,2026-09-25,3. Division,FC Helsingor,Holbæk B&I,1x2,home,3.000,won,2.0000,https://oddsintel.app/picks
-oddsintel,2026-09-25,Serie B,Vila Nova,Londrina,1x2,home,1.690,won,0.6900,https://oddsintel.app/picks
-oddsintel,2026-09-25,Copa Chile,Colo Colo,A. Italiano,1x2,home,1.620,won,0.6200,https://oddsintel.app/picks
-oddsintel,2026-09-25,South American Youth Games,Paraguay U19,Argentina U19,1x2,home,2.700,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-25,Copa de la División Profesional,San Antonio Bulo Bulo,Real Potosí,1x2,home,2.100,won,1.1000,https://oddsintel.app/picks
-oddsintel,2026-09-25,Segunda División,Girona,Albacete,1x2,home,1.580,won,0.5800,https://oddsintel.app/picks
-oddsintel,2026-09-25,Serie B,Novorizontino,São Bernardo,1x2,home,1.570,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,J3 League,Fukushima United,Parceiro Nagano,1x2,home,2.200,won,1.2000,https://oddsintel.app/picks
-oddsintel,2026-09-26,III Liga - Group 3,Miedź Legnica II,Sparta Katowice,1x2,home,2.700,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Toppserien,Molde W,Vålerenga (W),1x2,away,1.530,won,0.5300,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. Division - Girone 1,Heming,Ullern,1x2,home,1.500,won,0.5000,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. Division - Girone 1,IF Ready,SF Grei,1x2,home,1.320,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Division 2 - Norrland,IFK Östersund,Boden,1x2,home,1.550,won,0.5498,https://oddsintel.app/picks
-oddsintel,2026-09-26,Women's Championship,Burnley W,Bristol City (W),1x2,away,1.800,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Division 2 - Norra Götaland,Kumla,Lidköping,1x2,away,2.850,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Division 2 - Södra Götaland,Karlshamn,Karlskrona,1x2,away,1.380,won,0.3800,https://oddsintel.app/picks
-oddsintel,2026-09-26,Division 2 - Södra Svealand,Fittja,Nacka Iliria,1x2,home,2.500,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Division 2 - Västra Götaland,Galtabacks,Astrio,1x2,home,1.600,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,2. Division,Brabrand,Nykobing FC,1x2,away,1.650,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Division 2 - Norrland,Skellefteå,Gottne,1x2,home,1.580,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Toppserien,Stabæk (W),Brann (W),1x2,away,1.350,won,0.3500,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. Division - Girone 4,Brodd,Vindbjart,1x2,away,2.250,won,1.2500,https://oddsintel.app/picks
-oddsintel,2026-09-26,Second League,Lokomotiv G. Oryahovitsa,Marek,1x2,draw,3.000,won,2.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Central Youth League,Arka Gdynia U19,Talent Warszawa U19,1x2,away,2.910,won,1.9100,https://oddsintel.app/picks
-oddsintel,2026-09-26,Division Intermedia,SOL DE America,Encarnación,1x2,home,1.800,won,0.8000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Elitettan,Husqvarna W,Gamla Upsala W,1x2,home,1.770,won,0.7700,https://oddsintel.app/picks
-oddsintel,2026-09-26,Division 2 - Södra Svealand,Rågsved,Örebro Syrianska,1x2,home,2.193,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Prva Liga,Borac Čačak,TSC Bačka Topola,1x2,home,2.700,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Super League Women,Zulte-Waregem W,Standard Liege W,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,FA Trophy,Cleethorpes Town,Lancaster City,1x2,home,1.800,won,0.8000,https://oddsintel.app/picks
-oddsintel,2026-09-26,FA Trophy,Gloucester City,Stafford Rangers,1x2,home,2.300,won,1.3000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Segunda División,Granada CF,FC Andorra,1x2,home,2.230,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. liga - CFL A,Jiskra Domažlice,České Budějovice,1x2,home,1.880,won,0.8800,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. Division - Girone 1,Union Carl Berner,Frigg,1x2,away,2.600,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,2. SNL,Triglav,Primorje,1x2,home,1.330,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Kakkonen - Lohko B,EBK,GrIFK,1x2,home,2.180,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Botola Pro,UTS Rabat,FUS Rabat,1x2,draw,2.900,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Botola 2,KAC Kenitra,Wydad Fès,1x2,draw,2.880,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Segunda División,Tenerife,Cadiz,1x2,home,2.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Super League Women,OH Leuven (W),Club Brugge (W),1x2,home,1.600,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Liga Pro Serie B,9 de Octubre,San Antonio,1x2,draw,3.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Botola 2,Yacoub El Mansour,Chabab Mohammédia,1x2,home,1.770,won,0.7700,https://oddsintel.app/picks
-oddsintel,2026-09-26,Primera Nacional,All Boys,Colon Santa Fe,1x2,draw,2.750,won,1.7500,https://oddsintel.app/picks
-oddsintel,2026-09-26,Copa Santa Catarina,Hercílio Luz,Nação,1x2,home,1.420,won,0.4200,https://oddsintel.app/picks
-oddsintel,2026-09-26,Primera B Metropolitana,Deportivo Laferrere,Sportivo Italiano,1x2,draw,3.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Copa Rio,Boavista SC,Nova Iguaçu,1x2,draw,3.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,U20 Elite League,Czechia U20,Switzerland U20,1x2,home,2.120,won,1.1200,https://oddsintel.app/picks
-oddsintel,2026-09-26,Ligue 2,Kerkennah,M'saken,1x2,home,1.920,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Botola Pro,Difaa EL Jadida,CODM Meknes,1x2,draw,3.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Persha Liga,UCSA,Viktoriya Mykolaivka,1x2,away,2.200,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. Division - Girone 4,Åkra,Madla,1x2,away,1.340,won,0.3400,https://oddsintel.app/picks
-oddsintel,2026-09-26,III Liga - Group 3,Górnik Polkowice,Odra Bytom Odrzański,1x2,home,2.050,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. Division - Girone 1,Vålerenga II,Bærum,1x2,away,1.790,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Regionalliga - West,Lustenau,SK St. Johann,1x2,away,1.840,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,FA Trophy,Hyde United,United of Manchester,1x2,home,2.190,won,1.1900,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. liga - CFL B,Velke Hamry,Sokol Brozany,1x2,away,2.250,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Júniores U19,Vizela U19,Academico Viseu U19,1x2,away,2.700,won,1.7000,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. Division - Girone 6,Råde,Lillehammer,1x2,away,2.700,won,1.7000,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. Division - Girone 6,Råde,Lillehammer,1x2,home,2.550,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Second NL,Solin,Trnje,1x2,home,2.500,won,1.5000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Premier League,Karela,Hearts of Oak,1x2,draw,2.900,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Frauenliga,First Vienna W,LASK W,1x2,home,1.950,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,1. Division Women,Odd W,Kolbotn W,1x2,home,2.100,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Esiliiga B,Tulevik,Tartu Kalev,1x2,home,2.000,won,1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Super Copa International,Estudiantes L.P.,Rosario Central,1x2,home,2.800,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Primera Premier,Cordobés,Zacatepec 1948,1x2,away,2.550,won,1.5500,https://oddsintel.app/picks
-oddsintel,2026-09-26,Segunda División RFEF - Group 2,Manresa,UD Logroñés II,1x2,away,2.700,won,1.7000,https://oddsintel.app/picks
-oddsintel,2026-09-26,FA Trophy,Bury,Gainsborough Trinity,1x2,home,1.730,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Ligue 2,Tiaret,Usm El Harrach,1x2,draw,2.900,won,1.9000,https://oddsintel.app/picks
-oddsintel,2026-09-26,UEFA Nations League,Iceland,Estonia,1x2,home,1.300,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,FA Trophy,Quorn,Leamington,1x2,home,2.420,won,1.4200,https://oddsintel.app/picks
-oddsintel,2026-09-26,UEFA Nations League,FYR Macedonia,Switzerland,1x2,away,1.450,won,0.4500,https://oddsintel.app/picks
-oddsintel,2026-09-26,Mineiro U20,Atlético Mineiro U20,Coimbra U20,1x2,home,1.500,won,0.5000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Damallsvenskan,Kristianstad W,Vittsjö W,1x2,home,1.747,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Primera Nacional,Deportivo Madryn,Central Norte,1x2,home,1.730,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,2. Lig,İnegöl Kafkas Gençlik,Kastamonuspor,1x2,home,1.620,won,0.6200,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. SNL - East,Fužinar,NK Ormoz,1x2,home,2.720,won,1.7200,https://oddsintel.app/picks
-oddsintel,2026-09-26,Challenge Cup,Formartine United,Edinburgh City,1x2,home,2.030,won,1.0300,https://oddsintel.app/picks
-oddsintel,2026-09-26,FAW Championship,Ynyshir Albions,Trethomas Bluebirds,1x2,home,2.500,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Primera División Femenina,Madrid CFF (W),Deportivo Alavés W,1x2,home,2.000,won,1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. Division - Girone 1,Lokomotiv Oslo,Gamle Oslo,1x2,away,1.540,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Eerste Divisie,FC Volendam,VVV Venlo,1x2,home,1.830,won,0.8300,https://oddsintel.app/picks
-oddsintel,2026-09-26,Eerste Divisie,MVV,Helmond Sport,1x2,home,2.120,won,1.1200,https://oddsintel.app/picks
-oddsintel,2026-09-26,UEFA Nations League,England,Spain,1x2,away,2.300,won,1.3000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Tweede Divisie,Kloetinge,ROHDA Raalte,1x2,home,1.570,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Major League Soccer,Philadelphia Union,Orlando City SC,1x2,home,1.500,won,0.5000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Liga MX,Guadalajara Chivas,Club Queretaro,1x2,home,1.540,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,UEFA Nations League,Albania,Belarus,1x2,home,1.580,won,0.5800,https://oddsintel.app/picks
-oddsintel,2026-09-26,2. Division - Group 1,Lysekloster,Sandviken,1x2,away,2.170,won,1.1700,https://oddsintel.app/picks
-oddsintel,2026-09-26,Segunda División RFEF - Group 4,Don Benito,Sanluqueño,1x2,home,2.050,won,1.0500,https://oddsintel.app/picks
-oddsintel,2026-09-26,FA Trophy,Leiston,Dartford,1x2,away,2.500,won,1.5000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Copa Chile,Nublense,D. Puerto Montt,1x2,home,1.750,won,0.7500,https://oddsintel.app/picks
-oddsintel,2026-09-26,Segunda División,AD Ceuta FC,Real Sociedad II,1x2,home,2.810,won,1.8100,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. Division - Girone 2,Herd,Kvik Trondheim,1x2,home,1.680,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,3. Division - Girone 2,Melhus,Spjelkavik,1x2,home,1.580,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Canadian Premier League,Vancouver FC,Forge,1x2,away,1.940,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Primera B Metropolitana,Talleres Remedios,San Martín Burzaco,1x2,home,1.860,won,0.8600,https://oddsintel.app/picks
-oddsintel,2026-09-26,4. liga - Divizie E,Holešov,Kozlovice,1x2,away,1.860,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Friendlies Clubs,Atletico Nacional,Chapecoense-sc,1x2,home,2.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,U19 Bundesliga,Werder Bremen U19,Hansa Rostock U19,1x2,home,1.440,won,0.4400,https://oddsintel.app/picks
-oddsintel,2026-09-26,USL League One,Portland Hearts of Pine,Sarasota Paradise,1x2,home,2.540,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Regionalliga - Nord,Eimsbütteler TV,HSC Hannover,1x2,home,2.250,won,1.2500,https://oddsintel.app/picks
-oddsintel,2026-09-26,Regionalliga - Nord,Hamburger SV II,Atlas Delmenhorst,1x2,away,2.650,won,1.6500,https://oddsintel.app/picks
-oddsintel,2026-09-26,Oberliga - Bayern Nord,Stadeln,Großbardorf,1x2,away,2.800,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,USL League One,Forward Madison,Spokane Velocity,1x2,home,2.090,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Challenge Cup,Cove Rangers,Aberdeen U21,1x2,home,1.750,won,0.7500,https://oddsintel.app/picks
-oddsintel,2026-09-26,Regionalliga - Bayern,Landsberg,Ansbach,1x2,home,2.400,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Segunda División,Oriental,Fenix,1x2,away,2.550,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Oberliga - Bremen,BTS Neustadt,Grohn,1x2,home,2.450,won,1.4500,https://oddsintel.app/picks
-oddsintel,2026-09-26,Regionalliga - Ost,Fach-Donaufeld,Gloggnitz,1x2,home,2.180,won,1.1800,https://oddsintel.app/picks
-oddsintel,2026-09-26,Toppserien,Rosenborg W,Fortuna Ålesund W,1x2,away,3.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Ligue 2,ASM Oran,WA Mostaganem,1x2,home,1.650,won,0.6500,https://oddsintel.app/picks
-oddsintel,2026-09-26,Ettan - Södra,Rosengård,Hässleholms IF,1x2,home,1.944,won,0.9439,https://oddsintel.app/picks
-oddsintel,2026-09-26,Regionalliga - West,Borussia Dortmund II,FC Bocholt,1x2,home,1.990,won,0.9900,https://oddsintel.app/picks
-oddsintel,2026-09-26,Ykkösliiga,JIPPO,PK-35,1x2,home,2.770,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Regionalliga - West,Schwaz,Dornbirn,1x2,away,2.140,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Second NL,Dugo Selo,Inter Zapresic,1x2,away,3.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,2. Division,B 93,Thisted FC,1x2,home,1.760,won,0.7600,https://oddsintel.app/picks
-oddsintel,2026-09-26,Primera B,Cobreloa,Santiago Wanderers,1x2,home,2.020,won,1.0200,https://oddsintel.app/picks
-oddsintel,2026-09-26,Eerste Divisie,Roda,Waalwijk,1x2,away,2.940,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Ligue 2,Nrb Beni Oulbene,CA Batna,1x2,draw,2.900,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Paulista - U20,Osasco Audax U20,Botafogo SP U20,1x2,away,2.450,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Kakkonen - Lohko C,JS Hercules,Vaajakoski,1x2,away,2.650,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,League One,Wycombe,Reading,1x2,home,2.940,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,League One,Plymouth,Burton Albion,1x2,home,1.550,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,League One,Stockport County,Peterborough,1x2,home,1.390,won,0.3900,https://oddsintel.app/picks
-oddsintel,2026-09-26,Kakkonen - Lohko B,Musa,NJS,1x2,home,1.450,won,0.4500,https://oddsintel.app/picks
-oddsintel,2026-09-30,Major League Soccer,New York Red Bulls,St. Louis City,1x2,away,2.020,won,1.0200,https://oddsintel.app/picks
-oddsintel,2026-09-26,Primera B Metropolitana,Talleres Remedios,San Martín Burzaco,1x2,draw,3.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Primera Premier,Deportiva Venados,Celaya,1x2,home,2.900,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,USL League One,Charlotte Independence,Fort Wayne,1x2,home,1.880,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,Ligue 3,Quevilly,Amiens,1x2,away,2.210,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-26,National League - National,Napier City Rovers,Miramar,1x2,home,2.050,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Damallsvenskan,Brommapojkarna W,Malmo FF (W),1x2,away,1.440,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Division 2 - Södra Svealand,Lindö FF,Eker Örebro,1x2,home,1.750,won,0.7495,https://oddsintel.app/picks
-oddsintel,2026-09-27,1. Liga Classic - Group 2,Münsingen,Muttenz,1x2,away,2.340,won,1.3400,https://oddsintel.app/picks
-oddsintel,2026-09-27,Derde Divisie,Groene Ster,Gemert,1x2,away,2.950,won,1.9500,https://oddsintel.app/picks
-oddsintel,2026-09-27,PFL,Stallion,Maharlika,1x2,home,1.560,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Regionalliga - Nord,Bremer SV,Weiche Flensburg,1x2,away,1.830,won,0.8300,https://oddsintel.app/picks
-oddsintel,2026-09-27,2. Division - Group 2,Levanger,Grorud,1x2,home,1.920,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Division 2 - Södra Svealand,Sleipner,Farsta,1x2,away,2.800,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,2. SNL,Jesenice,Dren Vrhnika,1x2,away,2.650,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Second League,Chernomorets 1919 Burgas,Montana,1x2,home,1.750,won,0.7500,https://oddsintel.app/picks
-oddsintel,2026-09-27,4. liga - Divizie A,Milevsko,Spartak Soběslav,1x2,away,1.650,won,0.6500,https://oddsintel.app/picks
-oddsintel,2026-09-27,4. liga - Divizie C,Kolín,Turnov,1x2,away,2.370,won,1.3700,https://oddsintel.app/picks
-oddsintel,2026-09-27,Botola 2,Chabab Ben Guerir,Riadi Salmi,1x2,draw,2.800,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Botola 2,USM Oujda,Mouloudia Oujda,1x2,draw,2.820,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Ligue 1,SOA,Stella,1x2,draw,2.900,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Major League Soccer,Nashville SC,Toronto FC,1x2,home,1.450,won,0.4500,https://oddsintel.app/picks
-oddsintel,2026-09-27,Major League Soccer,Houston Dynamo,Sporting Kansas City,1x2,home,1.650,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,NPFL,Kun Khalifat FC,Kwara United,1x2,home,1.850,won,0.8500,https://oddsintel.app/picks
-oddsintel,2026-09-27,Botola Pro,Kawkab Marrakech,Hassania Agadir,1x2,draw,2.950,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Serie D - Girone H,Nardò,Martina Franca,1x2,home,2.800,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Division Intermedia,Resistencia,Deportivo Santani,1x2,away,2.230,won,1.2300,https://oddsintel.app/picks
-oddsintel,2026-09-27,Major League Soccer,Vancouver Whitecaps,DC United,1x2,home,1.310,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Liga MX,Santos Laguna,CF Pachuca,1x2,away,2.650,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Premier League,Medeama,Basake Holy Stars,1x2,home,1.650,won,0.6500,https://oddsintel.app/picks
-oddsintel,2026-09-27,Premier League,Swedru All Blacks,Samartex,1x2,draw,2.950,won,1.9500,https://oddsintel.app/picks
-oddsintel,2026-09-27,Derde Divisie,UDI '19,Rijnvogels,1x2,away,2.220,won,1.2200,https://oddsintel.app/picks
-oddsintel,2026-09-27,Division 2 - Norra Götaland,Tord,Stenungsund,1x2,home,2.500,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Frauenliga,Sturm Graz W,Austria Wien W,1x2,away,1.780,won,0.7800,https://oddsintel.app/picks
-oddsintel,2026-09-27,3. Division - Girone 5,Strømsgodset II,Fløya,1x2,away,2.010,won,1.0100,https://oddsintel.app/picks
-oddsintel,2026-09-27,Serie C - Girone C,Scafatese,Team Altamura,1x2,home,1.920,won,0.9200,https://oddsintel.app/picks
-oddsintel,2026-09-27,World Cup - U20 - Women,Spain U20 W,Korea DPR U20 W,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,UEFA Nations League,Serbia,Netherlands,1x2,away,1.420,won,0.4200,https://oddsintel.app/picks
-oddsintel,2026-09-27,UEFA Nations League,Austria,Kosovo,1x2,home,1.600,won,0.6000,https://oddsintel.app/picks
-oddsintel,2026-09-27,UEFA Nations League,Germany,Greece,1x2,home,1.450,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Serie D - Girone F,Sporting Trestina,Termoli Calcio,1x2,draw,3.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,UEFA Nations League,Denmark,Wales,1x2,home,1.500,won,0.5000,https://oddsintel.app/picks
-oddsintel,2026-09-27,2. Lig,Serik Spor,Fethiyespor,1x2,home,1.800,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Friendlies,Seychelles,Sri Lanka,1x2,away,2.720,won,1.7200,https://oddsintel.app/picks
-oddsintel,2026-09-27,Ligue 2,CO Medenine,Kalaâ Sport,1x2,home,2.170,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,4. liga - Divizie B,Meteor Praha,Hvězda Cheb,1x2,home,1.550,won,0.5500,https://oddsintel.app/picks
-oddsintel,2026-09-27,Serie D - Girone A,Valenzana,Borgosesia,1x2,home,2.340,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Campeonato de Portugal Prio - Group C,O Elvas,Sertanense,1x2,home,2.170,won,1.1700,https://oddsintel.app/picks
-oddsintel,2026-09-27,Friendlies,Jordan,Syria,1x2,home,1.650,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,CONCACAF Nations League,Haiti,Costa Rica ,1x2,home,3.000,won,2.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Serie D - Girone I,Reggina,Igea Virtus,1x2,home,1.480,won,0.4800,https://oddsintel.app/picks
-oddsintel,2026-09-27,Serie D - Girone B,Leon Monza e Brianza,Villa Valle,1x2,home,1.920,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Eerste Divisie,De Graafschap,Den Bosch,1x2,home,2.160,won,1.1600,https://oddsintel.app/picks
-oddsintel,2026-09-27,Tercera División RFEF - Group 1,Pontevedra II,Arenteiro,1x2,home,2.040,won,1.0400,https://oddsintel.app/picks
-oddsintel,2026-09-27,Serie C - Girone C,Casarano,SS Monopoli,1x2,home,2.400,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Primera División Femenina,Valencia W,Granad. Tenerife W,1x2,away,1.920,won,0.9200,https://oddsintel.app/picks
-oddsintel,2026-09-27,Friendlies,China,New Zealand,1x2,away,2.370,won,1.3700,https://oddsintel.app/picks
-oddsintel,2026-09-27,Primera Nacional,Gimnasia y Tiro,Atletico DE Rafaela,1x2,home,2.190,won,1.1900,https://oddsintel.app/picks
-oddsintel,2026-09-27,Primera División Femenina,Athletic Club W,Atletico Madrid W,1x2,away,2.160,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Botola 2,El Massira,Stade Marocain,1x2,draw,2.750,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Copa Chile,Concepción,Curicó Unido,1x2,home,1.480,won,0.4800,https://oddsintel.app/picks
-oddsintel,2026-09-27,Liga 1 Feminin,Farul Constanţa W,Csikszereda MC W,1x2,home,1.620,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,3. Division - Girone 5,Bossekop,Skjetten,1x2,away,1.630,won,0.6300,https://oddsintel.app/picks
-oddsintel,2026-09-27,Serie D - Girone A,Chisola,Ligorna,1x2,away,2.300,won,1.3000,https://oddsintel.app/picks
-oddsintel,2026-09-27,2. Lig,Adana Demirspor,Erbaaspor,1x2,away,1.620,won,0.6200,https://oddsintel.app/picks
-oddsintel,2026-09-27,2. liga,Malženice,Liptovský Mikuláš,1x2,home,2.820,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Primera Nacional,Almagro,Nueva Chicago,1x2,draw,2.850,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-04,Liga I,Unirea Slobozia,AFC Hermannstadt,1x2,home,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-04,First Division,Finn Harps,Bray Wanderers,1x2,home,3.000,won,2.0000,https://oddsintel.app/picks
+oddsintel,2026-05-04,Premier League,Ruh Lviv,Zorya Luhansk,1x2,home,4.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-04,Serie A,Cremonese,Lazio,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-06,J2 League,Tochigi City,Yokohama FC,1x2,home,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-06,First League,Spartak Varna,Dobrudzha,1x2,home,3.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-08,2. Liga,Austria Salzburg,Austria Lustenau,1x2,home,3.850,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-08,2. Bundesliga,1. FC Kaiserslautern,Arminia Bielefeld,1x2,home,3.320,won,2.3200,https://oddsintel.app/picks
+oddsintel,2026-05-08,Segunda División,Cadiz,Deportivo La Coruña,1x2,home,4.020,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-08,Serie B,Reggiana,Sampdoria,1x2,home,3.650,won,2.6500,https://oddsintel.app/picks
+oddsintel,2026-05-08,Serie B,Catanzaro,Bari,1x2,home,2.830,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-08,Premier Division,Drogheda United,Derry City,1x2,home,3.400,won,2.4000,https://oddsintel.app/picks
+oddsintel,2026-05-08,Premier Division,Galway United,Shamrock Rovers,1x2,home,3.920,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-08,Championship,Hull City,Millwall,1x2,home,3.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-08,Primera División,Wanderers,Liverpool Montevideo,1x2,home,3.450,won,2.4500,https://oddsintel.app/picks
+oddsintel,2026-05-09,Ligue 2,Clermont Foot,Guingamp,1x2,home,3.150,won,2.1500,https://oddsintel.app/picks
+oddsintel,2026-05-09,Ligue 2,Nancy,Dunkerque,1x2,home,2.780,won,1.7800,https://oddsintel.app/picks
+oddsintel,2026-05-09,Premier League,Liverpool,Chelsea,over_under_25,under,3.000,won,2.0000,https://oddsintel.app/picks
+oddsintel,2026-05-09,I Liga,Stal Mielec,Puszcza Niepołomice,over_under_25,over,1.850,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-09,Serie A,Lecce,Juventus,over_under_25,under,2.230,won,1.2300,https://oddsintel.app/picks
+oddsintel,2026-05-09,Ligue 2,Reims,Pau,over_under_25,under,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-09,Jupiler Pro League,RAAL La Louvière,Cercle Brugge,1x2,home,3.200,won,2.2000,https://oddsintel.app/picks
+oddsintel,2026-05-13,Suomen Cup,Turku PS,HJS Akatemia,over_under_25,under,3.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-13,Cup,Throttur Reykjavik,Breidablik,1x2,home,5.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-13,La Liga,Alaves,Barcelona,over_under_25,under,2.700,won,1.7000,https://oddsintel.app/picks
+oddsintel,2026-05-13,Cup,FK Crvena Zvezda,Vojvodina,over_under_25,under,2.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-13,Eerste Divisie,Almere City FC,Willem II,over_under_25,under,2.270,won,1.2700,https://oddsintel.app/picks
+oddsintel,2026-05-15,Ligue 3,Dijon,Orleans,over_under_25,under,2.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-16,FA WSL,Chelsea W,Manchester United (W),over_under_25,under,2.200,won,1.2000,https://oddsintel.app/picks
+oddsintel,2026-05-16,3. Liga,SSV Ulm 1846,Rot-Weiß Essen,over_under_25,under,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-16,FA Cup,Chelsea,Manchester City,over_under_25,under,2.190,won,1.1900,https://oddsintel.app/picks
+oddsintel,2026-05-16,Serie B,Juve Stabia,Monza,1x2,home,4.050,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-16,Super League Women,Zulte-Waregem W,Westerlo (W),over_under_25,over,1.700,won,0.7000,https://oddsintel.app/picks
+oddsintel,2026-05-17,Serie A,Inter,Hellas Verona,over_under_25,under,2.630,won,1.6300,https://oddsintel.app/picks
+oddsintel,2026-05-17,Premiership,Dundee,Aberdeen,over_under_25,over,1.800,won,0.8000,https://oddsintel.app/picks
+oddsintel,2026-05-17,2. Bundesliga,Hannover 96,1. FC Nürnberg,over_under_25,under,2.880,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-17,Ligue 1,Nice,Metz,over_under_25,over,1.570,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-17,Úrvalsdeild,KR Reykjavík,Fram Reykjavík,over_under_25,under,4.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-18,First League,Montana,Spartak Varna,over_under_25,under,2.200,won,1.2000,https://oddsintel.app/picks
+oddsintel,2026-05-18,Premier Division,Waterford,Drogheda United,over_under_25,under,2.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-19,Ligue 2,Rouen,Laval,over_under_25,over,2.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-21,Pro League,Al-Ittihad FC,Al-Qadisiyah FC,over_under_25,under,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-22,Victoria Premier League 2,Kingston City,Werribee City,over_under_25,under,2.620,won,1.6200,https://oddsintel.app/picks
+oddsintel,2026-05-22,Eredivisie Women,Twente W,PSV/Eindhoven W,over_under_25,over,1.860,won,0.8600,https://oddsintel.app/picks
+oddsintel,2026-05-22,III Liga - Group 3,Zagłębie Lubin II,Miedź Legnica II,over_under_25,under,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-22,Premier Division,Shamrock Rovers,Sligo Rovers,over_under_25,under,2.120,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-22,Super League Women,Genk (W),Zulte-Waregem W,1x2,home,2.930,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-22,Premier Division,Galway United,Bohemians,1x2,home,3.760,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-22,Veikkausliiga,VPS,HJK Helsinki,1x2,home,3.870,won,2.8700,https://oddsintel.app/picks
+oddsintel,2026-05-23,Superettan,Falkenbergs FF,IFK Varnamo,over_under_25,over,1.860,won,0.8600,https://oddsintel.app/picks
+oddsintel,2026-05-23,Western Australia State League 1,Joondalup City,Inglewood United,over_under_25,under,2.500,won,1.5000,https://oddsintel.app/picks
+oddsintel,2026-05-23,K League 2,Gyeongnam FC,Suwon City FC,1x2,home,3.750,won,2.7500,https://oddsintel.app/picks
+oddsintel,2026-05-23,Jupiler Pro League,Standard Liege,Charleroi,over_under_25,under,1.940,won,0.9400,https://oddsintel.app/picks
+oddsintel,2026-05-23,La Liga,Mallorca,Oviedo,over_under_25,under,1.980,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-23,Primera División,Portuguesa FC,Deportivo La Guaira,over_under_25,over,2.410,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-23,Super Liga,FK Partizan,Radnik Surdulica,over_under_25,over,1.870,won,0.8700,https://oddsintel.app/picks
+oddsintel,2026-05-23,Championship,Hull City,Middlesbrough,over_under_25,under,1.760,won,0.7600,https://oddsintel.app/picks
+oddsintel,2026-05-23,Campionato Primavera - 2,Venezia U19,Padova U19,over_under_25,under,2.380,won,1.3800,https://oddsintel.app/picks
+oddsintel,2026-05-23,Frauenliga,Kleinmünchen / BW Linz W,Rheindorf Altach W,over_under_25,under,2.500,won,1.5000,https://oddsintel.app/picks
+oddsintel,2026-05-23,La Liga,Valencia,Barcelona,1x2,home,3.700,won,2.7000,https://oddsintel.app/picks
+oddsintel,2026-05-24,Serie A,Torino,Juventus,over_under_25,under,2.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-24,Segunda División,FC Andorra,AD Ceuta FC,over_under_25,under,2.620,won,1.6200,https://oddsintel.app/picks
+oddsintel,2026-05-24,Ligue 2,Laval,Rouen,over_under_25,over,2.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-25,K League 2,Paju Citizen,Gimpo Citizen,over_under_25,over,2.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-25,Campionato Primavera - 1,Parma U20,Cesena U20,over_under_25,under,2.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-25,First League,Lokomotiv Plovdiv,Botev Plovdiv,1x2,home,3.350,won,2.3500,https://oddsintel.app/picks
+oddsintel,2026-05-26,Reserve League,Racing Club Res.,Tigre Res.,over_under_25,under,1.830,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-27,Reserve League,Independiente Riva. Res.,Central Córdoba SdE Res.,over_under_25,under,1.790,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-27,Serie C - Promotion - Play-offs,Catania,Ascoli,1x2,home,2.750,won,1.7500,https://oddsintel.app/picks
+oddsintel,2026-05-27,Serie C - Promotion - Play-offs,Union Brescia,Salernitana,1x2,home,2.710,won,1.7100,https://oddsintel.app/picks
+oddsintel,2026-05-27,USL Championship,Sporting JAX,San Antonio,1x2,home,3.580,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-29,Prva Liga,FAP,Grafičar,1x2,home,2.600,won,1.6000,https://oddsintel.app/picks
+oddsintel,2026-05-29,Ligue 2,ES Hammam-Sousse,Progrès Sakiet Eddaïer,1x2,home,2.620,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-29,3. liga - MSFL,Frýdek-Místek,Hodonín,1x2,home,2.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-29,3. liga - MSFL,Hranice,Karviná II,1x2,home,2.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-29,Premier Division,Drogheda United,Waterford,over_under_25,under,2.040,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-29,Division 1,Al Jazira Al Hamra,Al Fujairah SC,1x2,home,2.900,won,1.9000,https://oddsintel.app/picks
+oddsintel,2026-05-29,South Australia NPL,West Torrens Birkalla,Adelaide Comets,over_under_25,under,2.620,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-29,Esiliiga B,Tartu Kalev,Levadia U19,1x2,home,1.830,won,0.8300,https://oddsintel.app/picks
+oddsintel,2026-05-29,Kakkonen - Lohko B,Ilves II,HJS Akatemia,1x2,home,2.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-29,First NL,Rudes,Sesvete,over_under_25,over,2.250,won,1.2500,https://oddsintel.app/picks
+oddsintel,2026-05-29,III Liga - Group 3,Kluczbork,Ślęza Wrocław,over_under_25,under,2.650,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-29,USL League One,One Knoxville,Greenville Triumph,1x2,home,2.080,won,1.0800,https://oddsintel.app/picks
+oddsintel,2026-05-29,Division Intermedia,SOL DE America,Deportivo Santani,1x2,home,2.270,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,III Liga - Group 2,WDA Swiecie,Noteć Czarnków,1x2,home,2.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Primera C,Central Ballester,Deportivo Español,1x2,home,3.050,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Primera B Metropolitana,Comunicaciones,Deportivo Armenio,1x2,home,2.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Primera Nacional,All Boys,Los Andes,over_under_25,over,3.770,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Primera Nacional,Defensores De Belgrano,San Telmo,over_under_25,over,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Serie D,Vitória ES,Real Noroeste,over_under_25,over,2.120,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Division Intermedia,Atlético Tembetary,Benjamín Aceval,1x2,home,2.650,won,1.6500,https://oddsintel.app/picks
+oddsintel,2026-05-30,Division 2 - Södra Svealand,Forward,Rågsved,1x2,home,2.750,won,1.7500,https://oddsintel.app/picks
+oddsintel,2026-05-30,Superettan,Falkenbergs FF,Oddevold,1x2,home,2.430,won,1.4300,https://oddsintel.app/picks
+oddsintel,2026-05-30,Western Australia State League 1,Murdoch Melville,Kingsley Westside,1x2,home,2.200,won,1.2000,https://oddsintel.app/picks
+oddsintel,2026-05-30,3. liga - CFL A,Loko Vltavín,Dukla Praha II,over_under_25,under,2.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,K League 2,Gimhae City,Gimpo Citizen,over_under_25,over,2.100,won,1.1000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Super League,Qingdao Youth Island,Shanghai Shenhua,over_under_25,under,2.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,III Liga - Group 3,Goczałkowice Zdrój,Zagłębie Lubin II,1x2,home,2.450,won,1.4500,https://oddsintel.app/picks
+oddsintel,2026-05-30,Ettan - Södra,Trollhättan,Atvidabergs FF,1x2,home,2.330,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Ettan - Södra,Tvååker,Kristianstad,1x2,home,2.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Segunda División,AD Ceuta FC,Albacete,1x2,home,2.420,won,1.4200,https://oddsintel.app/picks
+oddsintel,2026-05-30,Segunda División,Real Sociedad II,Cultural Leonesa,1x2,home,2.380,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,III Liga - Group 2,Lipno Stęszew,Unia Swarzędz,1x2,home,2.700,won,1.7000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Serie D,Porto BA,Tombense,over_under_25,over,2.250,won,1.2500,https://oddsintel.app/picks
+oddsintel,2026-05-30,Primera C,Claypole,Central Cordoba,1x2,home,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Primera C,El Porvenir,Deportivo Muñiz,1x2,home,1.930,won,0.9300,https://oddsintel.app/picks
+oddsintel,2026-05-30,Primera C,Argentino Rosario,Estrella Del Sur,1x2,home,2.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Primera C,Puerto Nuevo,Mercedes,1x2,home,2.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Serie D,Treze,Lagarto,over_under_25,under,1.690,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-02,Primera B Metropolitana,Deportivo Merlo,Deportivo Laferrere,1x2,home,2.400,won,1.4000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Primera C,Defensores de Cambaceres,Centro Español,1x2,home,2.650,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,USL Championship,Pittsburgh Riverhounds,Miami FC,over_under_25,under,1.950,won,0.9500,https://oddsintel.app/picks
+oddsintel,2026-05-30,USL League One,Chattanooga Red Wolves,Charlotte Independence,1x2,home,2.330,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,MLS Next Pro,New York City II,Columbus Crew II,1x2,home,2.430,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,USL League One,Sarasota Paradise,NY Cosmos,1x2,home,1.740,won,0.7400,https://oddsintel.app/picks
+oddsintel,2026-05-30,3. Division - Girone 2,Spjelkavik,Byåsen,1x2,home,2.670,won,1.6700,https://oddsintel.app/picks
+oddsintel,2026-05-30,1 Lyga,BFA,Jonava,1x2,home,2.400,won,1.4000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Serie D,Sampaio Corrêa RJ,Velo Clube,over_under_25,over,2.460,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,K League 2,Suwon City FC,Seongnam FC,1x2,home,2.260,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,New South Wales NPL,Marconi Stallions,Rockdale City Suns,over_under_25,under,2.470,won,1.4700,https://oddsintel.app/picks
+oddsintel,2026-05-30,1. Liga Promotion,Breitenrain,Young Boys II,1x2,home,2.050,won,1.0500,https://oddsintel.app/picks
+oddsintel,2026-05-30,3. liga - CFL A,Jiskra Domažlice,Viktoria Plzeň II,1x2,home,1.950,won,0.9500,https://oddsintel.app/picks
+oddsintel,2026-05-30,Veikkausliiga,Gnistan,SJK,over_under_25,over,1.730,won,0.7300,https://oddsintel.app/picks
+oddsintel,2026-05-30,Serie A,Gremio,Corinthians,over_under_25,over,2.500,won,1.5000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Division Intermedia,Resistencia,Fernando De La Mora,1x2,home,2.270,won,1.2700,https://oddsintel.app/picks
+oddsintel,2026-05-30,Division Intermedia,Resistencia,Fernando De La Mora,over_under_25,over,2.290,won,1.2900,https://oddsintel.app/picks
+oddsintel,2026-05-30,Serie C,Floresta,Confiança,1x2,home,2.250,won,1.2500,https://oddsintel.app/picks
+oddsintel,2026-05-30,III Liga - Group 4,Naprzód,Stal Kraśnik,1x2,home,2.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Torneo Federal A,Kimberley Mar del Plata,Germinal de Rawson,over_under_25,under,1.480,won,0.4800,https://oddsintel.app/picks
+oddsintel,2026-05-30,Regionalliga - Ost,Wiener Viktoria,Oberwart,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Primera C,Lujan,Leones de Rosario,over_under_25,over,2.790,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Segunda División,Granada CF,Sporting Gijon,1x2,home,2.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-30,Serie D,Ceilândia,Goiatuba EC,1x2,home,2.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-31,3. liga - MSFL,Polanka nad Odrou,Unie Hlubina,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-31,Serie D,IAPE,Sampaio Correa,over_under_25,over,2.460,won,1.4600,https://oddsintel.app/picks
+oddsintel,2026-05-31,Segunda División RFEF - Play-offs,Poblense,Águilas,over_under_25,under,1.620,won,0.6200,https://oddsintel.app/picks
+oddsintel,2026-05-31,Torneo Federal A,Sol de Mayo,Santamarina,1x2,home,2.050,won,1.0500,https://oddsintel.app/picks
+oddsintel,2026-05-31,Tercera División RFEF - Group 2,Caudal,Covadonga,over_under_25,under,1.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-31,Serie D,Tuna Luso,Trem,over_under_25,over,1.790,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-31,Segunda División RFEF - Play-offs,Atlético Baleares,Real Jaén,1x2,home,2.340,won,1.3400,https://oddsintel.app/picks
+oddsintel,2026-05-31,Segunda División,Leganes,Mirandes,1x2,home,2.130,won,1.1300,https://oddsintel.app/picks
+oddsintel,2026-05-31,Friendlies,Germany,Finland,over_under_25,under,3.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-31,Torneo Federal A,San Martín Mendoza,Cipolletti,1x2,home,2.430,won,1.4300,https://oddsintel.app/picks
+oddsintel,2026-05-31,Serie D,Sao Jose,Independiente FSJ,over_under_25,over,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-31,USL League Two,Westchester Flames,Staten Island Athletic,1x2,home,2.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-31,Serie D,Sao Jose,Independiente FSJ,1x2,home,2.350,won,1.3500,https://oddsintel.app/picks
+oddsintel,2026-05-31,Division 2 - Norra Svealand,Korsnäs,Viggbyholms IK,over_under_25,under,2.650,won,1.6500,https://oddsintel.app/picks
+oddsintel,2026-05-31,USL League Two,Tacoma Stars,Bangers,over_under_25,over,1.440,won,0.4400,https://oddsintel.app/picks
+oddsintel,2026-05-31,Liga Pro Serie B,El Nacional,LDU Portoviejo,1x2,home,2.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-31,Jupiler Pro League,Gent,Genk,1x2,home,3.050,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-05-31,Superliga,Vllaznia Shkodër,AF Elbasani,1x2,home,2.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-01,Serie D,Uniclinic Atletico Clube,Piauí,over_under_25,under,1.620,won,0.6200,https://oddsintel.app/picks
+oddsintel,2026-06-01,Liga Pro,Leones del Norte,Macará,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-02,Ettan - Norra,Assyriska FF,Enköping,1x2,home,2.500,won,1.5000,https://oddsintel.app/picks
+oddsintel,2026-06-03,Ettan - Södra,Olympic,Lund,1x2,home,2.380,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-03,Tweede Divisie,ADO '20,Ijsselmeervogels,1x2,home,2.870,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-03,Regionalliga - Ost,Neusiedl,Wiener Viktoria,1x2,home,3.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-04,Division 2 - Södra Götaland,Sölvesborg,Torns,over_under_25,under,2.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-05,K League 2,Seongnam FC,Gimhae City,over_under_25,over,2.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-05,Ettan - Norra,FBK Karlstad,IF Karlstad,1x2,home,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-05,1. Deild,HK Kopavogur,Afturelding,1x2,home,2.850,won,1.8500,https://oddsintel.app/picks
+oddsintel,2026-06-05,World Cup - Women - Qualification Europe,Germany W,Norway W,over_under_25,under,2.480,won,1.4800,https://oddsintel.app/picks
+oddsintel,2026-06-05,Primera B Metropolitana,Talleres Remedios,Deportivo Merlo,1x2,home,2.460,won,1.4600,https://oddsintel.app/picks
+oddsintel,2026-06-05,Regionalliga - Mitte,St. Anna,Wohnbau Dietach,over_under_25,under,2.590,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,K League 2,Gyeongnam FC,Yongin City,over_under_25,over,2.030,won,1.0300,https://oddsintel.app/picks
+oddsintel,2026-06-06,3. liga - MSFL,Unie Hlubina,Uničov,1x2,home,2.850,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,Primera C,Deportivo Español,Claypole,1x2,home,2.350,won,1.3500,https://oddsintel.app/picks
+oddsintel,2026-06-06,Primera C,Estrella Del Sur,Sacachispas,1x2,home,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,Primera C,Yupanqui,Central Cordoba,1x2,home,2.880,won,1.8800,https://oddsintel.app/picks
+oddsintel,2026-06-06,J2 League,Albirex Niigata,Consadole Sapporo,1x2,home,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,New South Wales NPL 2,Inter Lions,Hurstville FC,1x2,home,3.150,won,2.1500,https://oddsintel.app/picks
+oddsintel,2026-06-06,3. liga - MSFL,Karviná II,Zbrojovka Brno II,1x2,home,2.750,won,1.7500,https://oddsintel.app/picks
+oddsintel,2026-06-06,Kakkonen - Lohko A,MyPa,PPJ,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,Primera B Metropolitana,Brown DE Adrogue,Comunicaciones,1x2,home,3.050,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,Primera B Metropolitana,Deportivo Armenio,Defensores Unidos,1x2,home,2.250,won,1.2500,https://oddsintel.app/picks
+oddsintel,2026-06-06,Primera B Metropolitana,Flandria,Argentino Quilmes,1x2,home,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,Primera C,Argentino Rosario,Lugano,1x2,home,2.330,won,1.3300,https://oddsintel.app/picks
+oddsintel,2026-06-06,Division Intermedia,Fernando De La Mora,Guairena FC,1x2,home,2.770,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,USL League Two,Lorain County Leviathan,Pittsburgh Riverhounds 2,1x2,home,2.490,won,1.4900,https://oddsintel.app/picks
+oddsintel,2026-06-06,USL League Two,Westchester Flames,New Jersey Copa,1x2,home,2.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,Division 2 - Norra Svealand,Angby,Täby,1x2,home,3.000,won,2.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,Primera B Metropolitana,Excursionistas,San Martín Burzaco,over_under_25,over,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,Kakkonen - Lohko C,Huima / Urho,Jaro 2,1x2,home,2.700,won,1.7000,https://oddsintel.app/picks
+oddsintel,2026-06-06,Primera División RFEF - Play Offs,Atlético Madrid II,Ponferradina,1x2,home,2.310,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,Primera Nacional,San Miguel,Defensores De Belgrano,1x2,home,2.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,USL League Two,Boston Bolts,AC Connecticut,1x2,home,1.750,won,0.7500,https://oddsintel.app/picks
+oddsintel,2026-06-06,Primera C,JJ Urquiza,Puerto Nuevo,1x2,home,2.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,USL League Two,Appalachian,Hickory,1x2,home,2.350,won,1.3500,https://oddsintel.app/picks
+oddsintel,2026-06-06,USL League Two,East Atlanta,Apotheos,1x2,home,2.450,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-06,USL League Two,Swarm FC,Birmingham Legion II,1x2,home,2.450,won,1.4500,https://oddsintel.app/picks
+oddsintel,2026-06-07,Queensland NPL,Gold Coast United,WDSC Wolves,1x2,home,3.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-07,Queensland Premier League,St George Willawong,Redlands United,over_under_25,under,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-07,Division 2 - Norra Svealand,Helges,Kungsängen,over_under_25,under,2.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-07,Serie D,São Luiz,Joinville,1x2,home,2.600,won,1.6000,https://oddsintel.app/picks
+oddsintel,2026-06-07,Serie D,Nova Iguaçu,XV de Piracicaba,1x2,home,2.400,won,1.4000,https://oddsintel.app/picks
+oddsintel,2026-06-07,Primera Nacional,All Boys,Racing Cordoba,over_under_25,over,3.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-07,Primera C,Deportivo Muñiz,Central Ballester,1x2,home,2.430,won,1.4300,https://oddsintel.app/picks
+oddsintel,2026-06-07,Primera C,General Lamadrid,Lujan,1x2,home,2.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-07,Primera División RFEF - Play Offs,Celta de Vigo II,Europa Fc,over_under_25,over,2.300,won,1.3000,https://oddsintel.app/picks
+oddsintel,2026-06-07,Catarinense - 2,Guarani de Palhoça,Tubarao,1x2,home,3.050,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-07,Torneo Federal A,Santamarina,Kimberley Mar del Plata,1x2,home,2.730,won,1.7300,https://oddsintel.app/picks
+oddsintel,2026-06-07,Primera Nacional,Club Atlético Güemes,Deportivo Maipu,1x2,home,2.560,won,1.5600,https://oddsintel.app/picks
+oddsintel,2026-06-08,Segunda División,Provincial Ovalle,Trasandino,1x2,home,2.650,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-08,Primera B Metropolitana,UAI Urquiza,Liniers,1x2,home,2.800,won,1.8000,https://oddsintel.app/picks
+oddsintel,2026-06-08,Ettan - Södra,Angelholms FF,Olympic,1x2,home,2.304,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-08,Ettan - Norra,Järfälla,Stocksund,1x2,home,1.782,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-08,Reserve League,Gimnasia La Plata Res.,Godoy Cruz Res.,1x2,home,1.730,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-08,Botola Pro,Wydad AC,Olympique Safi,1x2,home,1.570,won,0.5700,https://oddsintel.app/picks
+oddsintel,2026-06-08,Kakkonen - Lohko A,Kiffen,PuiU Helsinki,1x2,home,1.650,won,0.6500,https://oddsintel.app/picks
+oddsintel,2026-06-08,Division 2 - Norrland,Täfteå,Umeå FC Akademi,1x2,home,1.320,won,0.3200,https://oddsintel.app/picks
+oddsintel,2026-06-08,Primera C,Berazategui,Juventud Unida,1x2,home,1.650,won,0.6500,https://oddsintel.app/picks
+oddsintel,2026-06-08,Primera División,Liverpool Montevideo,Cerro Largo,1x2,home,1.970,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-08,Carioca C,Uni Souza,Barcelona RJ,1x2,home,1.530,won,0.5300,https://oddsintel.app/picks
+oddsintel,2026-06-08,Botola Pro,Renaissance Berkane,Ittihad Tanger,1x2,home,1.700,won,0.7000,https://oddsintel.app/picks
+oddsintel,2026-06-08,Primera A,Atletico Nacional,Junior,1x2,home,1.550,won,0.5500,https://oddsintel.app/picks
+oddsintel,2026-06-09,Friendlies,Indonesia,Mozambique,1x2,home,1.520,won,0.5200,https://oddsintel.app/picks
+oddsintel,2026-06-09,Azadegan League,Mes Kerman,Naft Gachsaran,1x2,home,1.780,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-09,World Cup - Women - Qualification Europe,Slovenia W,Germany W,over_under_25,under,2.990,won,1.9900,https://oddsintel.app/picks
+oddsintel,2026-06-09,Superettan,Osters IF,IFK Varnamo,1x2,home,2.032,won,1.0324,https://oddsintel.app/picks
+oddsintel,2026-06-09,Superettan,Osters IF,IFK Varnamo,over_under_25,over,1.631,won,0.6312,https://oddsintel.app/picks
+oddsintel,2026-06-09,Segunda División,Almeria,Castellón,1x2,home,2.410,won,1.4100,https://oddsintel.app/picks
+oddsintel,2026-06-09,USL League Two,Evergreen,Charlottesville Blues,1x2,home,1.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-09,Azadegan League,Nassaji Mazandaran,Shenavarsazi Qeshm,1x2,home,1.380,won,0.3800,https://oddsintel.app/picks
+oddsintel,2026-06-09,Friendlies,Angola,Central African Republic,1x2,home,1.650,won,0.6500,https://oddsintel.app/picks
+oddsintel,2026-06-09,World Cup - Women - Qualification Europe,Serbia W,Denmark W,over_under_25,under,2.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-09,Liga Pro Serie B,9 de Octubre,Cuniburo,1x2,home,2.300,won,1.3000,https://oddsintel.app/picks
+oddsintel,2026-06-09,World Cup - Women - Qualification Europe,Norway W,Austria W,1x2,home,1.520,won,0.5200,https://oddsintel.app/picks
+oddsintel,2026-06-10,USL League Two,Chicago Dutch Lions,St. Croix,1x2,home,2.050,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-10,USL League Two,Dayton Dutch Lions,Kings Hammer Columbus,1x2,home,2.650,won,1.6500,https://oddsintel.app/picks
+oddsintel,2026-06-10,Suomen Cup,KuPS,VPS,1x2,home,1.850,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-10,USL League One,Westchester SC,Fort Wayne,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-10,Canadian Premier League,Forge,HFX Wanderers FC,1x2,home,1.550,won,0.5500,https://oddsintel.app/picks
+oddsintel,2026-06-10,Liga Pro Serie B,Ind. Juniors,Deportivo Cuenca Juniors,1x2,home,1.900,won,0.9000,https://oddsintel.app/picks
+oddsintel,2026-06-10,Superettan,Varbergs BoIS FC,Norrby IF,over_under_25,over,1.830,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-10,Superettan,Varbergs BoIS FC,Norrby IF,1x2,home,1.700,won,0.7000,https://oddsintel.app/picks
+oddsintel,2026-06-10,Reserve League,Vélez Sársfield Res.,Tigre Res.,1x2,home,1.490,won,0.4900,https://oddsintel.app/picks
+oddsintel,2026-06-10,Segunda División,Malaga,Las Palmas,1x2,home,2.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-10,USL Championship,Tampa Bay Rowdies,Charleston Battery,1x2,home,1.730,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-10,Serie B,Ceara,Avai,1x2,home,1.800,won,0.8000,https://oddsintel.app/picks
+oddsintel,2026-06-10,USL League Two,Northern Indiana,Toledo Villa,1x2,home,1.400,won,0.4000,https://oddsintel.app/picks
+oddsintel,2026-06-10,USL League Two,SC United Bantams,Tobacco Road,1x2,home,1.430,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-10,USL League One,Charlotte Independence,Union Omaha,over_under_25,under,2.500,won,1.5000,https://oddsintel.app/picks
+oddsintel,2026-06-10,USL Championship,Detroit City,El Paso Locomotive,1x2,home,2.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-10,USL League Two,North Carolina II,Wake,1x2,home,1.180,won,0.1800,https://oddsintel.app/picks
+oddsintel,2026-06-11,Paulista - U20,Oeste U20,Santo André U20,1x2,home,1.750,won,0.7500,https://oddsintel.app/picks
+oddsintel,2026-06-11,Division 2 - Norra Götaland,Motala,Kumla,1x2,home,1.720,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-11,Brasileiro U20 A,Cruzeiro U20,Fortaleza U20,1x2,home,1.560,won,0.5600,https://oddsintel.app/picks
+oddsintel,2026-06-11,Division 2 - Norrland,Gottne,Friska Viljor,1x2,home,1.910,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-12,Primera B Metropolitana,San Martín Burzaco,Villa Dalmine,1x2,home,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-12,Kakkonen - Lohko B,GrIFK,HJS Akatemia,1x2,home,3.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-12,South Australia NPL,Campbelltown City,West Torrens Birkalla,over_under_25,under,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-12,1 Lyga,Jonava,Atmosfera,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-12,Victoria NPL 2,Brunswick City,Eltham Redbacks FC,over_under_25,under,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-12,V.League 1,Pho Hien,Bắc Ninh,over_under_25,over,2.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-12,Kakkonen - Lohko A,HPS,Kiffen,1x2,home,2.920,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-12,Erovnuli Liga,Dinamo Batumi,Dila,1x2,home,3.420,won,2.4200,https://oddsintel.app/picks
+oddsintel,2026-06-13,New South Wales NPL 2,Northern Tigers,Inter Lions,over_under_25,under,2.750,won,1.7500,https://oddsintel.app/picks
+oddsintel,2026-06-13,Veikkausliiga,FF Jaro,HJK Helsinki,over_under_25,over,1.810,won,0.8100,https://oddsintel.app/picks
+oddsintel,2026-06-13,Ettan - Norra,Stocksund,Sollentuna,1x2,home,2.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-13,1. Deild,Völsungur,Njardvik,over_under_25,under,2.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-13,Primera B Metropolitana,Sportivo Italiano,Excursionistas,1x2,home,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-13,USL League Two,Chicago Dutch Lions,River Light,1x2,home,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-13,USL League One,Portland Hearts of Pine,Chattanooga Red Wolves,1x2,home,2.770,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-13,USL League One,Charlotte Independence,Naples,over_under_25,under,2.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-13,MLS Next Pro,Atlanta United II,Chattanooga,over_under_25,under,2.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-13,USL League Two,Lorain County Leviathan,Akron City,1x2,home,2.550,won,1.5500,https://oddsintel.app/picks
+oddsintel,2026-06-13,Veikkausliiga,Mariehamn,Gnistan,over_under_25,over,2.010,won,1.0100,https://oddsintel.app/picks
+oddsintel,2026-06-13,USL Championship,Pittsburgh Riverhounds,Indy Eleven,over_under_25,under,1.980,won,0.9800,https://oddsintel.app/picks
+oddsintel,2026-06-13,Primera C,El Porvenir,Atletico Atlas,1x2,home,2.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-13,Regionalliga - West,Kitzbühel,Seekirchen,over_under_25,under,2.740,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-13,Copa De La Liga,Carlos A. Mannucci,Alianza Atletico,1x2,home,1.980,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-13,Primera B Metropolitana,Dock Sud,Talleres Remedios,1x2,home,3.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-13,USL League One,Sarasota Paradise,Union Omaha,1x2,home,3.100,won,2.1000,https://oddsintel.app/picks
+oddsintel,2026-06-14,World Cup,Australia,Türkiye,over_under_25,over,2.040,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-14,League Two,Hubei Chufeng Heli,Shenzhen 2028,1x2,home,2.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-14,Primera Nacional,Atletico Mitre,Los Andes,over_under_25,over,3.500,won,2.5000,https://oddsintel.app/picks
+oddsintel,2026-06-14,USL League One,Westchester SC,Greenville Triumph,1x2,home,3.100,won,2.1000,https://oddsintel.app/picks
+oddsintel,2026-06-14,Ettan - Norra,Enköping,Vasalund,1x2,home,2.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-14,Primera B Metropolitana,Liniers,Real Pilar,1x2,home,2.880,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-14,Primera C,Juventud Unida,Estrella Del Sur,1x2,home,3.020,won,2.0200,https://oddsintel.app/picks
+oddsintel,2026-06-14,Primera C,Puerto Nuevo,Centro Español,1x2,home,3.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-14,Torneo Federal A,Boca Unidos,San Martin Formosa,1x2,home,2.800,won,1.8000,https://oddsintel.app/picks
+oddsintel,2026-06-14,Torneo Federal A,Sol de Mayo,Olimpo Bahia Blanca,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-14,Botola 2,Chabab Mohammédia,Widad Témara,over_under_25,under,1.500,won,0.5000,https://oddsintel.app/picks
+oddsintel,2026-06-14,Serie D,Jacuipense,ASA,1x2,home,2.880,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-14,Serie D,Independência,Guaporé,1x2,home,2.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-14,Serie C,AO Itabaiana,Ituano,1x2,home,2.880,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-15,Esiliiga A,Nõmme Kalju II,Nõmme United II,1x2,home,2.380,won,1.3800,https://oddsintel.app/picks
+oddsintel,2026-06-15,Azadegan League,Havadar,Mes Kerman,over_under_25,under,1.300,won,0.3000,https://oddsintel.app/picks
+oddsintel,2026-06-16,Superettan,IFK Varnamo,Helsingborg,over_under_25,over,1.670,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-17,Reserve League,Instituto Res.,Unión Santa Fe Res.,over_under_25,under,1.810,won,0.8100,https://oddsintel.app/picks
+oddsintel,2026-06-17,Virsliga,Riga,Rīgas FS,over_under_25,over,1.880,won,0.8800,https://oddsintel.app/picks
+oddsintel,2026-06-18,Ettan - Södra,Skövde AIK,Hässleholms IF,1x2,home,3.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-18,Friendlies Clubs,Austria Klagenfurt,SV Kapfenberg,1x2,home,4.000,won,3.0000,https://oddsintel.app/picks
+oddsintel,2026-06-19,1. Deild,Njardvik,Leiknir R.,over_under_25,under,2.600,won,1.6000,https://oddsintel.app/picks
+oddsintel,2026-06-19,League Two,Dalian Yingbo B,Nantong Haimen Codion,over_under_25,over,2.800,won,1.8000,https://oddsintel.app/picks
+oddsintel,2026-06-19,Reserve League,Tigre Res.,San Lorenzo Res.,1x2,home,3.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-19,FA Cup,Rizhao Yuqi,Tianjin Teda,1x2,home,3.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-20,League Two,Wuhan Three Towns II,Shenzhen 2028,1x2,home,3.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-20,Primera División RFEF - Play Offs,Celta de Vigo II,Ponferradina,over_under_25,over,2.750,won,1.7500,https://oddsintel.app/picks
+oddsintel,2026-06-20,Primera Nacional,San Telmo,Racing Cordoba,over_under_25,over,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-20,Serie D,Ceilândia,Luverdense,1x2,home,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-20,Torneo Federal A,Santamarina,Villa Mitre,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-20,3. Division - Girone 5,Skjetten,Alta,1x2,home,3.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-20,Serie D,Independiente FSJ,Cianorte,1x2,home,2.920,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-20,Cup,JFK Ventspils,Leevon / PPK,1x2,home,3.850,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-20,Primera B Metropolitana,UAI Urquiza,San Martín Burzaco,1x2,home,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-20,Primera Nacional,San Telmo,Racing Cordoba,1x2,home,3.190,won,2.1900,https://oddsintel.app/picks
+oddsintel,2026-06-20,USL League Two,SC United Bantams,Charlotte Eagles,over_under_25,under,2.590,won,1.5900,https://oddsintel.app/picks
+oddsintel,2026-06-21,Ettan - Norra,Piteå,AFC Eskilstuna,1x2,home,3.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-21,Superettan,Helsingborg,GIF Sundsvall,over_under_25,over,1.980,won,0.9800,https://oddsintel.app/picks
+oddsintel,2026-06-21,Superettan,Norrby IF,United Nordic,over_under_25,over,1.710,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-21,Esiliiga B,JK Tabasalu,Tartu Kalev,1x2,home,3.300,won,2.3000,https://oddsintel.app/picks
+oddsintel,2026-06-21,Serie D,Central SC,Ferroviario,1x2,home,2.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-21,Serie D,Lagarto,CSA,1x2,home,3.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-21,Segunda División,Colchagua,Provincial Osorno,over_under_25,under,1.800,won,0.8000,https://oddsintel.app/picks
+oddsintel,2026-06-21,Segunda División,Provincial Ovalle,Real San Joaquín,over_under_25,under,1.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-21,Serie D,Ivinhema,Democrata GV,1x2,home,3.000,won,2.0000,https://oddsintel.app/picks
+oddsintel,2026-06-21,3. Division - Girone 5,Tromsø II,Skedsmo,1x2,home,4.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-21,Serie D,Parnahyba,Águia de Marabá,1x2,home,2.900,won,1.9000,https://oddsintel.app/picks
+oddsintel,2026-06-21,MLS Next Pro,New York City II,Chattanooga,1x2,home,3.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-21,MLS Next Pro,Columbus Crew II,Atlanta United II,over_under_25,under,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-21,Serie D,Cascavel,Marcílio Dias,1x2,home,2.720,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-21,Serie D,Sao Jose,Santa Catarina,1x2,home,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-21,Azadegan League,Sanat Naft,Shahrdari Noshahr,over_under_25,under,1.410,won,0.4100,https://oddsintel.app/picks
+oddsintel,2026-06-21,Primera Nacional,Central Norte,Godoy Cruz,1x2,home,3.430,won,2.4300,https://oddsintel.app/picks
+oddsintel,2026-06-22,Esiliiga B,Tallinna Kalev II,Narva U21,1x2,home,3.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-23,League Two,Nantong Haimen Codion,Shanghai Port II,over_under_25,over,2.380,won,1.3800,https://oddsintel.app/picks
+oddsintel,2026-06-24,League Two,BIT,Shandong Taishan II,over_under_25,over,2.500,won,1.5000,https://oddsintel.app/picks
+oddsintel,2026-06-24,League Two,Chengdu Rongcheng II,Guangzhou Dandelion,1x2,home,3.830,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-24,USL League Two,Morris Elite,New Jersey Copa,1x2,home,3.400,won,2.4000,https://oddsintel.app/picks
+oddsintel,2026-06-25,Úrvalsdeild,Breidablik,Vikingur Reykjavík,1x2,home,5.050,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-26,Kakkonen - Lohko B,ÅIFK,Honka,1x2,home,4.330,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-26,1 Lyga,Garliava,Minija,1x2,home,4.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-26,Premier Division,Dundalk,Waterford,over_under_25,under,2.640,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-26,Kakkonen - Lohko B,ÅIFK,Honka,1x2,home,4.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-06-30,Division Intermedia,Independiente F.b.c.,Benjamín Aceval,over_under_25,under,1.730,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-01,Friendlies Clubs,Austria Lustenau,BSC Young Boys,1x2,away,1.740,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-01,Friendlies Clubs,Sigma Olomouc,Skalica,1x2,home,1.440,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-01,USL League Two,Project 51O,San Francisco City,1x2,away,2.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-02,Liga Pro Serie B,Cumbayá,22 de Julio,1x2,home,1.800,won,0.8000,https://oddsintel.app/picks
+oddsintel,2026-07-02,Liga Pro Serie B,Cumbayá,22 de Julio,1x2,home,1.800,won,0.8000,https://oddsintel.app/picks
+oddsintel,2026-07-03,1. Deild,IR Reykjavik,Afturelding,1x2,away,1.790,won,0.7900,https://oddsintel.app/picks
+oddsintel,2026-07-03,1. Deild,IR Reykjavik,Afturelding,1x2,away,1.790,won,0.7900,https://oddsintel.app/picks
+oddsintel,2026-07-03,Friendlies Clubs,Deutschlandsberger SC,SV Kapfenberg,1x2,away,1.620,won,0.6200,https://oddsintel.app/picks
+oddsintel,2026-07-03,Youth Championship,Spartak Moskva U19,Akademiya Konoplev U20,1x2,home,1.360,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-03,1. Deild,Grotta,HK Kopavogur,1x2,away,1.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-03,1. Deild,Grotta,HK Kopavogur,1x2,away,1.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-04,USL League Two,Midlakes United,Bangers,1x2,away,1.650,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-04,South Australia State League 1,Adelaide Cobras,Fulham United,1x2,away,3.850,won,2.8500,https://oddsintel.app/picks
+oddsintel,2026-07-04,South Australia State League 1,Adelaide Cobras,Fulham United,over_under_25,under,2.720,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-04,South Australia State League 1,Adelaide Cobras,Fulham United,1x2,away,3.850,won,2.8500,https://oddsintel.app/picks
+oddsintel,2026-07-04,League Two,Shangyu Pterosaur,Hubei Chufeng Heli,1x2,away,2.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-04,Esiliiga A,FC Tallinn,Nõmme United II,1x2,away,1.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-04,Esiliiga A,FC Tallinn,Nõmme United II,1x2,away,1.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-04,League Two,Chengdu Rongcheng II,Wuhan Three Towns II,over_under_25,over,2.480,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-04,Premier League,Kairat Almaty,Okzhetpes,1x2,home,1.420,won,0.4200,https://oddsintel.app/picks
+oddsintel,2026-07-04,Ykkönen,KuPS Akatemia,Tampere United,1x2,away,1.680,won,0.6800,https://oddsintel.app/picks
+oddsintel,2026-07-04,Premier League,Neman,Arsenal,1x2,home,2.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-04,Premier League,Neman,Arsenal,1x2,home,2.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-04,Friendlies Clubs,Haverfordwest County AFC,Hamilton Academical,over_under_25,under,2.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-04,Friendlies Clubs,SCR Altach,1. FC Heidenheim,over_under_25,under,2.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-04,Veikkausliiga,VPS,Mariehamn,1x2,home,1.330,won,0.3300,https://oddsintel.app/picks
+oddsintel,2026-07-04,Friendlies Clubs,Nafta,Budapest Honved,1x2,away,2.600,won,1.6000,https://oddsintel.app/picks
+oddsintel,2026-07-05,Ykkönen,TPV,JJK,1x2,away,1.660,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-07,Friendlies Clubs,Podbeskidzie,Baník Ostrava II,1x2,home,3.550,won,2.5500,https://oddsintel.app/picks
+oddsintel,2026-07-07,Friendlies Clubs,Airdrie United,Falkirk,over_under_25,under,2.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-07,Friendlies Clubs,Cove Rangers,Inverness CT,1x2,home,3.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-08,Friendlies Clubs,Eltersdorf,SpVgg Greuther Fürth,1x2,away,1.290,won,0.2900,https://oddsintel.app/picks
+oddsintel,2026-07-10,Friendlies Clubs,Ludogorets,Septemvri Sofia,over_under_25,under,2.400,won,1.4000,https://oddsintel.app/picks
+oddsintel,2026-07-10,Premier Division,Dundalk,Drogheda United,over_under_25,under,2.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-10,Friendlies Clubs,Radomiak Radom,Dynamo Kyiv,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-10,Friendlies Clubs,Wiener Viktoria,SK Vorwarts Steyr,over_under_25,under,3.600,won,2.6000,https://oddsintel.app/picks
+oddsintel,2026-07-10,Paulista - U20,União São João U20,Aguai U20,over_under_25,under,1.870,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-11,Friendlies Clubs,Mladá Boleslav,Táborsko,1x2,home,1.650,won,0.6500,https://oddsintel.app/picks
+oddsintel,2026-07-11,Friendlies Clubs,Gloucester City,Newport County,over_under_25,under,2.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-11,First League,FK Neftekhimik,Veles,over_under_25,under,1.700,won,0.7000,https://oddsintel.app/picks
+oddsintel,2026-07-12,First League,Nizhny Novgorod,Rotor Volgograd,over_under_25,over,2.260,won,1.2600,https://oddsintel.app/picks
+oddsintel,2026-07-14,Friendlies Clubs,SV Wehen,Fagiano Okayama,1x2,home,3.540,won,2.5400,https://oddsintel.app/picks
+oddsintel,2026-07-17,First League,Levski Sofia,Dunav Ruse,over_under_25,under,2.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-17,Friendlies Clubs,Ústí nad Labem,Dukla Praha,1x2,home,3.360,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,Major League Soccer,Los Angeles Galaxy,Los Angeles FC,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,Victoria NPL,Hume City,Oakleigh Cannons,1x2,home,3.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,New South Wales NPL 2,Canterbury Bankstown,Blacktown Spartans,1x2,home,2.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,Veikkausliiga,SJK,KuPS,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,Esiliiga A,Nõmme Kalju II,FCI Levadia II,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,Esiliiga A,Nõmme Kalju II,FCI Levadia II,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,K League 2,Suwon City FC,Seoul E-Land FC,1x2,home,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,Friendlies Clubs,NAC Breda,Excelsior,1x2,home,3.260,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,Friendlies Clubs,Burton Albion,Leicester,1x2,home,3.060,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,Friendlies Clubs,Southend,West Ham,over_under_25,under,2.610,won,1.6100,https://oddsintel.app/picks
+oddsintel,2026-07-18,Western Australia NPL,Dianella White Eagle,Olympic Kingsway,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,Friendlies Clubs,Falkirk,Genk,over_under_25,under,2.550,won,1.5500,https://oddsintel.app/picks
+oddsintel,2026-07-18,Segunda División,Uruguay Montevideo,CA River Plate,1x2,home,3.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,Segunda División,Uruguay Montevideo,CA River Plate,1x2,home,3.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-18,1. Liga,Leevon / PPK,Riga Mariners,1x2,home,3.740,won,2.7400,https://oddsintel.app/picks
+oddsintel,2026-07-18,Friendlies Clubs,FC Ingolstadt 04,Palermo,1x2,home,4.450,won,3.4500,https://oddsintel.app/picks
+oddsintel,2026-07-18,Veikkausliiga,SJK,KuPS,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-19,Meistriliiga,Kuressaare,Kalju Nomme,over_under_25,under,2.240,won,1.2400,https://oddsintel.app/picks
+oddsintel,2026-07-19,Friendlies Clubs,Rochdale,Al-Rayyan SC,1x2,home,3.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-20,Superettan,Norrby IF,GIF Sundsvall,over_under_25,over,1.920,won,0.9200,https://oddsintel.app/picks
+oddsintel,2026-07-21,Australia Cup,Preston Lions,Newcastle Jets,1x2,home,4.350,won,3.3500,https://oddsintel.app/picks
+oddsintel,2026-07-21,Friendlies Clubs,Forest Green,Bristol Rovers,1x2,home,3.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-22,Reserve League,Belgrano Córdoba Res.,Ferro 2,over_under_25,under,2.000,won,1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-22,Friendlies Clubs,Southend,Northampton,over_under_25,under,2.310,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-22,Friendlies Clubs,Stevenage,West Ham,over_under_25,under,2.230,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-24,Cup,SV Horn,Floridsdorfer AC,over_under_25,under,2.220,won,1.2200,https://oddsintel.app/picks
+oddsintel,2026-07-28,Friendlies Clubs,Darlington 1883,Rotherham,1x2,home,4.330,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-28,Friendlies Clubs,Marine,Warrington Town,over_under_25,under,2.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-29,FA Cup,Ulsan Citizen,Ulsan Hyundai FC,over_under_25,under,2.700,won,1.7000,https://oddsintel.app/picks
+oddsintel,2026-07-29,Friendlies Clubs,Bristol City,Newcastle,1x2,home,4.150,won,3.1500,https://oddsintel.app/picks
+oddsintel,2026-07-31,Friendlies Clubs,Nantes,Al Wakrah,over_under_25,under,2.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-31,Friendlies Clubs,Scunthorpe,Chesterfield,1x2,home,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-31,Friendlies Clubs,Ebbsfleet United,Gillingham,1x2,home,4.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-31,I Liga,Lechia Gdansk,Warta Poznań,1x2,home,2.670,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-07-31,Division 2 - Västra Götaland,Böljan,Västra Frölunda,1x2,home,3.800,won,2.8000,https://oddsintel.app/picks
+oddsintel,2026-07-31,Friendlies Clubs,Mansfield Town,Derby,1x2,home,2.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,South Australia State League 1,Adelaide Cobras,Adelaide Olympic,1x2,home,3.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Liga Panameña de Fútbol,Sporting San Miguelito,Plaza Amador,1x2,home,3.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Major League Soccer,DC United,Nashville SC,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,2. Division - Group 1,Pors Grenland,Brattvåg,1x2,home,4.070,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Cup,Přepeře,Velke Hamry,1x2,home,3.450,won,2.4500,https://oddsintel.app/picks
+oddsintel,2026-08-01,Friendlies Clubs,De Graafschap,Excelsior,1x2,home,3.520,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Friendlies Clubs,Dynamo Dresden,Union Berlin,1x2,home,3.800,won,2.8000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Friendlies Clubs,Energie Cottbus,Werder Bremen,1x2,home,3.580,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,2. liga,Lokomotíva Zvolen,Tatran Prešov,1x2,home,3.320,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,2. liga,Lokomotíva Zvolen,Tatran Prešov,1x2,home,3.320,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Friendlies Clubs,Reading,Charlton,1x2,home,4.200,won,3.2000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Premier League,Dinamo Makhachkala,Lokomotiv,1x2,home,3.620,won,2.6200,https://oddsintel.app/picks
+oddsintel,2026-08-01,Superliga,Lyngby,Aarhus,1x2,home,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Division 2 - Norra Svealand,Lidingö,Angby,1x2,home,3.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Division 2 - Norra Svealand,Korsnäs,Helges,over_under_25,under,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Friendlies Clubs,Bognor Regis Town,Chichester City,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Friendlies Clubs,Cheltenham,Milton Keynes Dons,1x2,home,3.520,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Friendlies Clubs,Oldham,Sheffield Wednesday,1x2,home,4.100,won,3.1000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Friendlies Clubs,Leicester,Genoa,1x2,home,2.680,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-01,Veikkausliiga,Gnistan,KuPS,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-02,Major League Soccer,Sporting Kansas City,Houston Dynamo,1x2,home,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-02,Allsvenskan,IF Brommapojkarna,Malmö FF,1x2,home,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-02,Liga Panameña de Fútbol,Union Cocle,San Francisco FC,1x2,home,2.720,won,1.7200,https://oddsintel.app/picks
+oddsintel,2026-08-02,3. liga - MSFL,Havířov,Zlín II,over_under_25,under,2.170,won,1.1700,https://oddsintel.app/picks
+oddsintel,2026-08-02,Friendlies Clubs,Leyton Orient,Antwerp,1x2,home,3.200,won,2.2000,https://oddsintel.app/picks
+oddsintel,2026-08-02,Friendlies Clubs,Feyenoord,Atalanta,1x2,home,2.950,won,1.9500,https://oddsintel.app/picks
+oddsintel,2026-08-03,Segunda División,Paysandu,Oriental,1x2,home,3.200,won,2.2000,https://oddsintel.app/picks
+oddsintel,2026-08-03,Segunda División,Paysandu,Oriental,1x2,home,3.200,won,2.2000,https://oddsintel.app/picks
+oddsintel,2026-08-03,Second League,Pirin Blagoevgrad,CSKA Sofia II,1x2,home,2.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-03,Second League,Pirin Blagoevgrad,CSKA Sofia II,1x2,home,2.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-03,Division Intermedia,3 de Noviembre,Sportivo Carapeguá,1x2,home,2.620,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-05,Friendlies Clubs,Mallorca,Paris Saint Germain,1x2,home,4.100,won,3.1000,https://oddsintel.app/picks
+oddsintel,2026-08-06,UEFA Europa Conference League,IFK Goteborg,Gent,1x2,home,3.470,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-06,Friendlies Clubs,Real Jaén,Cordoba,1x2,home,3.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-07,Premier League,Naftan,Arsenal,1x2,home,3.150,won,2.1500,https://oddsintel.app/picks
+oddsintel,2026-08-07,I Liga,Polonia Bytom,Pogoń Siedlce,over_under_25,over,1.700,won,0.7000,https://oddsintel.app/picks
+oddsintel,2026-08-08,Western Australia State League 1,Inglewood United,Joondalup City,1x2,home,3.450,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-08,League Two,Shanghai Port II,Shandong Taishan II,over_under_25,over,2.310,won,1.3100,https://oddsintel.app/picks
+oddsintel,2026-08-08,League Two,Shanghai Port II,Shandong Taishan II,over_under_25,over,2.310,won,1.3100,https://oddsintel.app/picks
+oddsintel,2026-08-08,South Australia State League 1,Cumberland United,Adelaide Olympic,1x2,home,2.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-08,Australia Cup,Western Sydney Wanderers,Melbourne Victory,1x2,home,3.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-08,1 Lyga,Dainava,Babrungas,1x2,home,3.200,won,2.2000,https://oddsintel.app/picks
+oddsintel,2026-08-08,1 Lyga,Dainava,Babrungas,1x2,home,3.200,won,2.2000,https://oddsintel.app/picks
+oddsintel,2026-08-08,MLS Next Pro,Columbus Crew II,New York RB II,1x2,home,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-08,Western Australia State League 1,Inglewood United,Joondalup City,1x2,home,3.450,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-08,USL Championship,Miami FC,Las Vegas Lights,1x2,home,2.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-08,USL Championship,Miami FC,Las Vegas Lights,1x2,home,2.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-08,MLS Next Pro,Philadelphia Union II,FC Cincinnati II,over_under_25,under,2.440,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-08,MLS Next Pro,Philadelphia Union II,FC Cincinnati II,over_under_25,under,2.440,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-08,Primera B Metropolitana,Brown DE Adrogue,Excursionistas,1x2,home,3.500,won,2.5000,https://oddsintel.app/picks
+oddsintel,2026-08-08,3. Division - Girone 2,NTNUI,Byåsen,1x2,home,2.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-08,NB III - Northwest,Bicskei,SC Sopron,over_under_25,over,1.650,won,0.6500,https://oddsintel.app/picks
+oddsintel,2026-08-09,Jupiler Pro League,Zulte Waregem,Genk,1x2,home,3.200,won,2.2000,https://oddsintel.app/picks
+oddsintel,2026-08-09,J1 League,Tokyo Verdy,Kawasaki Frontale,1x2,home,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-09,2. Bundesliga,Energie Cottbus,Hannover 96,1x2,home,3.550,won,2.5500,https://oddsintel.app/picks
+oddsintel,2026-08-11,Ykkönen,JJK,Tampere United,1x2,home,3.130,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-11,Copa Paraguay,Independiente F.b.c.,Sportivo Ameliano,over_under_25,under,2.350,won,1.3500,https://oddsintel.app/picks
+oddsintel,2026-08-11,National League Cup,Hartlepool,Middlesbrough U21,1x2,home,4.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-16,Jupiler Pro League,SK Beveren,Anderlecht,1x2,home,3.400,won,2.4000,https://oddsintel.app/picks
+oddsintel,2026-08-16,Veikkausliiga,AC Oulu,Inter Turku,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-16,Meistriliiga,Trans Narva,Paide,1x2,home,3.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-16,Jupiler Pro League,RAAL La Louvière,Gent,1x2,home,3.050,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-16,Primera B Metropolitana,UAI Urquiza,Deportivo Armenio,1x2,home,3.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-16,Segunda División,Deportes Rengo,Lota Schwager,over_under_25,under,1.750,won,0.7500,https://oddsintel.app/picks
+oddsintel,2026-08-16,Segunda División,Burgos,Cordoba,1x2,home,2.500,won,1.5000,https://oddsintel.app/picks
+oddsintel,2026-08-17,Eerste Divisie,Jong Ajax,Emmen,1x2,home,2.930,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-17,Victoria NPL 2,Bulleen Lions,North Sunshine Eagles,over_under_25,under,2.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-17,3. Division - Girone 2,Molde II,Rosenborg II,1x2,home,3.800,won,2.8000,https://oddsintel.app/picks
+oddsintel,2026-08-17,1. Deild,Völsungur,Vestri,1x2,home,2.800,won,1.8000,https://oddsintel.app/picks
+oddsintel,2026-08-17,1. Deild,Völsungur,Vestri,1x2,home,2.800,won,1.8000,https://oddsintel.app/picks
+oddsintel,2026-08-17,1. Deild,Völsungur,Vestri,1x2,home,2.800,won,1.8000,https://oddsintel.app/picks
+oddsintel,2026-08-17,Division Intermedia,3 de Noviembre,Atlético Tembetary,1x2,home,3.300,won,2.3000,https://oddsintel.app/picks
+oddsintel,2026-08-17,Division Intermedia,3 de Noviembre,Atlético Tembetary,1x2,home,3.300,won,2.3000,https://oddsintel.app/picks
+oddsintel,2026-08-18,Second League,Pirin Blagoevgrad,Hebar 1918,1x2,home,3.160,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-18,Second League,Pirin Blagoevgrad,Hebar 1918,1x2,home,3.160,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-18,Cupa României,CSM Reşiţa,Petrolul Ploiesti,1x2,home,2.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-18,Cup,FC Rostov,Lokomotiv,1x2,home,2.380,won,1.3800,https://oddsintel.app/picks
+oddsintel,2026-08-19,2. Deild,Kormákur / Hvöt,Haukar,1x2,home,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-19,Copa Venezuela,Club Atletico Barinas,Zamora FC,1x2,home,3.900,won,2.9000,https://oddsintel.app/picks
+oddsintel,2026-08-19,Cupa României,CS Afumati,FC Voluntari,1x2,home,4.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-20,Major League Soccer,Colorado Rapids,Los Angeles FC,1x2,home,2.900,won,1.9000,https://oddsintel.app/picks
+oddsintel,2026-08-20,Esiliiga A,FC Tallinn,Nõmme United II,1x2,home,2.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-20,Esiliiga A,FC Tallinn,Nõmme United II,1x2,home,2.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-20,Esiliiga A,FC Tallinn,Nõmme United II,1x2,home,2.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-21,Ykkönen,KPV-j,KuPS Akatemia,1x2,home,2.450,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-21,Liga Profesional Argentina,Aldosivi,Union Santa Fe,1x2,home,3.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-21,Segunda División,Cordoba,Girona,1x2,home,3.150,won,2.1500,https://oddsintel.app/picks
+oddsintel,2026-08-21,1. Lig,Fatih Karagümrük,Bursaspor,1x2,home,3.800,won,2.8000,https://oddsintel.app/picks
+oddsintel,2026-08-21,Second League,Lokomotiv G. Oryahovitsa,Etar Veliko Tarnovo,1x2,home,3.450,won,2.4500,https://oddsintel.app/picks
+oddsintel,2026-08-21,Second League,Lokomotiv G. Oryahovitsa,Etar Veliko Tarnovo,1x2,home,3.450,won,2.4500,https://oddsintel.app/picks
+oddsintel,2026-08-21,2. Liga,Wacker Innsbruck,SKN ST. Polten,1x2,home,3.400,won,2.4000,https://oddsintel.app/picks
+oddsintel,2026-08-21,2. Liga,Wacker Innsbruck,SKN ST. Polten,1x2,home,3.400,won,2.4000,https://oddsintel.app/picks
+oddsintel,2026-08-21,Serie C - Girone B,Vado,Atalanta II,1x2,home,3.150,won,2.1500,https://oddsintel.app/picks
+oddsintel,2026-08-21,Challenge League,Neuchatel Xamax FC,Stade Lausanne-Ouchy,1x2,home,3.780,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-21,Ligue 2,Sochaux,Guingamp,1x2,home,2.950,won,1.9500,https://oddsintel.app/picks
+oddsintel,2026-08-21,Ligue 2,Sochaux,Guingamp,1x2,home,2.950,won,1.9500,https://oddsintel.app/picks
+oddsintel,2026-08-21,Ligue 2,Sochaux,Guingamp,1x2,home,2.950,won,1.9500,https://oddsintel.app/picks
+oddsintel,2026-08-22,Victoria NPL 2,Melbourne Srbija,Bulleen Lions,over_under_25,under,2.330,won,1.3300,https://oddsintel.app/picks
+oddsintel,2026-08-22,Virsliga,Ogre United,FS Jelgava,1x2,home,3.850,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-22,Segunda División,AD Ceuta FC,Las Palmas,1x2,home,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-22,Ligue 1,Estac Troyes,Paris FC,1x2,home,3.160,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-22,NB II,Gyirmot SE,Kecskeméti TE,1x2,home,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-22,NB II,Gyirmot SE,Kecskeméti TE,1x2,home,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-22,Victoria NPL,Dandenong City,Preston Lions,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-22,Victoria NPL,Dandenong City,Preston Lions,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-22,Segunda División,Tacuarembo,Fenix,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-22,Segunda División,Tacuarembo,Fenix,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-22,Super League,FC Zürich,FC Basel 1893,1x2,home,3.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-22,Ligue 1,Toulouse,Lyon,1x2,home,2.840,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-23,2. Deild,Thróttur Vogar,Selfoss,1x2,home,3.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-23,Segunda División,Tenerife,Almeria,1x2,home,3.300,won,2.3000,https://oddsintel.app/picks
+oddsintel,2026-08-23,Segunda División,Academia Cantolao,Molinos El Pirata,1x2,home,3.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-23,Segunda División,Sporting Gijon,Burgos,1x2,home,2.350,won,1.3500,https://oddsintel.app/picks
+oddsintel,2026-08-23,Super Liga,Sireți,Dacia-Buiucani,1x2,home,3.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-23,Liga MX,Atletico San Luis,CF Pachuca,1x2,home,3.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-23,Segunda División,Club Atletico Barinas,Urena SC,1x2,home,3.050,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-24,Premier League 2 Division One,Sunderland U21,Nottingham Forest U21,over_under_25,under,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-24,Segunda División,Granada CF,Mallorca,1x2,home,3.200,won,2.2000,https://oddsintel.app/picks
+oddsintel,2026-08-24,Primera Nacional,Club Atlético Güemes,Atletico DE Rafaela,1x2,home,2.890,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-25,Professional Development League,Wigan Athletic U21,Cardiff City U21,over_under_25,under,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-25,League Cup,Cambridge United,Millwall,1x2,home,3.440,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-25,Copa Paraguay,SOL DE America,Sportivo Trinidense,1x2,home,3.800,won,2.8000,https://oddsintel.app/picks
+oddsintel,2026-08-26,Cup,Dinamo Predavac,Hrvatski Dragovoljac,over_under_25,under,2.380,won,1.3800,https://oddsintel.app/picks
+oddsintel,2026-08-26,Premier League Cup,Bromley U21,West Bromwich Albion U21,1x2,home,3.950,won,2.9500,https://oddsintel.app/picks
+oddsintel,2026-08-26,Premier League Cup,Stockport County U21,Charlton Athletic U21,1x2,home,4.330,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-27,UEFA Europa Conference League,FK Partizan,Getafe,1x2,home,3.400,won,2.4000,https://oddsintel.app/picks
+oddsintel,2026-08-27,UEFA Europa League,Saburtalo,Jagiellonia,1x2,home,3.620,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-27,Second League,Tersana,La Viena FC,1x2,home,2.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-28,2. Liga,Voitsberg,FC Liefering,over_under_25,under,2.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-28,Eerste Divisie,Roda,NAC Breda,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-28,Eerste Divisie,Roda,NAC Breda,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-28,La Liga,Alaves,Villarreal,1x2,home,3.250,won,2.2500,https://oddsintel.app/picks
+oddsintel,2026-08-28,Serie C - Girone C,Barletta,Bari,1x2,home,3.300,won,2.3000,https://oddsintel.app/picks
+oddsintel,2026-08-29,K League 2,Seongnam FC,Seoul E-Land FC,1x2,home,3.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,K League 2,Seongnam FC,Seoul E-Land FC,1x2,home,3.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,Ligue 2,RED Star FC 93,Reims,1x2,home,3.080,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,Ligue 2,RED Star FC 93,Reims,1x2,home,3.080,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,Ligue 2,RED Star FC 93,Reims,1x2,home,3.080,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,I Liga,Pogoń Siedlce,Stal Mielec,1x2,home,2.980,won,1.9800,https://oddsintel.app/picks
+oddsintel,2026-08-29,I Liga,Pogoń Siedlce,Stal Mielec,1x2,home,2.980,won,1.9800,https://oddsintel.app/picks
+oddsintel,2026-08-29,1. Deild,Leiknir R.,Njardvik,1x2,home,4.000,won,3.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,1. Deild,Leiknir R.,Njardvik,1x2,home,4.000,won,3.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,1. Deild,Leiknir R.,Njardvik,1x2,home,4.000,won,3.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,2. Deild,Vikingur Olafsiik,Haukar,1x2,home,4.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,First League,Tekstilshchik,Veles,1x2,home,3.220,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,First League,Tekstilshchik,Veles,1x2,home,3.220,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,Serie A,Monza,Udinese,1x2,home,3.280,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,Ligue 2,Guingamp,Nantes,1x2,home,3.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,Ligue 2,Guingamp,Nantes,1x2,home,3.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,Ligue 2,Guingamp,Nantes,1x2,home,3.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,Major League Soccer,DC United,Los Angeles FC,1x2,home,3.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,Premier League,Livyi Bereh,Karpaty,1x2,home,3.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-29,Division 2 - Norra Svealand,Skiljebo,Sunnersta,over_under_25,under,2.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-30,New South Wales NPL,Sydney Olympic,Sydney FC U23,1x2,home,4.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-30,New South Wales NPL,Sydney Olympic,Sydney FC U23,1x2,home,4.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-30,Primera Nacional,Racing Cordoba,Colon Santa Fe,1x2,home,3.210,won,2.2100,https://oddsintel.app/picks
+oddsintel,2026-08-30,Primera Nacional,Racing Cordoba,Colon Santa Fe,1x2,home,3.210,won,2.2100,https://oddsintel.app/picks
+oddsintel,2026-08-30,Esiliiga A,Nõmme United II,Elva,1x2,home,2.880,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-30,Jupiler Pro League,KVC Westerlo,Zulte Waregem,1x2,home,3.130,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-30,Segunda División,Oriental,Plaza Colonia,1x2,home,2.950,won,1.9500,https://oddsintel.app/picks
+oddsintel,2026-08-30,Segunda División,Oriental,Plaza Colonia,1x2,home,2.950,won,1.9500,https://oddsintel.app/picks
+oddsintel,2026-08-30,Primera División,Trujillanos FC,Monagas SC,1x2,home,3.200,won,2.2000,https://oddsintel.app/picks
+oddsintel,2026-08-31,Division Intermedia,Encarnación,Benjamín Aceval,1x2,home,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-08-31,Division Intermedia,Encarnación,Benjamín Aceval,1x2,home,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-01,Championship,Stoke City,Norwich,1x2,home,3.110,won,2.1100,https://oddsintel.app/picks
+oddsintel,2026-09-01,Championship,Stoke City,Norwich,1x2,home,3.110,won,2.1100,https://oddsintel.app/picks
+oddsintel,2026-09-01,Reserve League,Aldosivi Res.,Racing Club Res.,1x2,home,3.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-02,UEFA Champions League Women,Inter Milano W,VfL Wolfsburg (W),1x2,home,3.800,won,2.8000,https://oddsintel.app/picks
+oddsintel,2026-09-02,3. liga - MSFL,Vítkovice,Uničov,1x2,home,3.100,won,2.1000,https://oddsintel.app/picks
+oddsintel,2026-09-03,AFC U20 Asian Cup,Korea DPR U20,Iran U20,1x2,home,3.800,won,2.8000,https://oddsintel.app/picks
+oddsintel,2026-09-03,Copa Do Brasil,Gremio,Internacional,over_under_25,over,2.740,won,1.7400,https://oddsintel.app/picks
+oddsintel,2026-09-04,Ligue 2,Laval,RED Star FC 93,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,Ligue 2,Laval,RED Star FC 93,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,Ligue 2,Laval,RED Star FC 93,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,Premier League Cup,Leicester City U21,AFC Bournemouth U21,over_under_25,under,2.830,won,1.8300,https://oddsintel.app/picks
+oddsintel,2026-09-04,Bundesliga,VfB Stuttgart,1. FC Köln,over_under_25,under,3.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,La Liga,Real Betis,Real Madrid,over_under_25,under,3.100,won,2.1000,https://oddsintel.app/picks
+oddsintel,2026-09-04,Serie B,Criciuma,Cuiaba,over_under_25,over,2.780,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,Primera Nacional,Ferro Carril Oeste,Atletico Mitre,over_under_25,over,2.690,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,Eliteserien,Fredrikstad,Bodo/Glimt,over_under_25,under,3.030,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,Premier Soccer League,Richards Bay,Amazulu,over_under_25,over,2.820,won,1.8200,https://oddsintel.app/picks
+oddsintel,2026-09-04,Premier League Cup,Coventry City U21,West Bromwich Albion U21,over_under_25,under,3.050,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,1 Lyga,Jonava,Dainava,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,1 Lyga,Jonava,Dainava,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,Ligue 2,Grenoble,Annecy,1x2,home,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,Ligue 2,Grenoble,Annecy,1x2,home,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,Ligue 2,Grenoble,Annecy,1x2,home,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,MLS Next Pro,Philadelphia Union II,Columbus Crew II,over_under_25,under,2.880,won,1.8800,https://oddsintel.app/picks
+oddsintel,2026-09-04,MLS Next Pro,Philadelphia Union II,Columbus Crew II,over_under_25,under,2.880,won,1.8800,https://oddsintel.app/picks
+oddsintel,2026-09-04,MLS Next Pro,Carolina Core,New England II,1x2,home,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,MLS Next Pro,Inter Miami II,Orlando City II,1x2,home,2.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,MLS Next Pro,Inter Miami II,Orlando City II,1x2,home,2.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-04,MLS Next Pro,Inter Miami II,Orlando City II,1x2,home,2.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,1. Deild,Njardvik,Afturelding,over_under_25,under,2.890,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,1. Deild,Njardvik,Afturelding,over_under_25,under,2.890,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Segunda Liga,Feirense,Sporting CP B,over_under_25,over,2.350,won,1.3500,https://oddsintel.app/picks
+oddsintel,2026-09-05,Premier Soccer League,Sekhukhune United,TS Galaxy,over_under_25,over,2.460,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Liga Profesional Argentina,Aldosivi,Banfield,over_under_25,over,2.750,won,1.7500,https://oddsintel.app/picks
+oddsintel,2026-09-05,Úrvalsdeild,Keflavik,Valur Reykjavík,over_under_25,under,3.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Serie B,Goias,Fortaleza EC,over_under_25,over,2.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Liga Profesional Argentina,San Lorenzo,Talleres Cordoba,over_under_25,over,2.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Tweede Divisie,GVVV Veenendaal,Quick Boys,over_under_25,over,1.420,won,0.4200,https://oddsintel.app/picks
+oddsintel,2026-09-05,2. Bundesliga,VfL Wolfsburg,Energie Cottbus,over_under_25,under,3.030,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Eredivisie,NEC Nijmegen,Feyenoord,over_under_25,under,3.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Major League Soccer,Orlando City SC,San Diego,over_under_25,under,3.150,won,2.1500,https://oddsintel.app/picks
+oddsintel,2026-09-05,1. Division,FC Fredericia,Esbjerg,over_under_25,under,3.160,won,2.1600,https://oddsintel.app/picks
+oddsintel,2026-09-05,I Liga,Stal Rzeszów,Polonia Warszawa,1x2,home,3.270,won,2.2700,https://oddsintel.app/picks
+oddsintel,2026-09-05,I Liga,Stal Rzeszów,Polonia Warszawa,1x2,home,3.270,won,2.2700,https://oddsintel.app/picks
+oddsintel,2026-09-05,1. Deild,Grotta,Völsungur,over_under_25,under,3.200,won,2.2000,https://oddsintel.app/picks
+oddsintel,2026-09-05,1. Deild,Grotta,Völsungur,over_under_25,under,3.200,won,2.2000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Championship,Preston,Blackburn,1x2,home,2.500,won,1.5000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Jupiler Pro League,Charleroi,Union St. Gilloise,1x2,home,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Championship,Portsmouth,Cardiff,1x2,home,2.450,won,1.4500,https://oddsintel.app/picks
+oddsintel,2026-09-05,Serie B,Sudtirol,Catanzaro,1x2,home,2.510,won,1.5100,https://oddsintel.app/picks
+oddsintel,2026-09-05,Regionalliga - West,Borussia M'gladbach II,Borussia Dortmund II,over_under_25,under,3.350,won,2.3500,https://oddsintel.app/picks
+oddsintel,2026-09-05,Segunda División,Real Sociedad II,Tenerife,1x2,home,2.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,League One,Wigan,Stockport County,1x2,home,3.120,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,2. Deild,Magni,Kári,1x2,home,4.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,2. Deild,Magni,Kári,1x2,home,4.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Damallsvenskan,Hammarby W,Norrköping W,over_under_25,under,3.300,won,2.3000,https://oddsintel.app/picks
+oddsintel,2026-09-05,2. liga,Galanta,Malženice,1x2,home,2.800,won,1.8000,https://oddsintel.app/picks
+oddsintel,2026-09-05,2. liga,Galanta,Malženice,1x2,home,2.800,won,1.8000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Primeira Liga,Sporting CP,Nacional,over_under_25,under,2.910,won,1.9100,https://oddsintel.app/picks
+oddsintel,2026-09-05,Premier League,Manchester City,Coventry,over_under_25,under,3.440,won,2.4400,https://oddsintel.app/picks
+oddsintel,2026-09-05,Eredivisie,NEC Nijmegen,Feyenoord,1x2,home,2.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Úrvalsdeild,Keflavik,Valur Reykjavík,over_under_25,under,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Serie B,Carrarese,Empoli,1x2,home,2.570,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Segunda División,Miramar,Colón,1x2,home,3.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Segunda División,Santiago City,Concón National,1x2,home,2.450,won,1.4500,https://oddsintel.app/picks
+oddsintel,2026-09-05,Segunda División,Santiago City,Concón National,1x2,home,2.450,won,1.4500,https://oddsintel.app/picks
+oddsintel,2026-09-05,Eredivisie,Ajax,PSV Eindhoven,1x2,home,2.680,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,La Liga,Rayo Vallecano,Racing Santander,1x2,home,2.300,won,1.3000,https://oddsintel.app/picks
+oddsintel,2026-09-05,NB I,Paks,Debreceni VSC,over_under_25,under,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,Pro League,Al-Ittihad FC,Al-Nassr,over_under_25,under,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,USL Championship,Miami FC,Pittsburgh Riverhounds,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,USL Championship,Miami FC,Pittsburgh Riverhounds,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-05,USL Championship,Miami FC,Pittsburgh Riverhounds,1x2,home,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Major League Soccer,Seattle Sounders,New York Red Bulls,over_under_25,under,3.400,won,2.4000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Super League,Servette FC,FC ST. Gallen,over_under_25,under,2.930,won,1.9300,https://oddsintel.app/picks
+oddsintel,2026-09-06,Úrvalsdeild,Stjarnan,IBV Vestmannaeyjar,over_under_25,under,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Cup,Kitzbühel,Grazer AK,over_under_25,under,2.920,won,1.9200,https://oddsintel.app/picks
+oddsintel,2026-09-06,Segunda División,Oviedo,Burgos,over_under_25,over,2.720,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,La Liga,Valencia,Barcelona,over_under_25,under,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Eliteserien,Molde,KFUM Oslo,over_under_25,under,3.100,won,2.1000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Segunda División,Tacuarembo,Oriental,over_under_25,over,2.590,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Primera Nacional,San Martin S.J.,Midland,over_under_25,over,2.830,won,1.8300,https://oddsintel.app/picks
+oddsintel,2026-09-06,Primera División Femenina,Real Madrid (W),Eibar W,over_under_25,under,2.870,won,1.8700,https://oddsintel.app/picks
+oddsintel,2026-09-06,Úrvalsdeild,Vikingur Reykjavík,Fram Reykjavík,over_under_25,under,3.370,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Championship,Birmingham,Wolves,1x2,home,2.960,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Championship,Birmingham,Wolves,1x2,home,2.960,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Primera Nacional,Deportivo Madryn,Ciudad de Bolívar,over_under_25,over,2.690,won,1.6900,https://oddsintel.app/picks
+oddsintel,2026-09-06,Primera Nacional,Club Atlético Güemes,Gimnasia y Tiro,over_under_25,over,2.920,won,1.9200,https://oddsintel.app/picks
+oddsintel,2026-09-06,Liga Profesional Argentina,Central Cordoba de Santiago,Independiente,over_under_25,over,2.670,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,2. Bundesliga,Hertha BSC,1. FC Magdeburg,over_under_25,under,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,C-League,National Defense,Visakha,over_under_25,under,3.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Serie B,Juve Stabia,Pisa,1x2,home,3.010,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Super League,FC Sion,FC Thun,over_under_25,under,2.930,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Jupiler Pro League,Kortrijk,Zulte Waregem,1x2,home,3.120,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-06,Liga MX,Cruz Azul,Santos Laguna,over_under_25,under,2.850,won,1.8500,https://oddsintel.app/picks
+oddsintel,2026-09-07,Liga I,FC Voluntari,Arges Pitesti,over_under_25,over,2.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-07,Primera Nacional,Nueva Chicago,Quilmes,over_under_25,over,2.730,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-07,Premier League,Al Ittihad,Asyut Petrol,over_under_25,over,2.930,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-07,Prva Liga,FK Voždovac,TSC Bačka Topola,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-07,Prva Liga,FK Voždovac,TSC Bačka Topola,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-07,Premier League Cup,Plymouth U21,Cardiff City U21,1x2,home,3.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-08,Championship,Blackburn,Sheffield Utd,1x2,home,3.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-08,Championship,Blackburn,Sheffield Utd,1x2,home,3.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-08,UEFA Youth League,Real Madrid U19,Internazionale U19,over_under_25,under,2.940,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-08,EFL Trophy,Exeter City,Tottenham Hotspur U21,over_under_25,under,2.940,won,1.9400,https://oddsintel.app/picks
+oddsintel,2026-09-08,Cup,Olympiakos Piraeus,Volos NFC,over_under_25,under,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-08,Challenge Cup,Gala Fairydean Rovers,Hearts U21,over_under_25,under,2.950,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-08,National League Cup,Boston United,West Bromwich Albion U21,over_under_25,under,2.800,won,1.8000,https://oddsintel.app/picks
+oddsintel,2026-09-08,UEFA Youth League,Lille U19,Real Betis U19,1x2,home,3.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-08,Premier League,Smouha SC,Ceramica Cleopatra,over_under_25,over,2.970,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-08,MLS Next Pro,New York City II,New York RB II,1x2,home,3.180,won,2.1800,https://oddsintel.app/picks
+oddsintel,2026-09-08,MLS Next Pro,New York City II,New York RB II,1x2,home,3.180,won,2.1800,https://oddsintel.app/picks
+oddsintel,2026-09-08,MLS Next Pro,New York City II,New York RB II,1x2,home,3.180,won,2.1800,https://oddsintel.app/picks
+oddsintel,2026-09-08,MLS Next Pro,New York City II,New York RB II,1x2,home,3.180,won,2.1800,https://oddsintel.app/picks
+oddsintel,2026-09-08,Second Division,Al Mesaimeer,Al Kharaitiyat,1x2,home,3.940,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-08,UEFA Champions League,Real Madrid,Inter,over_under_25,under,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-08,National League Cup,Aldershot Town,West Ham United U21,over_under_25,under,2.880,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-09,Premier League,Pyramids FC,El Gouna FC,over_under_25,over,2.450,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-09,Championship,Derby,West Brom,1x2,home,3.060,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-09,Championship,Charlton,QPR,1x2,home,3.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-09,Copa Argentina,Deportivo Riestra,Banfield,over_under_25,over,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-09,Major League Soccer,Philadelphia Union,FC Cincinnati,over_under_25,under,3.050,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-09,UEFA Youth League,Napoli U19,Arsenal U19,over_under_25,under,2.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-09,CONMEBOL Sudamericana,Santos,Atletico-MG,over_under_25,over,2.610,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-09,Pro League,Al-Nassr,Abha,over_under_25,under,3.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-10,Superettan,Varbergs BoIS FC,IFK Norrkoping,1x2,home,3.360,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-10,Division Intermedia,Sportivo Carapeguá,Benjamín Aceval,1x2,home,3.600,won,2.6000,https://oddsintel.app/picks
+oddsintel,2026-09-10,Major League Soccer,San Diego,San Jose Earthquakes,over_under_25,under,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-10,Esiliiga A,FCI Levadia II,Tartu Welco,1x2,home,3.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-10,League One,Stevenage,Luton,1x2,home,3.300,won,2.3000,https://oddsintel.app/picks
+oddsintel,2026-09-11,Victoria NPL 2,Melbourne Victory II,Eltham Redbacks FC,over_under_25,under,3.150,won,2.1500,https://oddsintel.app/picks
+oddsintel,2026-09-11,Eerste Divisie,NAC Breda,Jong Utrecht,over_under_25,under,3.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-11,Ligue 2,Clermont Foot,Boulogne,over_under_25,over,2.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-11,Ligue 2,Nancy,Reims,1x2,home,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-11,Challenger Pro League,KAA Gent II,Dender,1x2,home,3.450,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-11,Segunda División,Burgos,AD Ceuta FC,1x2,away,5.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-11,Primera B Metropolitana,Argentino de Merlo,Real Pilar,1x2,home,4.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-11,2. Bundesliga,1. FC Nürnberg,Hannover 96,over_under_25,under,2.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-11,Eerste Divisie,Jong Ajax,Waalwijk,over_under_25,under,2.930,won,1.9300,https://oddsintel.app/picks
+oddsintel,2026-09-11,Liga Profesional Argentina,Newells Old Boys,Velez Sarsfield,over_under_25,over,2.810,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-11,Ligue 2,Clermont Foot,Boulogne,1x2,home,2.850,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Ligue 2,Sochaux,Nantes,1x2,home,3.300,won,2.3000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Bundesliga,Borussia Dortmund,SC Paderborn 07,over_under_25,under,3.160,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Bundesliga,1899 Hoffenheim,VfB Stuttgart,over_under_25,under,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Super League,FC Lugano,BSC Young Boys,over_under_25,under,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Liga Profesional Argentina,Estudiantes L.P.,Platense,over_under_25,over,2.670,won,1.6700,https://oddsintel.app/picks
+oddsintel,2026-09-12,Primera Nacional,Atlanta,Club Atlético Güemes,over_under_25,over,2.570,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Pro League,Al Khaleej Saihat,Al-Nassr,over_under_25,under,3.350,won,2.3500,https://oddsintel.app/picks
+oddsintel,2026-09-12,Eredivisie,Cambuur,NEC Nijmegen,over_under_25,under,3.190,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Major League Soccer,FC Cincinnati,Charlotte,over_under_25,under,3.080,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Super League,FC ST. Gallen,FC Sion,over_under_25,under,3.030,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Bundesliga,FC Augsburg,Bayer Leverkusen,over_under_25,under,2.960,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Premier League,Chelsea,Hull City,over_under_25,under,3.040,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Segunda Liga,Portimonense,Tondela,1x2,home,3.210,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Jupiler Pro League,Union St. Gilloise,Lommel United,over_under_25,under,2.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Serie B,Sudtirol,Modena,1x2,home,3.460,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Primera División RFEF - Group 2,Teruel,Real Jaén,1x2,home,3.740,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Primera División RFEF - Group 2,Rayo Majadahonda,FC Cartagena,1x2,home,3.670,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-12,Primera División RFEF - Group 2,Rayo Majadahonda,FC Cartagena,1x2,home,3.670,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Major League Soccer,FC Dallas,Portland Timbers,over_under_25,under,3.080,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Premier League 2 Division One,Middlesbrough U21,Leeds United U21,over_under_25,under,2.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Allsvenskan,Hammarby FF,IF Brommapojkarna,over_under_25,under,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Eliteserien,Viking,Kristiansund BK,over_under_25,under,3.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Bundesliga,RB Leipzig,Hamburger SV,over_under_25,under,3.050,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Super League,FC Luzern,FC Basel 1893,over_under_25,under,2.930,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Eredivisie,PEC Zwolle,Feyenoord,over_under_25,under,3.130,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Primera División Femenina,Eibar W,FC Levante Badalona,1x2,home,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Liga Profesional Argentina,Sarmiento Junin,Belgrano Cordoba,over_under_25,over,2.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Liga Profesional Argentina,Tigre,Rosario Central,over_under_25,over,2.840,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Serie B,Atletico Goianiense,Criciuma,over_under_25,over,2.670,won,1.6700,https://oddsintel.app/picks
+oddsintel,2026-09-13,Super League,FC Zürich,FC Vaduz,over_under_25,under,3.030,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Segunda Liga,AVS,Farense,1x2,home,3.090,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Capital Territory NPL,Canberra FC,Cooma Tigers FC,over_under_25,under,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Jupiler Pro League,Club Brugge KV,Antwerp,over_under_25,under,3.110,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Segunda División,Valladolid,Oviedo,over_under_25,over,2.700,won,1.7000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Ligue 1,Stade Brestois 29,Paris Saint Germain,over_under_25,under,3.100,won,2.1000,https://oddsintel.app/picks
+oddsintel,2026-09-13,Primera División RFEF - Group 1,Cacereño,Cultural Leonesa,1x2,home,3.610,won,2.6100,https://oddsintel.app/picks
+oddsintel,2026-09-15,Second League,Ludogorets II,Fratria,1x2,home,4.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-16,MLS Next Pro,Real Monarchs,Minnesota United II,1x2,home,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-18,Eerste Divisie,Almere City FC,Heracles,1x2,home,3.290,won,2.2900,https://oddsintel.app/picks
+oddsintel,2026-09-18,Eerste Divisie,Jong Ajax,Roda,1x2,home,3.430,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-18,Championship,Queen's Park,Ayr Utd,1x2,home,3.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-19,League One,Barnsley,Leicester,1x2,home,3.330,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-19,Challenger Pro League,Sporting Hasselt,Beerschot VA,1x2,home,3.610,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-19,J2 League,Albirex Niigata,Jubilo Iwata,1x2,home,3.320,won,2.3200,https://oddsintel.app/picks
+oddsintel,2026-09-19,3. Division,Ishøj,Frem,1x2,home,4.350,won,3.3500,https://oddsintel.app/picks
+oddsintel,2026-09-20,Eerste Divisie,De Graafschap,NAC Breda,1x2,home,3.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-20,Úrvalsdeild,Keflavik,Fram Reykjavík,1x2,home,3.660,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-22,Non League Premier - Southern Central,Stratford Town,Bromsgrove Sporting,1x2,home,3.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-25,USL Championship,Sporting JAX,Loudoun United,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-26,Division Intermedia,Tacuary,Benjamín Aceval,1x2,home,3.600,won,2.6000,https://oddsintel.app/picks
+oddsintel,2026-09-26,Segunda División,Celta de Vigo II,Sabadell,1x2,home,3.380,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-26,Prva Liga,Borac Čačak,TSC Bačka Topola,1x2,home,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-26,Ligue 3,Quevilly,Amiens,1x2,home,3.680,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-26,UEFA Nations League,England,Spain,1x2,home,4.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-26,Liga MX,Cruz Azul,Toluca,1x2,draw,3.700,won,2.7000,https://oddsintel.app/picks
+oddsintel,2026-09-27,Major League Soccer,Seattle Sounders,Minnesota United FC,1x2,away,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-27,Major League Soccer,Real Salt Lake,New England Revolution,1x2,away,2.920,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-27,Primera División Femenina,Athletic Club W,Atletico Madrid W,1x2,home,3.200,won,2.2000,https://oddsintel.app/picks
+oddsintel,2026-09-27,Primera Nacional,Racing Cordoba,Godoy Cruz,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-27,Segunda División,Mallorca,Almeria,1x2,draw,3.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-27,Primera División Femenina,Athletic Club W,Atletico Madrid W,1x2,home,3.850,won,2.8500,https://oddsintel.app/picks
 oddsintel,2026-09-27,UEFA Nations League,Norway,Portugal,1x2,away,2.850,won,1.8500,https://oddsintel.app/picks
-oddsintel,2026-09-27,Segunda División RFEF - Group 3,Lorca Deportiva,Castellonense,1x2,home,1.960,won,0.9600,https://oddsintel.app/picks
-oddsintel,2026-09-27,Tercera División RFEF - Group 7,Rayo Vallecano II,Galapagar,1x2,home,2.450,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Primera División RFEF - Group 1,Mérida AD,UD Logroñés,1x2,away,2.880,won,1.8800,https://oddsintel.app/picks
-oddsintel,2026-09-27,Tercera División RFEF - Group 6,Crevillente,Saguntino,1x2,home,2.650,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Women's Championship,Sheffield United (W),Durham W,1x2,home,2.550,won,1.5500,https://oddsintel.app/picks
-oddsintel,2026-09-27,Tercera División RFEF - Group 3,Tropezón,Revilla,1x2,home,1.450,won,0.4500,https://oddsintel.app/picks
-oddsintel,2026-09-27,UEFA Nations League,Gibraltar,Andorra,1x2,away,2.470,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,First League,FC UFA,Torpedo Moskva,1x2,away,2.140,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Primera Nacional,Midland,Tristan Suarez,1x2,draw,3.000,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,2. Division - Group 1,Arendal,Brattvåg,1x2,away,2.230,won,1.2300,https://oddsintel.app/picks
-oddsintel,2026-09-27,FA WSL,Tottenham Hotspur W,Aston Villa W,1x2,home,1.620,won,0.6200,https://oddsintel.app/picks
-oddsintel,2026-09-27,Serie B,Criciuma,Avai,1x2,home,1.740,won,0.7400,https://oddsintel.app/picks
-oddsintel,2026-09-27,Liga Nacional,Coban Imperial,Aurora,1x2,home,1.630,won,0.6300,https://oddsintel.app/picks
-oddsintel,2026-09-27,Division 2 - Södra Götaland,Sölvesborg,Berga,1x2,away,2.600,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Premier League,Cavalier,Arnett Gardens,1x2,away,2.710,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Segunda División,Eibar,Las Palmas,1x2,home,1.950,won,0.9500,https://oddsintel.app/picks
-oddsintel,2026-09-27,Serie C - Girone C,Foggia,Sorrento,1x2,home,2.480,won,1.4800,https://oddsintel.app/picks
-oddsintel,2026-09-27,Primera Nacional,Los Andes,Deportivo Moron,1x2,draw,2.800,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Ettan - Norra,Arlanda,Enköping,1x2,home,1.910,won,0.9099,https://oddsintel.app/picks
-oddsintel,2026-09-27,2. Division - Group 2,Lørenskog,Skeid,1x2,home,2.310,won,1.3100,https://oddsintel.app/picks
-oddsintel,2026-09-27,Serie A Women,Sassuolo (W),Roma (W),1x2,away,1.410,won,0.4100,https://oddsintel.app/picks
-oddsintel,2026-09-27,Taça de Portugal,Camacha,Florgrade,1x2,home,2.140,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Gulf Cup of Nations,Bahrain,United Arab Emirates,1x2,away,1.620,won,0.6200,https://oddsintel.app/picks
-oddsintel,2026-09-27,Segunda División RFEF - Group 1,Arosa,Deportivo Alavés II,1x2,away,3.000,won,2.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Primera Nacional,Defensores De Belgrano,Ferro Carril Oeste,1x2,draw,2.700,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Primera Nacional,Racing Cordoba,Godoy Cruz,1x2,away,2.500,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Copa Chile,Universidad de Chile,Everton de Vina,1x2,home,1.860,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Copa de la División Profesional,Real Tomayapo,Real Oruro,1x2,home,1.860,won,0.8600,https://oddsintel.app/picks
-oddsintel,2026-09-27,Segunda División,Burgos,Eldense,1x2,home,2.320,won,1.3200,https://oddsintel.app/picks
-oddsintel,2026-09-27,UEFA Nations League,Israel,Rep. Of Ireland,1x2,away,2.900,won,1.9000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Canadian Premier League,York United,Pacific FC,1x2,home,1.950,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,Copa Chile,Deportes Santa Cruz,O'Higgins,1x2,away,2.230,won,1.2300,https://oddsintel.app/picks
-oddsintel,2026-09-27,Segunda División,Union Comercio,Molinos El Pirata,1x2,home,1.490,won,0.4900,https://oddsintel.app/picks
-oddsintel,2026-09-27,Serie B,Fortaleza EC,Athletic Club-MG,1x2,home,1.660,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-27,NWSL Women,Utah Royals W,North Carolina Courage (W),1x2,home,2.200,won,1.2000,https://oddsintel.app/picks
-oddsintel,2026-09-28,Liga MX,Leon,FC Juarez,1x2,home,1.600,won,0.6000,https://oddsintel.app/picks
-oddsintel,2026-09-28,Premier League,Waterhouse,Treasure Beach,1x2,home,1.750,won,0.7500,https://oddsintel.app/picks
-oddsintel,2026-09-28,2. liga,Žilina II,Humenné,1x2,home,2.050,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-28,QSL Cup,Al Shahaniya,Al-Duhail SC,1x2,away,2.400,won,1.4000,https://oddsintel.app/picks
-oddsintel,2026-09-28,UEFA Nations League,Türkiye,Italy,1x2,away,2.720,won,1.7200,https://oddsintel.app/picks
-oddsintel,2026-09-28,UEFA Nations League,Sweden,Poland,1x2,home,2.200,won,1.2000,https://oddsintel.app/picks
-oddsintel,2026-09-28,CONCACAF Nations League,Guadeloupe,Barbados,1x2,home,1.950,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-28,Africa Cup of Nations - Qualification,Central African Republic,Burkina Faso,1x2,away,1.450,won,0.4500,https://oddsintel.app/picks
-oddsintel,2026-09-28,Friendlies,Japan,Venezuela,1x2,home,1.300,won,0.3000,https://oddsintel.app/picks
-oddsintel,2026-09-28,QSL Cup,Al-Sailiya,Al-Rayyan SC,1x2,away,2.050,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-28,UEFA Nations League,Armenia,Montenegro,1x2,away,2.600,won,1.6000,https://oddsintel.app/picks
-oddsintel,2026-09-28,CONCACAF Nations League,Suriname,Martinique,1x2,home,1.590,won,0.5900,https://oddsintel.app/picks
+oddsintel,2026-09-27,Serie C - Girone B,Perugia,Reggiana,1x2,home,3.510,won,2.5100,https://oddsintel.app/picks
+oddsintel,2026-09-27,Segunda División,Eibar,Las Palmas,1x2,draw,3.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-28,Segunda División,Leganes,Castellón,1x2,home,3.230,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-28,Division Intermedia,Atlético Tembetary,Paraguari AC,1x2,home,3.250,won,2.2500,https://oddsintel.app/picks
+oddsintel,2026-09-28,Division Intermedia,Guairena FC,Fernando De La Mora,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-28,UEFA Nations League,Northern Ireland,Hungary,1x2,away,2.950,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-28,Liga Revelação U23,Leixoes U23,Vizela U23,1x2,home,2.270,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-28,2. SNL,Rudar,Dravinja,1x2,home,1.750,won,0.7500,https://oddsintel.app/picks
-oddsintel,2026-09-28,UEFA Nations League,Romania,Bosnia & Herzegovina,1x2,home,2.320,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-28,Liga Leumit,Hapoel Kfar Shalem,Maccabi Kabilio Jaffa,1x2,home,1.880,won,0.8800,https://oddsintel.app/picks
-oddsintel,2026-09-28,QSL Cup,Al Kharaitiyat,Al Wakrah,1x2,away,2.330,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-28,Primera División,Wanderers,Albion FC,1x2,home,2.570,won,1.5700,https://oddsintel.app/picks
-oddsintel,2026-09-28,Super League 2,Kallithea,Asteras Tripolis II,1x2,home,1.830,won,0.8300,https://oddsintel.app/picks
-oddsintel,2026-09-28,Professional Development League,Swansea City U21,Queens Park Rangers U21,1x2,home,1.890,won,0.8900,https://oddsintel.app/picks
-oddsintel,2026-09-28,Division Profesional - Clausura,Libertad Asuncion,Olimpia,1x2,away,2.730,won,1.7300,https://oddsintel.app/picks
-oddsintel,2026-09-28,3. Division - Girone 6,Raelingen,Lyn II,1x2,home,2.150,won,1.1500,https://oddsintel.app/picks
-oddsintel,2026-09-28,Africa Cup of Nations - Qualification,Equatorial Guinea,Sierra Leone,1x2,home,2.200,won,1.2000,https://oddsintel.app/picks
-oddsintel,2026-09-28,Presidents Cup,Al Arabi,Al Thaid,1x2,home,2.050,won,1.0500,https://oddsintel.app/picks
-oddsintel,2026-09-28,Friendlies,Slovakia U19,Poland U19,1x2,away,1.910,won,0.9100,https://oddsintel.app/picks
-oddsintel,2026-09-28,UEFA Nations League,Latvia,Cyprus,1x2,away,2.960,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-28,UEFA Nations League,Belgium,France,1x2,away,2.200,won,1.2000,https://oddsintel.app/picks
-oddsintel,2026-09-29,U20 Elite League,Poland U20,Czechia U20,1x2,away,2.840,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,Reserve League,Tigre Res.,Gimnasia La Plata Res.,1x2,away,2.550,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,UEFA Nations League,Scotland,Switzerland,1x2,away,1.910,won,0.9100,https://oddsintel.app/picks
-oddsintel,2026-09-29,Africa Cup of Nations - Qualification,Congo,Cameroon,1x2,away,1.750,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,U20 Elite League,France U20,England U20,1x2,away,2.120,won,1.1200,https://oddsintel.app/picks
-oddsintel,2026-09-29,UEFA Nations League,Bulgaria,Estonia,1x2,home,1.750,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,Africa Cup of Nations - Qualification,Burundi,Algeria,1x2,away,1.330,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,Africa Cup of Nations - Qualification,Guinea-Bissau,Nigeria,1x2,away,1.550,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,UEFA Nations League,Finland,Belarus,1x2,home,1.620,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,UEFA Nations League,Moldova,Faroe Islands,1x2,away,2.850,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,UEFA Nations League,Czechia,England,1x2,away,1.360,won,0.3600,https://oddsintel.app/picks
-oddsintel,2026-09-29,Non League Premier - Isthmian,Dulwich Hamlet,Aveley,1x2,away,2.800,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,Non League Premier - Northern,Alfreton Town,Guiseley AFC,1x2,away,2.950,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,UEFA Nations League,Slovakia,Kazakhstan,1x2,home,1.300,won,0.3000,https://oddsintel.app/picks
-oddsintel,2026-09-29,Friendlies,USA U19,Wales U19,1x2,home,1.470,won,0.4700,https://oddsintel.app/picks
-oddsintel,2026-09-29,Cup,Inter Bratislava,Podbrezová,1x2,away,1.700,won,0.7000,https://oddsintel.app/picks
-oddsintel,2026-09-29,Friendlies,Russia,Iran,1x2,home,1.920,won,0.9200,https://oddsintel.app/picks
-oddsintel,2026-09-29,Professional Development League,Coventry City U21,Colchester United U21,1x2,home,1.650,won,0.6500,https://oddsintel.app/picks
-oddsintel,2026-09-29,J-League Cup,Jubilo Iwata,JEF United Chiba,1x2,home,2.950,won,1.9500,https://oddsintel.app/picks
-oddsintel,2026-09-29,J-League Cup,Montedio Yamagata,Yokohama F Marinos,1x2,away,1.650,won,0.6500,https://oddsintel.app/picks
-oddsintel,2026-09-29,J-League Cup,Sagan Tosu,Tokyo Verdy,1x2,away,2.280,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,J-League Cup,Fujieda MYFC,Cerezo Osaka,1x2,away,1.580,won,0.5800,https://oddsintel.app/picks
-oddsintel,2026-09-29,J-League Cup,FC Gifu,Yokohama FC,1x2,away,2.040,won,1.0400,https://oddsintel.app/picks
-oddsintel,2026-09-29,J-League Cup,Consadole Sapporo,Fagiano Okayama,1x2,away,1.530,won,0.5300,https://oddsintel.app/picks
-oddsintel,2026-09-29,J-League Cup,Fukushima United,Mito Hollyhock,1x2,away,1.470,won,0.4700,https://oddsintel.app/picks
-oddsintel,2026-09-29,J-League Cup,Gainare Tottori,V-varen Nagasaki,1x2,away,1.440,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,J-League Cup,Matsumoto Yamaga,Albirex Niigata,1x2,away,2.500,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-29,Gulf Cup of Nations,Oman,Kuwait,1x2,home,1.680,won,0.6800,https://oddsintel.app/picks
-oddsintel,2026-09-29,UEFA Nations League,Slovenia,FYR Macedonia,1x2,home,1.720,won,0.7200,https://oddsintel.app/picks
-oddsintel,2026-09-29,FIFA Asean Cup,Thailand,Vietnam,1x2,home,2.510,won,1.5100,https://oddsintel.app/picks
+oddsintel,2026-09-28,UEFA Nations League,Romania,Bosnia & Herzegovina,1x2,home,2.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-28,UEFA Nations League,Sweden,Poland,1x2,away,3.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-28,Prva Liga,OFK Bor 1919,Metalac GM,1x2,home,3.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-28,UEFA Nations League,Latvia,Cyprus,1x2,draw,3.220,won,2.2200,https://oddsintel.app/picks
+oddsintel,2026-09-28,UEFA Nations League,Türkiye,Italy,1x2,draw,3.820,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-28,UEFA Nations League,Georgia,Ukraine,1x2,away,3.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-29,UEFA Nations League,Moldova,Faroe Islands,1x2,draw,3.240,won,2.2400,https://oddsintel.app/picks
 oddsintel,2026-09-29,Africa Cup of Nations - Qualification,Gabon,Niger,1x2,home,1.650,won,0.6500,https://oddsintel.app/picks
 oddsintel,2026-09-29,Serie B,Botafogo SP,Ponte Preta,1x2,home,1.310,won,0.3100,https://oddsintel.app/picks
 oddsintel,2026-09-29,CONCACAF Nations League,French Guyana,Sint Maarten,1x2,home,1.970,won,0.9700,https://oddsintel.app/picks
 oddsintel,2026-09-29,Non League Premier - Southern South,Gloucester City,Plymouth Parkway,1x2,home,2.220,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-29,Reserve League,San Lorenzo Res.,Aldosivi Res.,1x2,home,2.120,won,1.1200,https://oddsintel.app/picks
-oddsintel,2026-09-29,Gulf Cup of Nations,Saudi Arabia,Iraq,1x2,home,2.250,won,1.2500,https://oddsintel.app/picks
+oddsintel,2026-09-29,UEFA Nations League,Luxembourg,Iceland,1x2,away,2.400,won,1.4000,https://oddsintel.app/picks
 oddsintel,2026-09-29,UEFA Nations League,Luxembourg,Iceland,1x2,away,2.400,won,1.4000,https://oddsintel.app/picks
 oddsintel,2026-09-29,CONCACAF Nations League,British Virgin Islands,Turks and Caicos Islands,1x2,home,2.800,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-29,Presidents Cup,Palm City,Dibba Al Hisn,1x2,away,2.520,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-29,CAF U23 Cup of Nations,Tunisia U23,Benin U23,1x2,home,1.420,won,0.4200,https://oddsintel.app/picks
+oddsintel,2026-09-29,UEFA Nations League,Slovenia,FYR Macedonia,1x2,draw,3.900,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-29,Premier League,Cardiff MET,Haverfordwest County AFC,1x2,home,2.090,won,1.0900,https://oddsintel.app/picks
-oddsintel,2026-09-29,Reserve League,Estudiantes La Plata Res,Defensa y Justicia Res.,1x2,home,2.800,won,1.8000,https://oddsintel.app/picks
 oddsintel,2026-09-29,Copa Chile,D. Puerto Montt,Colo Colo,1x2,away,1.530,won,0.5300,https://oddsintel.app/picks
-oddsintel,2026-09-30,UEFA Champions League Women,Häcken W,Juventus (W),1x2,away,2.850,won,1.8500,https://oddsintel.app/picks
 oddsintel,2026-09-30,UEFA Champions League Women,Paris FC (W),Arsenal (W),1x2,away,1.440,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-30,Gulf Cup of Nations,United Arab Emirates,Qatar,1x2,home,2.080,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,WSL Cup,Aston Villa W,Newcastle United (W),1x2,home,2.100,won,1.1000,https://oddsintel.app/picks
 oddsintel,2026-09-30,Reserve League,Central Córdoba SdE Res.,Newell's Old Boys Res.,1x2,away,2.280,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-30,IFA Shield,East Bengal II,Minerva Punjab,1x2,away,2.000,won,1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,Friendlies,Lithuania,Andorra,1x2,home,1.750,won,0.7500,https://oddsintel.app/picks
 oddsintel,2026-09-30,Liga Alef,Maccabi Neve Sha'anan,Tira,1x2,away,2.000,won,1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,Liga Alef,Hapoel Ironi Arraba,Hapoel Migdal HaEmek,1x2,away,1.330,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,Liga Alef,Shimshon Tel Aviv,Hapoel Ramat HaSharon,1x2,home,2.550,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,Friendlies,Portugal U19,Netherlands U19,1x2,home,2.200,won,1.2000,https://oddsintel.app/picks
 oddsintel,2026-09-30,UEFA Champions League Women,SL Benfica W,Bayern Munich (W),1x2,away,1.310,won,0.3100,https://oddsintel.app/picks
-oddsintel,2026-09-30,Asian Games,Uzbekistan U23,Japan U23,1x2,away,1.730,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,UEFA Europa Cup - Women,Fortuna Hjørring W,PSV/Eindhoven W,1x2,away,1.660,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,Gulf Cup of Nations,Bahrain,Yemen,1x2,home,1.680,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,Primera División,Cienciano,Club Deportivo Los Chankas,1x2,home,1.440,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-30,Liga Alef,Maccabi Kiryat Malachi,Hapoel Herzliya,1x2,home,2.700,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-30,WSL Cup,Brighton (W),Tottenham Hotspur W,1x2,away,2.410,won,1.4100,https://oddsintel.app/picks
-oddsintel,2026-09-30,First Amateur Division,Houtvenne,Mandel United,1x2,home,2.370,won,1.3700,https://oddsintel.app/picks
 oddsintel,2026-09-30,UEFA Europa Cup - Women,Malmo FF (W),St. Pölten W,1x2,home,1.630,won,0.6300,https://oddsintel.app/picks
 oddsintel,2026-09-30,Liga Alef,Hapoel Bnei Musmus,Maccabi K. Ata Bialik,1x2,away,1.840,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,UEFA U21 Championship - Qualification,Romania U21,Finland U21,1x2,away,2.850,won,1.8500,https://oddsintel.app/picks
-oddsintel,2026-09-30,Friendlies,Albania U19,Lithuania U19,1x2,home,2.170,won,1.1700,https://oddsintel.app/picks
 oddsintel,2026-09-30,UEFA Champions League Women,Lyon W,Chelsea W,1x2,home,1.490,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,1x2,away,2.080,won,1.0800,https://oddsintel.app/picks
-oddsintel,2026-09-30,UEFA Europa Cup - Women,Spartak Myjava W,PAOK W,1x2,away,2.050,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-30,Liga Alef,Maccabi Ashdod,Holon Yermiyahu,1x2,away,2.710,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,Copa Paraguay,Independiente F.b.c.,Nacional Asuncion,1x2,away,1.770,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-30,Africa Cup of Nations U20,Morocco U20,Algeria U20,1x2,home,2.080,won,1.0800,https://oddsintel.app/picks
-oddsintel,2026-09-30,First Amateur Division,RWDM,Rochefort,1x2,home,2.160,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,Liga Alef,Ironi Nesher,Beitar Nahariya,1x2,home,2.370,won,1.3700,https://oddsintel.app/picks
 oddsintel,2026-09-30,Friendlies Clubs,DC United,SC Paderborn 07,1x2,away,2.180,won,1.1800,https://oddsintel.app/picks
 oddsintel,2026-09-30,Premier League International Cup,Middlesbrough U21,Juventus U21,1x2,home,2.610,won,1.6100,https://oddsintel.app/picks
 oddsintel,2026-09-30,First Amateur Division,Roeselare Daisel,Thes Sport,1x2,home,1.920,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,UEFA U21 Championship - Qualification,Poland U21,Sweden U21,1x2,home,1.600,won,0.6000,https://oddsintel.app/picks
 oddsintel,2026-09-30,NM Cupen,Hønefoss,KFUM Oslo,1x2,away,1.530,won,0.5300,https://oddsintel.app/picks
-oddsintel,2026-09-30,Copa Paraguay,Cerro Porteno,Rubio NU,1x2,home,2.210,won,1.2100,https://oddsintel.app/picks
-oddsintel,2026-09-30,CAF U23 Cup of Nations,Togo U23,Libya U23,1x2,home,1.900,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,UEFA U21 Championship - Qualification,Czech Republic U21,Bulgaria U21,1x2,home,1.520,won,0.5200,https://oddsintel.app/picks
-oddsintel,2026-09-30,UEFA Europa Cup - Women,Torreense W,Metalist 1925 W,1x2,home,1.460,won,0.4600,https://oddsintel.app/picks
+oddsintel,2026-09-30,Gulf Cup of Nations,United Arab Emirates,Qatar,over_under_25,under,2.050,won,1.0500,https://oddsintel.app/picks
 oddsintel,2026-09-30,WSL Cup,Birmingham City W,Liverpool W,1x2,away,1.500,won,0.5000,https://oddsintel.app/picks
+oddsintel,2026-10-01,Copa de la División Profesional,Oriente Petrolero,The Strongest,over_under_25,over,1.620,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,over_under_25,under,2.470,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-30,Copa Uruguay,Cerro Largo,Rentistas,over_under_25,under,1.730,won,0.7300,https://oddsintel.app/picks
 oddsintel,2026-09-30,USL Championship,Miami FC,Sporting JAX,1x2,home,1.610,won,0.6100,https://oddsintel.app/picks
 oddsintel,2026-09-30,Primera B,Union San Felipe,San Luis,1x2,away,2.180,won,1.1800,https://oddsintel.app/picks
 oddsintel,2026-09-30,Copa de la División Profesional,Real Tomayapo,Nacional Potosí,1x2,home,2.550,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-09-30,USL Championship,Brooklyn,Detroit City,1x2,away,2.250,won,1.2500,https://oddsintel.app/picks
+oddsintel,2026-09-30,Liga Mayor,Salcedo,Delfines Del Este,over_under_25,over,2.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-09-30,Reserve League,Central Córdoba SdE Res.,Newell's Old Boys Res.,over_under_25,under,1.850,won,0.8500,https://oddsintel.app/picks
+oddsintel,2026-09-30,Copa Paraguay,Cerro Porteno,Rubio NU,over_under_25,under,1.960,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,Copa de la División Profesional,Oriente Petrolero,The Strongest,1x2,home,1.960,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,Primera A,Atletico Nacional,Junior,1x2,home,1.460,won,0.4600,https://oddsintel.app/picks
-oddsintel,2026-10-01,Primera Division,Alianza,Platense,1x2,home,1.900,won,0.9000,https://oddsintel.app/picks
 oddsintel,2026-10-01,Reserve League,Barracas Central Res.,Gimnasia Mendoza 2,1x2,away,2.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-01,Reserve League,Vélez Sársfield Res.,Argentinos Juniors Res.,over_under_25,under,1.910,won,0.9100,https://oddsintel.app/picks
 oddsintel,2026-10-01,Friendlies,Poland U19,Kazakhstan U19,1x2,home,1.620,won,0.6200,https://oddsintel.app/picks
-oddsintel,2026-10-01,UEFA Nations League,Wales,Norway,1x2,away,1.500,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,QSL Cup,Al Shamal,Muaither SC,1x2,home,1.530,won,0.5300,https://oddsintel.app/picks
 oddsintel,2026-10-01,UEFA Champions League Women,Manchester City W,Real Madrid (W),1x2,home,1.730,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,Friendlies,Uzbekistan,Syria,1x2,home,1.410,won,0.4100,https://oddsintel.app/picks
 oddsintel,2026-10-01,Liga Alef,Maccabi Yavne,Ironi Beit Shemesh,1x2,home,1.670,won,0.6700,https://oddsintel.app/picks
+oddsintel,2026-10-01,CONCACAF Nations League,Curaçao,Trinidad and Tobago,over_under_25,over,2.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-01,Liga Alef,Hapoel Ihud Bnei Jatt,Maccabi Nujeidat Ahmed,over_under_25,over,1.900,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,UEFA Nations League,Malta,Gibraltar,1x2,home,1.330,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,UEFA Champions League Women,Austria Wien W,Inter Milano W,1x2,away,1.780,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,CONCACAF Nations League,Curaçao,Trinidad and Tobago,1x2,home,1.680,won,0.6800,https://oddsintel.app/picks
 oddsintel,2026-10-01,Friendlies Clubs,VfB Stuttgart,SpVgg Greuther Fürth,1x2,home,1.330,won,0.3300,https://oddsintel.app/picks
 oddsintel,2026-10-01,FA Cup,Al Musannah,Ibri,1x2,home,2.380,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-10-01,Second League,Pharco,Tersana,1x2,home,2.390,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-01,Friendlies,Poland U19,Kazakhstan U19,over_under_25,under,2.500,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,Africa Cup of Nations - Qualification,Guinea,Kenya,1x2,home,1.700,won,0.7000,https://oddsintel.app/picks
 oddsintel,2026-10-01,Second League,La Viena FC,AL Nasr SC,1x2,home,2.822,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-01,UEFA Nations League,Israel,Kosovo,1x2,away,2.410,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,UEFA Nations League,Greece,Netherlands,1x2,away,2.100,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,UEFA Nations League,Denmark,Portugal,1x2,away,2.070,won,1.0700,https://oddsintel.app/picks
+oddsintel,2026-10-01,UEFA Nations League,Denmark,Portugal,1x2,away,2.080,won,1.0800,https://oddsintel.app/picks
+oddsintel,2026-10-01,Liga Leumit,Hapoel Ra'anana,Kafr Qasim,over_under_25,under,2.180,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-01,UEFA Nations League,Israel,Kosovo,over_under_25,under,2.110,won,1.1100,https://oddsintel.app/picks
 oddsintel,2026-10-01,Friendlies,Croatia U19,Italy U19,1x2,away,2.410,won,1.4100,https://oddsintel.app/picks
+oddsintel,2026-10-01,League Cup,Sharjah FC,Al-Dhafra,over_under_25,under,2.610,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,UEFA U21 Championship - Qualification,Northern Ireland U21,Georgia U21,1x2,home,2.060,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,UEFA U21 Championship - Qualification,Hungary U21,Lithuania U21,1x2,home,1.540,won,0.5400,https://oddsintel.app/picks
-oddsintel,2026-10-01,Liga Leumit,Maccabi Kabilio Jaffa,Hapoel Acre,1x2,home,1.800,won,0.8000,https://oddsintel.app/picks
+oddsintel,2026-10-01,League Cup,Dubai United,Hatta SC,over_under_25,under,2.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-01,FA Cup,Al Musannah,Ibri,over_under_25,over,1.900,won,0.9000,https://oddsintel.app/picks
 oddsintel,2026-10-01,QSL Cup,Al-Gharafa,Al Mesaimeer,1x2,home,1.913,won,0.9130,https://oddsintel.app/picks
-oddsintel,2026-10-01,Friendlies,Brazil U20,United States U20,1x2,home,1.910,won,0.9100,https://oddsintel.app/picks
+oddsintel,2026-10-01,QSL Cup,Al-Gharafa,Al Mesaimeer,over_under_25,under,2.645,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,UEFA Nations League,Rep. Of Ireland,Austria,1x2,away,2.226,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,Copa De La Liga,Sporting Cristal,ADT,1x2,home,1.547,won,0.5470,https://oddsintel.app/picks
-oddsintel,2026-10-01,Serie B,Athletic Club-MG,Sport Recife,1x2,home,2.560,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-01,UEFA Nations League,Israel,Kosovo,over_under_25,over,1.930,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-01,Copa De La Liga,Sporting Cristal,ADT,over_under_25,over,1.758,won,0.7580,https://oddsintel.app/picks
+oddsintel,2026-10-01,UEFA Nations League,Greece,Netherlands,over_under_25,over,1.730,won,0.7300,https://oddsintel.app/picks
+oddsintel,2026-10-02,2. Division,Fremad Amager,B 93,over_under_25,over,1.841,won,0.8410,https://oddsintel.app/picks
+oddsintel,2026-10-02,2. Division,Naestved,Nykobing FC,over_under_25,over,1.861,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-02,First Division,Finn Harps,Kerry,over_under_25,over,2.040,won,1.0400,https://oddsintel.app/picks
+oddsintel,2026-10-02,CONCACAF Nations League,Nicaragua,Costa Rica ,over_under_25,under,2.350,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Major League Soccer,Seattle Sounders,Sporting Kansas City,1x2,home,1.575,won,0.5750,https://oddsintel.app/picks
 oddsintel,2026-10-02,Second League,El Dakhleya,Maleyet Kafr El Zayiat,1x2,away,2.550,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Second League,Tanta SC,Haras El Hodood,1x2,draw,2.800,lost,-1.0000,https://oddsintel.app/picks
@@ -412,45 +903,41 @@ oddsintel,2026-10-02,UEFA Nations League,France,Italy,1x2,home,1.470,lost,-1.000
 oddsintel,2026-10-02,CONCACAF Nations League,St. Kitts and Nevis,Cuba,1x2,away,1.840,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies,South Korea,Venezuela,1x2,home,1.733,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,Sigma Olomouc,Žilina,1x2,home,1.950,won,0.9500,https://oddsintel.app/picks
-oddsintel,2026-10-02,Friendlies Clubs,Karviná,Stal Rzeszów,1x2,home,2.100,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,1. FC Nürnberg,FC Ingolstadt 04,1x2,home,1.620,won,0.6200,https://oddsintel.app/picks
-oddsintel,2026-10-02,Serie B,Juventude,Operario-PR,1x2,home,1.940,won,0.9400,https://oddsintel.app/picks
+oddsintel,2026-10-02,UEFA Nations League,France,Italy,over_under_25,over,1.560,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-02,UEFA Nations League,Hungary,Georgia,1x2,home,2.250,won,1.2500,https://oddsintel.app/picks
 oddsintel,2026-10-02,UEFA Nations League,Hungary,Georgia,1x2,home,2.250,won,1.2500,https://oddsintel.app/picks
 oddsintel,2026-10-02,UEFA Nations League,Ukraine,Northern Ireland,1x2,home,2.013,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-02,Friendlies Clubs,Gornik Zabrze,Odra Opole,over_under_25,over,1.570,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-02,UEFA Nations League,Poland,Romania,over_under_25,under,2.400,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Serie B,São Bernardo,CRB,1x2,home,2.710,won,1.7100,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,HNK Gorica,Bravo,1x2,home,2.750,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,Sudtirol,Wacker Innsbruck,1x2,home,1.790,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-10-02,Primera Nacional,Ferro Carril Oeste,Deportivo Madryn,1x2,home,2.070,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-10-02,III Liga - Group 3,Zagłębie Lubin II,Górnik Polkowice,1x2,home,1.780,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Cup,Dukla Praha,FK Jablonec,1x2,away,1.800,won,0.8000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,Zlin,Prostějov,1x2,home,1.630,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,FA Cup,Al-Nahda,Sohar,1x2,home,2.132,won,1.1320,https://oddsintel.app/picks
-oddsintel,2026-10-02,Division 2 - Södra Götaland,Lilla Torg,Nosaby,1x2,home,2.559,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,Teplice,Dynamo Dresden,1x2,away,2.450,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-10-02,3. liga - West,MŠK Senec,Spartak Myjava,1x2,away,2.000,won,1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,Mladost DG,Mornar,1x2,away,2.407,won,1.4070,https://oddsintel.app/picks
-oddsintel,2026-10-02,3. Division - Girone 4,Hinna,Staal Jørpeland,1x2,home,1.820,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies,Albania U19,Lithuania U19,1x2,home,2.560,won,1.5600,https://oddsintel.app/picks
 oddsintel,2026-10-02,Ligue 2,CA Batna,MSP Batna,1x2,home,1.880,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,Piast Gliwice,Wisla Krakow,1x2,home,2.660,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,Rapid,Genoa,1x2,away,2.491,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,Red Bull Salzburg,FC BW Linz,1x2,home,1.600,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,Laval,Rennes,1x2,away,1.610,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-10-02,2. Division,VSK Århus,Brabrand,1x2,home,2.220,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-02,UEFA Nations League,Cyprus,Armenia,1x2,away,3.490,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,3. Division - Girone 2,Rosenborg II,Melhus,1x2,home,2.200,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,First Division,Athlone Town,Cork City,1x2,away,2.160,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-10-02,League Cup,Al-Wasl FC,Al-Ittihad Kalba,1x2,home,1.460,won,0.4600,https://oddsintel.app/picks
 oddsintel,2026-10-02,Division 2 - Södra Götaland,Staffanstorp United,Sölvesborg,1x2,home,2.456,won,1.4561,https://oddsintel.app/picks
-oddsintel,2026-10-02,U20 Elite League,Portugal U20,Czechia U20,1x2,home,2.310,won,1.3100,https://oddsintel.app/picks
+oddsintel,2026-10-03,Liga Profesional Argentina,Independ. Rivadavia,Gimnasia L.P.,over_under_25,over,2.334,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Second League,Proxy,Itesalat,1x2,draw,2.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-02,UEFA Nations League,Ukraine,Northern Ireland,over_under_25,over,2.760,won,1.7600,https://oddsintel.app/picks
 oddsintel,2026-10-02,Division 2 - Södra Svealand,Smedby,Nyköping,1x2,away,2.199,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-10-02,Eerste Divisie,Helmond Sport,Heracles,1x2,away,1.490,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-10-02,FA Cup,Dhofar,Oman Club,1x2,away,2.271,won,1.2710,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies,England U19,USA U19,1x2,home,1.790,won,0.7900,https://oddsintel.app/picks
 oddsintel,2026-10-02,UEFA U21 Championship - Qualification,Ukraine U21,Croatia U21,1x2,away,2.220,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,2. Division,Fremad Amager,B 93,1x2,away,2.700,won,1.7000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,Sevilla,Aston Villa,1x2,away,2.391,won,1.3910,https://oddsintel.app/picks
 oddsintel,2026-10-02,Primera División RFEF - Group 2,Real Madrid II,Atlético Madrid II,1x2,home,1.763,won,0.7630,https://oddsintel.app/picks
+oddsintel,2026-10-02,Primera División,Universidad de Concepcion,Huachipato,over_under_25,over,1.960,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies,Montenegro U19,Israel U19,1x2,away,2.180,won,1.1800,https://oddsintel.app/picks
 oddsintel,2026-10-02,Regionalliga - Ost,Gloggnitz,Traiskirchen,1x2,away,1.856,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Premier Division,Dundalk,Bohemians,1x2,away,1.880,won,0.8800,https://oddsintel.app/picks
@@ -458,7 +945,7 @@ oddsintel,2026-10-02,First Division,Finn Harps,Kerry,1x2,away,2.000,won,1.0000,h
 oddsintel,2026-10-02,Botola Pro,Ittihad Tanger,Moghreb Tetouan,1x2,home,2.000,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Regionalliga - South,Velden,Treibach,1x2,home,1.900,won,0.9000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Copa de la División Profesional,San Antonio Bulo Bulo,ABB,1x2,home,1.409,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-10-02,UEFA U21 Championship - Qualification,England U21,Slovakia U21,1x2,home,1.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Liga Profesional Argentina,Boca Juniors,Union Santa Fe,over_under_25,under,1.870,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Ettan - Södra,Lund,Laholm,1x2,home,1.470,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Division Intermedia,Sportivo Carapeguá,Deportivo Capiata,1x2,home,2.500,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,CONCACAF Nations League,Suriname,Guatemala,1x2,home,2.380,lost,-1.0000,https://oddsintel.app/picks
@@ -469,4 +956,126 @@ oddsintel,2026-10-03,Liga Profesional Argentina,Independ. Rivadavia,Gimnasia L.P
 oddsintel,2026-10-03,Primera A,Deportivo Cali,Alianza Valledupar,1x2,home,1.550,won,0.5500,https://oddsintel.app/picks
 oddsintel,2026-10-03,Liga MX Femenil,Pumas UNAM W,Tigres UANL (W),1x2,away,1.850,won,0.8500,https://oddsintel.app/picks
 oddsintel,2026-10-03,Liga de Expansión MX,CA La Paz,Venados FC,1x2,home,1.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Damallsvenskan,Piteå W,Norrköping W,1x2,home,2.310,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,2. Division - Group 2,Grorud,Lørenskog,1x2,home,1.430,won,0.4300,https://oddsintel.app/picks
+oddsintel,2026-10-03,2. Division - Group 2,Skeid,Hønefoss,1x2,away,1.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,2. Division - Group 2,Ull/Kisa,Kjelsås,1x2,away,1.310,won,0.3100,https://oddsintel.app/picks
+oddsintel,2026-10-03,Tweede Divisie,Rijnsburgse Boys,Kloetinge,1x2,home,1.670,won,0.6700,https://oddsintel.app/picks
+oddsintel,2026-10-03,2. Division - Group 1,Notodden,Eik-Tønsberg,1x2,home,1.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Tweede Divisie,ROHDA Raalte,GVVV Veenendaal,1x2,away,1.680,won,0.6800,https://oddsintel.app/picks
+oddsintel,2026-10-03,Premiership,Cliftonville FC,Ballymena United,1x2,home,2.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,League One,Reading,Bradford,1x2,home,2.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,1. Liga Promotion,Cham,Bulle,1x2,home,1.917,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,1. Liga Promotion,Paradiso,Lugano II,1x2,home,1.600,won,0.6000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Non League Premier - Northern,Lancaster City,Ilkeston Town,1x2,home,2.050,won,1.0500,https://oddsintel.app/picks
+oddsintel,2026-10-03,Primera División RFEF - Group 1,Barakaldo,Arenas Getxo,1x2,home,1.560,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,UEFA Nations League,Croatia,England,1x2,away,1.850,won,0.8500,https://oddsintel.app/picks
+oddsintel,2026-10-03,Primera División RFEF - Group 2,Alcorcón,Juventud Torremolinos,1x2,home,1.430,won,0.4300,https://oddsintel.app/picks
+oddsintel,2026-10-03,Serie B,Atletico Goianiense,America Mineiro,1x2,home,1.400,won,0.4000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Primera A,Águilas Doradas,Jaguares,1x2,home,1.550,won,0.5500,https://oddsintel.app/picks
+oddsintel,2026-10-03,Division Profesional - Clausura,Club Guarani,Club Sp. San Lorenzo,1x2,home,1.580,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Liga Profesional Argentina,Newells Old Boys,Lanus,1x2,draw,3.000,won,2.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Primera A,Deportes Tolima,Chico,1x2,home,1.380,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,USL League One,Westchester SC,Alta,1x2,home,1.890,won,0.8900,https://oddsintel.app/picks
+oddsintel,2026-10-03,Liga MX Femenil,Querétaro W,Atlético San Luis W,1x2,away,1.820,won,0.8200,https://oddsintel.app/picks
+oddsintel,2026-10-03,2. Division - Group 1,Pors Grenland,Vidar,1x2,home,1.550,won,0.5500,https://oddsintel.app/picks
+oddsintel,2026-10-03,EFL Trophy,Colchester,Luton,1x2,away,1.690,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Ettan - Södra,Angelholms FF,Rosengård,1x2,away,1.724,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Segunda División RFEF - Group 5,Guadalajara,Gimnástica Segoviana,1x2,home,2.070,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,USL Championship,Lexington,El Paso Locomotive,1x2,home,2.000,won,1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,3. Division,Hørsholm-Usserød,FC Helsingor,1x2,away,2.160,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-03,K3 League,Pocheon,Chuncheon,1x2,home,1.600,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,USL League One,Sarasota Paradise,Charlotte Independence,1x2,home,2.480,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,1. Division,Haugesund,Stabaek,1x2,home,1.900,won,0.9000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Frauen Bundesliga,FC Koln W,SC Freiburg W,1x2,home,1.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Segunda División,Almeria,Burgos,1x2,home,1.630,won,0.6300,https://oddsintel.app/picks
+oddsintel,2026-10-03,4. liga - Divizie C,Přepeře,Svitavy,1x2,home,1.300,won,0.3000,https://oddsintel.app/picks
+oddsintel,2026-10-03,4. liga - Divizie D,Sparta Brno,Ždírec nad Doubravou,1x2,home,1.780,won,0.7800,https://oddsintel.app/picks
+oddsintel,2026-10-03,Division 2 - Norra Svealand,Enskede,Falu BS,1x2,home,1.820,won,0.8200,https://oddsintel.app/picks
+oddsintel,2026-10-03,Friendlies Clubs,Hannover 96,Verl,1x2,home,1.670,won,0.6700,https://oddsintel.app/picks
+oddsintel,2026-10-03,Friendlies Clubs,Jagiellonia,Polonia Warszawa,1x2,home,1.620,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,UEFA Nations League,Iceland,Bulgaria,1x2,home,1.470,won,0.4700,https://oddsintel.app/picks
+oddsintel,2026-10-03,III Liga - Group 3,Goczałkowice Zdrój,ROW Rybnik,1x2,home,2.380,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Damallsvenskan,Vittsjö W,Eskilstuna United W,1x2,home,2.211,won,1.2106,https://oddsintel.app/picks
+oddsintel,2026-10-03,Cup,FC Tallinn,Laagri,1x2,away,1.370,won,0.3700,https://oddsintel.app/picks
+oddsintel,2026-10-03,1. Division,hodd,ODD Ballklubb,1x2,away,2.010,won,1.0100,https://oddsintel.app/picks
+oddsintel,2026-10-03,U20 Elite League,England U20,Germany U20,1x2,away,2.500,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Friendlies,Canada,Peru,1x2,home,1.670,won,0.6700,https://oddsintel.app/picks
+oddsintel,2026-10-03,UEFA Nations League,Switzerland,Slovenia,1x2,home,1.350,won,0.3500,https://oddsintel.app/picks
+oddsintel,2026-10-03,Serie B,Avai,Ceara,1x2,draw,3.380,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Eerste Divisie,Den Bosch,Dordrecht,1x2,home,1.980,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Eerste Divisie,Waalwijk,Emmen,1x2,home,2.160,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Division 2 - Norra Götaland,Lidköping,Vänersborgs FK,1x2,home,2.120,won,1.1200,https://oddsintel.app/picks
+oddsintel,2026-10-03,Division Intermedia,Paraguari AC,3 de Noviembre,1x2,away,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Ettan - Norra,FBK Karlstad,AFC Eskilstuna,1x2,away,2.650,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,1. Division,Strommen,Sandnes Ulf,1x2,home,2.610,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Serie B,Avai,Ceara,over_under_25,over,2.590,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Division 2 - Västra Götaland,Böljan,Jonsered,1x2,home,2.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Segunda División RFEF - Group 1,Basconia,Llanera,1x2,home,1.680,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Division 2 - Norra Svealand,Täby,Viggbyholms IK,1x2,home,1.710,won,0.7100,https://oddsintel.app/picks
+oddsintel,2026-10-03,Premiership,Portadown,Limavady United,1x2,away,2.430,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Segunda División,Albacete,Eibar,1x2,away,2.660,won,1.6600,https://oddsintel.app/picks
+oddsintel,2026-10-03,Segunda División,Albacete,Eibar,1x2,away,2.660,won,1.6600,https://oddsintel.app/picks
+oddsintel,2026-10-03,Botola Pro,Raja Casablanca,CR Khemis Zemamra,1x2,home,1.720,won,0.7200,https://oddsintel.app/picks
+oddsintel,2026-10-03,League One,Reading,Bradford,1x2,home,2.350,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Segunda División,Cadiz,Leganes,over_under_25,under,1.740,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Segunda División,Albacete,Eibar,over_under_25,over,1.930,won,0.9300,https://oddsintel.app/picks
+oddsintel,2026-10-03,3. liga - West,Slovan Duslo Šaľa,Rača,1x2,home,2.480,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Super League Women,Gent W,Zulte-Waregem W,1x2,away,2.010,won,1.0100,https://oddsintel.app/picks
+oddsintel,2026-10-03,III Liga - Group 3,Stilon Gorzów,Barycz Sułów,1x2,away,2.100,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Regionalliga - West,Kufstein,Imst,1x2,away,1.620,won,0.6200,https://oddsintel.app/picks
+oddsintel,2026-10-03,3. Division - Girone 6,Gjøvik-Lyn,Raelingen,1x2,home,1.590,won,0.5900,https://oddsintel.app/picks
+oddsintel,2026-10-03,4. liga - Divizie E,Nové Sady,Brumov,1x2,away,2.470,won,1.4700,https://oddsintel.app/picks
+oddsintel,2026-10-03,II Liga - East,Świt Skolwin,Sokół Kleczew,1x2,away,2.957,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Serie A,Atletico-MG,RB Bragantino,1x2,home,2.100,won,1.1000,https://oddsintel.app/picks
+oddsintel,2026-10-03,League One,Leyton Orient,Plymouth,1x2,away,2.120,won,1.1200,https://oddsintel.app/picks
+oddsintel,2026-10-03,Primera División RFEF - Group 2,FC Cartagena,Águilas,1x2,home,2.180,won,1.1800,https://oddsintel.app/picks
+oddsintel,2026-10-03,J-League Cup,Kashiwa Reysol,Gamba Osaka,1x2,home,1.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,FA Cup,Plymouth Parkway,Horsham,1x2,away,2.550,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,3. Division - Girone 2,Aalesund II,NTNUI,1x2,home,1.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Serie C,Inter De Limeira,Brusque,1x2,home,2.010,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,FA Cup,Morecambe,Darlington 1883,1x2,home,1.720,won,0.7200,https://oddsintel.app/picks
+oddsintel,2026-10-03,FA Cup,Ebbsfleet United,Sholing,1x2,home,1.430,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,FA Cup,Cray Wanderers,Chippenham Town,1x2,home,1.830,won,0.8300,https://oddsintel.app/picks
+oddsintel,2026-10-03,FA Cup,Dorking Wanderers,Chatham Town,1x2,home,1.450,won,0.4500,https://oddsintel.app/picks
+oddsintel,2026-10-03,FA Cup,Thame United,Eastbourne Borough,1x2,away,1.800,won,0.8000,https://oddsintel.app/picks
+oddsintel,2026-10-03,FA Cup,Gainsborough Trinity,Anstey Nomads,1x2,home,2.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,FA Cup,Bury,Bromsgrove Sporting,1x2,home,1.930,won,0.9300,https://oddsintel.app/picks
+oddsintel,2026-10-03,FA Cup,Chesham United,Real Bedford,1x2,home,2.200,won,1.2000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Serie C - Girone B,Grosseto,Sambenedettese,1x2,home,1.830,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Premier League,Veres Rivne,Kudrivka,1x2,home,2.120,won,1.1200,https://oddsintel.app/picks
+oddsintel,2026-10-03,Regionalliga - West,SV Rodinghausen,Sportfreunde Lotte,1x2,home,1.990,won,0.9900,https://oddsintel.app/picks
+oddsintel,2026-10-03,Friendlies Clubs,Genk,Fortuna Sittard,1x2,home,1.803,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,3. liga - Center,Rimavská Sobota,Fiľakovo,1x2,home,2.570,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,League One,Burton Albion,Huddersfield,1x2,away,2.120,won,1.1200,https://oddsintel.app/picks
+oddsintel,2026-10-03,Primera B,Deportes Temuco,Cobreloa,1x2,home,2.220,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,League One,Reading,Bradford,over_under_25,under,1.900,won,0.9000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Premier League,GAP Connah S Quay FC,Penybont,1x2,home,1.900,won,0.9000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Friendlies Clubs,Holstein Kiel,Viborg,1x2,home,2.350,won,1.3500,https://oddsintel.app/picks
+oddsintel,2026-10-03,UEFA Nations League,Finland,Albania,1x2,home,2.580,won,1.5800,https://oddsintel.app/picks
+oddsintel,2026-10-03,Ligue 3,Cannes,Quevilly,1x2,home,1.720,won,0.7200,https://oddsintel.app/picks
+oddsintel,2026-10-03,Friendlies,Netherlands U19,Austria U19,1x2,home,2.450,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,3. Division,Brønshøj,Frem,1x2,home,2.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Serie C - Girone C,Sorrento,Casarano,1x2,home,2.660,won,1.6600,https://oddsintel.app/picks
+oddsintel,2026-10-03,FA Cup,Worksop Town,United of Manchester,1x2,home,1.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Serie A,Atletico-MG,RB Bragantino,1x2,away,4.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,FA Cup,AFC Rushden & Diamonds,Braintree,1x2,away,1.900,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Serie B,Botafogo SP,Vila Nova,1x2,draw,3.290,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Liga Profesional Argentina,Atletico Tucuman,Barracas Central,1x2,home,1.980,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,UEFA Nations League,Croatia,England,1x2,away,1.800,won,0.8000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Tercera División RFEF - Group 6,Hércules II,Eldense B,1x2,away,2.825,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Ligue 3,Le Puy Foot,Thionville Lusitanos,1x2,home,1.940,won,0.9400,https://oddsintel.app/picks
+oddsintel,2026-10-03,Ettan - Norra,Stocksund,Järfälla,1x2,home,2.300,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,UEFA Nations League,Estonia,Luxembourg,1x2,draw,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Friendlies Clubs,Stade Brestois 29,Monza,1x2,home,2.578,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Friendlies,Portugal U19,Denmark U19,1x2,home,1.650,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,UEFA Nations League,Estonia,Luxembourg,1x2,away,2.920,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,UEFA Nations League,Switzerland,Slovenia,1x2,home,1.340,won,0.3400,https://oddsintel.app/picks
+oddsintel,2026-10-03,Gulf Cup of Nations,United Arab Emirates,Oman,1x2,home,1.641,won,0.6410,https://oddsintel.app/picks
+oddsintel,2026-10-03,Serie A Women,Roma (W),Lazio W,1x2,home,1.510,won,0.5100,https://oddsintel.app/picks
+oddsintel,2026-10-03,Canadian Premier League,York United,Cavalry FC,1x2,away,1.690,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,First Amateur Division,Olympic Charleroi,Meux,1x2,home,1.932,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Eerste Divisie,FC Eindhoven,De Graafschap,1x2,away,2.420,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Copa Colombia,Barranquilla,Millonarios,1x2,away,1.490,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-03,Copa de la División Profesional,The Strongest,Universitario de Vinto,1x2,home,1.460,won,0.4600,https://oddsintel.app/picks
+oddsintel,2026-10-04,USL Championship,Colorado Springs,Oakland Roots,1x2,home,1.750,lost,-1.0000,https://oddsintel.app/picks
