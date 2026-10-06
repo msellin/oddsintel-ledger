@@ -141,6 +141,23 @@ too. The snapshots up to 2026-10-02 are unchanged: they are timestamped and anch
 their proofs. A row's price and result are identical in both forms.
 
 
+## Note — bookmaker names: only Estonian-licensed books (2026-10-06)
+
+This replaces the 2026-10-02 note above, which said that only 1xBet and Paripesa read `Other bookmaker`.
+From the first snapshot written on or after 2026-10-06, `bookmaker` keeps its value only for books whose brand
+is on the Estonian Tax and Customs Board (EMTA) register of licensed betting operators. These keys stay as they are:
+`Coolbet`, `Coolbet-OddsAPI`, `Unibet-Site`, `Bet365`, `Paf`, `Olybet`, `Optibet`, `Tonybet`, `Epicbet`, `Ninja`,
+`Betsafe`, `20bet`, `22bet`, `Vivatbet`, `Betmaster`, `Luckybet` and `Campeonbet`. Every other key reads
+`Other bookmaker`. That includes Pinnacle, Betano, Marathonbet, Betfair, William Hill, 1xBet, Paripesa, and the old
+API-Football `Unibet` and `Unibet-Kambi` feeds (`Unibet-Site` is our own unibet.ee feed and stays apart from them).
+The reason is Estonia's Advertising Act (§29²), which forbids advertising a betting operator that holds no Estonian
+licence. We check the register monthly, and a book that leaves it is masked from the next snapshot.
+
+Each snapshot holds every bet since 2026-05-04, so in new files the past rows of those books change too.
+Files already written are never rewritten: they are timestamped, sealed and anchored, and rewriting them would
+break their proofs. A row's price and result are the same in both forms; only the book's name is replaced.
+
+
 ## Note — the ledger is the /performance headline; prices are checked (2026-10-03)
 
 From the first snapshot after 2026-10-03 the file holds exactly the picks and prices of the all-time figure on
