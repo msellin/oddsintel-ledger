@@ -19,6 +19,9 @@ football model.
 > September cannot honestly carry an August commit date or Bitcoin attestation, and
 > fabricating them would forge the exact audit trail this ledger exists to provide.
 >
+> Snapshot dates in full: 2026-06-24 → 2026-07-12 (2026-07-08 missing), none 2026-07-13 → 2026-09-20,
+> every night since 2026-09-21 — the same dates oddsintel.app/methodology states.
+>
 > Freshness is now machine-checked by smoke `LEDGER-SNAPSHOT-FRESH`.
 
 ## Verification mechanic — three independent anchors
