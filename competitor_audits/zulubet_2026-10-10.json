@@ -1,0 +1,668 @@
+{
+ "schema": "price_check/v1",
+ "site": "zulubet",
+ "name": "Zulubet",
+ "slug": "zulubet-review",
+ "url": "https://www.zulubet.com/",
+ "generated_at": "2026-10-11T18:23:27+00:00",
+ "prereg": {
+  "path": "ops/price-check/zulubet.yml",
+  "logged_at": "2026-10-11T17:16:59Z",
+  "tests": [
+   "baseline",
+   "clv",
+   "our_numbers",
+   "own_odds",
+   "pinnacle_close",
+   "record_matches"
+  ],
+  "dropped": []
+ },
+ "window": {
+  "start": "2026-09-11",
+  "end": "2026-10-10",
+  "days": 30
+ },
+ "price_basis": "the 1X2 average odds printed in each row (no bookmaker named). A single tip (1 / X / 2) is graded at its printed price; a double-chance tip (1X / X2 / 12) has NO printed price and is graded only at market prices (Pinnacle close / baseline), never at a price derived from the 1X2 numbers",
+ "proof": {
+  "grade": "C",
+  "grade_text": "read after the fact from its history pages",
+  "share_pre_ko_pct": 0.0,
+  "added_after_ko": 0,
+  "edited_after_ko": 0
+ },
+ "sample": {
+  "picks_read": 1809,
+  "graded": 958,
+  "graded_busy": 958,
+  "voids": 14,
+  "ungraded": 0,
+  "unmatched_excluded": 0,
+  "site_graded_unmatched": 11,
+  "excluded_untested": {},
+  "unmatched": {
+   "1x2": 6,
+   "double_chance": 5
+  },
+  "wrong_match_by_score": {
+   "1x2": 2
+  }
+ },
+ "markets": {
+  "1x2": {
+   "label": "Match result (1X2)",
+   "own_basis": "all_picks",
+   "greyed_unmatched": false,
+   "own": {
+    "n": 958,
+    "won": 625,
+    "win_rate": 65.24,
+    "avg_odds": 1.714,
+    "breakeven": 63.46,
+    "return_pct": 4.01,
+    "range": [
+     -0.84,
+     9.02
+    ],
+    "range_note": null,
+    "too_few": false
+   },
+   "own_matched": {
+    "n": 954,
+    "won": 624,
+    "win_rate": 65.41,
+    "avg_odds": 1.713,
+    "breakeven": 63.48,
+    "return_pct": 4.33,
+    "range": [
+     -0.72,
+     9.62
+    ],
+    "range_note": null,
+    "too_few": false
+   },
+   "n_void": 8,
+   "n_ungraded": 0,
+   "n_unmatched": 6,
+   "unmatched_pct": 0.6,
+   "odds_share_pct": 100.0,
+   "pnl": [
+    [
+     "2026-09-11",
+     1.0,
+     28
+    ],
+    [
+     "2026-09-12",
+     2.41,
+     66
+    ],
+    [
+     "2026-09-13",
+     5.91,
+     101
+    ],
+    [
+     "2026-09-14",
+     13.24,
+     132
+    ],
+    [
+     "2026-09-15",
+     10.37,
+     159
+    ],
+    [
+     "2026-09-16",
+     11.38,
+     195
+    ],
+    [
+     "2026-09-17",
+     12.84,
+     228
+    ],
+    [
+     "2026-09-18",
+     15.51,
+     279
+    ],
+    [
+     "2026-09-19",
+     10.31,
+     311
+    ],
+    [
+     "2026-09-20",
+     13.55,
+     349
+    ],
+    [
+     "2026-09-21",
+     15.06,
+     367
+    ],
+    [
+     "2026-09-22",
+     11.19,
+     388
+    ],
+    [
+     "2026-09-23",
+     9.81,
+     418
+    ],
+    [
+     "2026-09-24",
+     10.58,
+     445
+    ],
+    [
+     "2026-09-25",
+     10.29,
+     485
+    ],
+    [
+     "2026-09-26",
+     13.95,
+     513
+    ],
+    [
+     "2026-09-27",
+     23.18,
+     542
+    ],
+    [
+     "2026-09-28",
+     33.91,
+     563
+    ],
+    [
+     "2026-09-29",
+     34.94,
+     584
+    ],
+    [
+     "2026-09-30",
+     34.77,
+     623
+    ],
+    [
+     "2026-10-01",
+     29.55,
+     657
+    ],
+    [
+     "2026-10-02",
+     26.95,
+     690
+    ],
+    [
+     "2026-10-03",
+     36.6,
+     730
+    ],
+    [
+     "2026-10-04",
+     43.76,
+     764
+    ],
+    [
+     "2026-10-05",
+     39.17,
+     795
+    ],
+    [
+     "2026-10-06",
+     39.86,
+     828
+    ],
+    [
+     "2026-10-07",
+     41.14,
+     865
+    ],
+    [
+     "2026-10-08",
+     37.46,
+     891
+    ],
+    [
+     "2026-10-09",
+     37.06,
+     925
+    ],
+    [
+     "2026-10-10",
+     38.37,
+     958
+    ]
+   ],
+   "price_check": {
+    "n": 954,
+    "tolerance_pct": 2.0,
+    "within_best_pct": 99.8,
+    "above_best_15x_pct": 0.0,
+    "median_vs_best_pct": -5.5,
+    "median_books": 12
+   },
+   "own_unmatched_only": {
+    "n": 4,
+    "won": 1,
+    "win_rate": 25.0,
+    "avg_odds": 1.945,
+    "breakeven": 58.99,
+    "return_pct": -74.25,
+    "range": [
+     -100.0,
+     -22.75
+    ],
+    "range_note": null,
+    "too_few": true
+   },
+   "pinnacle": {
+    "n": 842,
+    "won": 539,
+    "win_rate": 64.01,
+    "avg_odds": 1.689,
+    "breakeven": 63.47,
+    "return_pct": 1.33,
+    "range": [
+     -3.5,
+     6.26
+    ],
+    "range_note": null,
+    "too_few": false,
+    "coverage_pct": 87.9
+   },
+   "clv": {
+    "n": 842,
+    "mean_pct": -2.2,
+    "range": [
+     -2.84,
+     -1.54
+    ],
+    "share_beating_pct": 27.3
+   },
+   "baseline": {
+    "site": {
+     "n": 841,
+     "won": 539,
+     "win_rate": 64.09,
+     "avg_odds": 1.689,
+     "breakeven": 63.47,
+     "return_pct": 1.45,
+     "range": [
+      -3.45,
+      6.46
+     ],
+     "range_note": null,
+     "too_few": false
+    },
+    "rule": {
+     "n": 841,
+     "won": 653,
+     "win_rate": 77.65,
+     "avg_odds": 1.269,
+     "breakeven": 79.86,
+     "return_pct": -2.51,
+     "range": [
+      -6.62,
+      1.25
+     ],
+     "range_note": null,
+     "too_few": false
+    },
+    "caveat": "the rule chooses with kick-off prices, so it shows what a win rate is made of, not a strategy"
+   },
+   "record": {
+    "n": 952,
+    "site_win_rate": 65.34,
+    "our_win_rate": 65.34,
+    "agree_pct": 100.0
+   },
+   "bonferroni": [
+    -0.84,
+    9.02
+   ]
+  },
+  "double_chance": {
+   "label": "Double chance",
+   "own_basis": "all_picks",
+   "greyed_unmatched": false,
+   "own": {
+    "n": 0
+   },
+   "own_matched": {
+    "n": 0
+   },
+   "n_void": 6,
+   "n_ungraded": 0,
+   "n_unmatched": 5,
+   "unmatched_pct": 0.6,
+   "odds_share_pct": 0.0,
+   "pnl": [],
+   "price_check": {
+    "n": 0
+   },
+   "own_unmatched_only": {
+    "n": 0
+   },
+   "pinnacle": {
+    "n": 775,
+    "won": 584,
+    "win_rate": 75.35,
+    "avg_odds": 1.365,
+    "breakeven": 73.96,
+    "return_pct": 1.91,
+    "range": [
+     -1.63,
+     5.44
+    ],
+    "range_note": null,
+    "too_few": false,
+    "coverage_pct": 93.0
+   },
+   "clv": {
+    "n": 0
+   },
+   "baseline": {
+    "site": {
+     "n": 774,
+     "won": 583,
+     "win_rate": 75.32,
+     "avg_odds": 1.365,
+     "breakeven": 73.96,
+     "return_pct": 1.86,
+     "range": [
+      -1.68,
+      5.39
+     ],
+     "range_note": null,
+     "too_few": false
+    },
+    "rule": {
+     "n": 774,
+     "won": 722,
+     "win_rate": 93.28,
+     "avg_odds": 1.099,
+     "breakeven": 91.17,
+     "return_pct": 2.29,
+     "range": [
+      -0.17,
+      4.25
+     ],
+     "range_note": null,
+     "too_few": false
+    },
+    "caveat": "the rule chooses with kick-off prices, so it shows what a win rate is made of, not a strategy"
+   },
+   "record": {
+    "n": 828,
+    "site_win_rate": 75.72,
+    "our_win_rate": 75.72,
+    "agree_pct": 100.0
+   },
+   "bonferroni": null
+  }
+ },
+ "busy_markets": [
+  "1x2"
+ ],
+ "pooled": {
+  "own": {
+   "n": 958,
+   "won": 625,
+   "win_rate": 65.24,
+   "avg_odds": 1.714,
+   "breakeven": 63.46,
+   "return_pct": 4.01,
+   "range": [
+    -0.84,
+    9.02
+   ],
+   "range_note": null,
+   "too_few": false
+  },
+  "pinnacle": {
+   "n": 841,
+   "won": 539,
+   "win_rate": 64.09,
+   "avg_odds": 1.689,
+   "breakeven": 63.47,
+   "return_pct": 1.45,
+   "range": [
+    -3.45,
+    6.46
+   ],
+   "range_note": null,
+   "too_few": false
+  },
+  "clv": {
+   "n": 841,
+   "mean_pct": -2.2,
+   "range": [
+    -2.84,
+    -1.54
+   ],
+   "share_beating_pct": 27.3
+  }
+ },
+ "scorecard": {
+  "shows_odds": "no",
+  "shows_pl": "no",
+  "profitable": "mixed",
+  "profitable_k": 1,
+  "beats_close": "unreliable",
+  "beats_rule": "yes",
+  "record_matches": "yes",
+  "proof_grade": "C"
+ },
+ "tiles": [
+  {
+   "value": "958",
+   "label": "picks tested, Match result (1X2)"
+  },
+  {
+   "value": "None",
+   "label": "accuracy or profit figure on its pages"
+  },
+  {
+   "value": "+4.0%",
+   "label": "return at its own odds"
+  },
+  {
+   "value": "+1.4%",
+   "label": "at Pinnacle's close; CLV unreliable (grade C)"
+  }
+ ],
+ "example_day": {
+  "day": "2026-10-10",
+  "card_n": 33,
+  "card_won": 21,
+  "prominent_n": 20,
+  "rows": [
+   {
+    "country": "Germany",
+    "home": "SC Paderborn 07",
+    "away": "VfB Stuttgart",
+    "market": "1x2",
+    "site_selection": "2",
+    "odds": 1.57,
+    "outcome": "won",
+    "score": "0-2",
+    "pin": 1.61,
+    "league": "Germany Bundesliga"
+   },
+   {
+    "country": "Germany",
+    "home": "FC Augsburg",
+    "away": "Bayern München",
+    "market": "1x2",
+    "site_selection": "2",
+    "odds": 1.17,
+    "outcome": "lost",
+    "score": "2-2",
+    "pin": 1.17,
+    "league": "Germany Bundesliga"
+   },
+   {
+    "country": "Germany",
+    "home": "Union Berlin",
+    "away": "SV Elversberg",
+    "market": "1x2",
+    "site_selection": "1",
+    "odds": 2.37,
+    "outcome": "won",
+    "score": "1-0",
+    "pin": 2.51,
+    "league": "Germany Bundesliga"
+   },
+   {
+    "country": "Germany",
+    "home": "1899 Hoffenheim",
+    "away": "Hamburger SV",
+    "market": "1x2",
+    "site_selection": "1",
+    "odds": 1.42,
+    "outcome": "lost",
+    "score": "2-3",
+    "pin": 1.43,
+    "league": "Germany Bundesliga"
+   },
+   {
+    "country": "Spain",
+    "home": "Alaves",
+    "away": "Atletico Madrid",
+    "market": "1x2",
+    "site_selection": "2",
+    "odds": 1.81,
+    "outcome": "won",
+    "score": "1-2",
+    "pin": 1.81,
+    "league": "Spain La Liga"
+   },
+   {
+    "country": "Spain",
+    "home": "Barcelona",
+    "away": "Getafe",
+    "market": "1x2",
+    "site_selection": "1",
+    "odds": 1.08,
+    "outcome": "won",
+    "score": "3-0",
+    "pin": 1.09,
+    "league": "Spain La Liga"
+   }
+  ]
+ },
+ "ours": {
+  "primary": {
+   "basis": "every settled pre-match pick of every bot on /performance, at the published price",
+   "proof_grade": "C",
+   "own": {
+    "n": 2040,
+    "won": 1047,
+    "win_rate": 51.32,
+    "avg_odds": 2.187,
+    "breakeven": 49.39,
+    "return_pct": 4.35,
+    "range": [
+     -1.14,
+     9.31
+    ],
+    "range_note": null,
+    "too_few": false
+   },
+   "pinnacle": {
+    "n": 1645,
+    "won": 844,
+    "win_rate": 51.31,
+    "avg_odds": 2.005,
+    "breakeven": 53.54,
+    "return_pct": -3.73,
+    "range": [
+     -9.51,
+     1.25
+    ],
+    "range_note": null,
+    "too_few": false,
+    "coverage_pct": 80.6
+   },
+   "clv": {
+    "n": 1645,
+    "mean_pct": 1.54,
+    "range": [
+     1.11,
+     1.99
+    ],
+    "share_beating_pct": 60.7
+   }
+  },
+  "primary_sealed_pct": 88.2,
+  "telegram": {
+   "basis": "the subset posted to our public Telegram channel before kick-off",
+   "proof_grade": "B",
+   "own": {
+    "n": 640,
+    "won": 312,
+    "win_rate": 48.75,
+    "avg_odds": 2.203,
+    "breakeven": 48.82,
+    "return_pct": 0.99,
+    "range": [
+     -8.7,
+     7.76
+    ],
+    "range_note": null,
+    "too_few": false
+   },
+   "pinnacle": {
+    "n": 635,
+    "won": 309,
+    "win_rate": 48.66,
+    "avg_odds": 2.085,
+    "breakeven": 51.55,
+    "return_pct": -4.42,
+    "range": [
+     -13.67,
+     1.88
+    ],
+    "range_note": null,
+    "too_few": false,
+    "coverage_pct": 99.2
+   },
+   "clv": {
+    "n": 635,
+    "mean_pct": 0.27,
+    "range": [
+     -0.56,
+     0.93
+    ],
+    "share_beating_pct": 56.7
+   }
+  }
+ },
+ "claims": [
+  {
+   "quote": "free soccer (football) predictions, daily tips and picks",
+   "url": "https://www.zulubet.com/",
+   "read_on": "2026-10-11",
+   "measures": "sample",
+   "archive": "https://web.archive.org/web/20261011182000/https://www.zulubet.com/"
+  },
+  {
+   "quote": "email: info [@] zulubet.com",
+   "url": "https://www.zulubet.com/privacy.php",
+   "read_on": "2026-10-11",
+   "measures": "operator",
+   "archive": "https://web.archive.org/web/20261011182047/https://www.zulubet.com/privacy.php"
+  }
+ ],
+ "facts": {
+  "shows_pl": "no",
+  "operator": "not named: no company, owner or address on the site; contact info@zulubet.com (privacy page)",
+  "price": "free; no paid tier seen (2026-10-11)",
+  "product": "daily football predictions: 1X2 probabilities, a tip (single or double chance), average 1X2 odds"
+ }
+}
