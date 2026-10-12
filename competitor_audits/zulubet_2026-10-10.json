@@ -23,7 +23,7 @@
   "end": "2026-10-10",
   "days": 30
  },
- "price_basis": "the 1X2 average odds printed in each row (no bookmaker named). A single tip (1 / X / 2) is graded at its printed price; a double-chance tip (1X / X2 / 12) has NO printed price and is graded only at market prices (Pinnacle close / baseline), never at a price derived from the 1X2 numbers",
+ "price_basis": "the 1X2 average odds printed in each row (no bookmaker named). A single tip (1 / X / 2) is graded at its printed price; a double-chance tip (1X / X2 / 12) has NO printed price and is graded only at market prices (the sharp close / baseline), never at a price derived from the 1X2 numbers",
  "proof": {
   "grade": "C",
   "grade_text": "read after the fact from its history pages",
@@ -473,7 +473,7 @@
   },
   {
    "value": "+1.3%",
-   "label": "at Pinnacle's close; CLV unreliable (grade C)"
+   "label": "at the sharp close; CLV unreliable (grade C)"
   }
  ],
  "example_day": {
