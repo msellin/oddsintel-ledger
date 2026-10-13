@@ -144,6 +144,16 @@ too. The snapshots up to 2026-10-02 are unchanged: they are timestamped and anch
 their proofs. A row's price and result are identical in both forms.
 
 
+## Note — no bookmaker names (2026-10-13)
+
+This replaces the two other bookmaker-name notes in this file. From the first snapshot written on or after 2026-10-13, `bookmaker` is `null` on
+every row: we no longer name bookmakers on the site, in the API or in the ledger. The field stays so existing readers
+keep working. A row's price and result are unchanged; only the book's name is gone.
+Each snapshot holds every bet since 2026-05-04, so in new files the past rows read `null` too. Files already written
+are never rewritten: they are timestamped, sealed and anchored, and rewriting them would break their proofs, so the
+snapshots up to 2026-10-12 keep the names they were published with.
+
+
 ## Note — bookmaker names: only Estonian-licensed books (2026-10-06)
 
 This replaces the 2026-10-02 note above, which said that only 1xBet and Paripesa read `Other bookmaker`.
