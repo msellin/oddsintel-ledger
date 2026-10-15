@@ -2,80 +2,79 @@
   "min_sample_each_side": 50,
   "our_stats_matched_window": {
     "basis": "landing headline: every pick logged before kick-off (bot_ledger_headline, #235), public price, ACTIVE non-VIP bots",
-    "ci_high_pct": 25.08,
-    "ci_low_pct": -0.29,
-    "n": 500,
-    "roi_pct": 12.39,
-    "window_end": "2026-09-24",
+    "ci_high_pct": 15.29,
+    "ci_low_pct": 2.63,
+    "n": 1377,
+    "roi_pct": 8.96,
+    "window_end": "2026-10-10",
     "window_start": "2026-05-04"
   },
   "our_stats_same_window": {
-    "avg_odds": 2.902,
-    "coverage_pct": 99.1,
-    "hit_rate_pct": 40.49,
-    "hit_rate_pct_recorded_all_rows": 40.35,
-    "n": 452,
-    "n_total_settled": 456,
-    "pnl_total": 489.12,
+    "avg_odds": 2.188,
+    "coverage_pct": 98.0,
+    "hit_rate_pct": 50.84,
+    "hit_rate_pct_recorded_all_rows": 50.64,
+    "n": 1843,
+    "n_total_settled": 1880,
+    "pnl_total": 598.43,
     "priced_at": "best price live at pick time",
     "restatement_note": "roi_pct is priced at odds that were live at pick time. roi_pct_recorded is the same bets at the stored odds_at_pick, which STALE-BEST-ODDS-2026-09-02 showed to be a high-water mark across the whole snapshot history rather than a price on offer.",
-    "roi_pct": 10.82,
-    "roi_pct_recorded": 15.95,
-    "roi_pct_recorded_all_rows": 15.64,
-    "stake_total": 4520.0
+    "roi_pct": 3.25,
+    "roi_pct_recorded": 6.54,
+    "roi_pct_recorded_all_rows": 6.13,
+    "stake_total": 18430.0
   },
   "reproducible_via": "scripts/audit_vs_winnerodds.py",
-  "restored_note": "2026-09-28 (#235): their side restored from the last COMPLETE pull (the 19:00 refresh hit a 429 and published a partial 451-pick record); our side recomputed on the current headline basis for the same dates.",
   "scope_notes": "WinnerOdds picks pulled from their public GraphQL endpoint (period=12, FOOTBALL). their_stats is the COMPARABLE subset: their 1X2 + OU 2.5 picks only, re-settled at \u20ac10 flat to match our staking. WINNERODDS-MARKET-RESOLVE 2026-09-02 \u2014 this used to publish their all-markets figure against our 1X2+OU2.5 figure, which is not the same measurement: 47% of their bets are Asian Handicap (a market we do not model) and 16% are OU 3.5, and they stake Kelly-style (mean \u20ac37) where we stake flat. Their all-markets number is kept as their_stats_all_markets, and the full split as their_by_market. OddsIntel cohort: production strategies (calibrated+beta+active maturity), 1X2 + OU 2.5, settled (won/lost), \u20ac10 flat, inplay_* excluded.",
-  "snapshot_at_utc": "2026-09-28T08:55:41.051695+00:00",
+  "snapshot_at_utc": "2026-10-15T07:19:16.223949+00:00",
   "source": "WinnerOdds",
   "source_url": "https://winnerodds.com",
   "status": "ok",
   "their_by_market": {
     "1x2": {
-      "hit_rate_pct": 49.12,
-      "n": 568,
-      "roi_pct": 7.41
+      "hit_rate_pct": 50.61,
+      "n": 658,
+      "roi_pct": 11.02
     },
     "asian_handicap": {
-      "hit_rate_pct": 62.63,
-      "n": 998,
-      "roi_pct": 2.27
+      "hit_rate_pct": 62.11,
+      "n": 1185,
+      "roi_pct": 2.36
     },
     "over_under_25": {
-      "hit_rate_pct": 50.34,
-      "n": 294,
-      "roi_pct": 4.57
+      "hit_rate_pct": 50.0,
+      "n": 298,
+      "roi_pct": 3.72
     },
     "over_under_35": {
-      "hit_rate_pct": 55.64,
-      "n": 381,
-      "roi_pct": -1.28
+      "hit_rate_pct": 55.29,
+      "n": 416,
+      "roi_pct": -2.59
     }
   },
   "their_stats": {
-    "avg_clv_pct": 0.1544,
-    "ci_high_pct": 14.73,
-    "ci_low_pct": -1.84,
-    "hit_rate_pct": 49.54,
-    "n": 862,
-    "pnl_total": 555.59,
-    "roi_pct": 6.45,
-    "stake_total": 8620.0,
-    "window_end": "2026-09-24",
+    "avg_clv_pct": 0.1778,
+    "ci_high_pct": 16.73,
+    "ci_low_pct": 0.76,
+    "hit_rate_pct": 50.42,
+    "n": 956,
+    "pnl_total": 836.01,
+    "roi_pct": 8.74,
+    "stake_total": 9560.0,
+    "window_end": "2026-10-10",
     "window_start": "2026-05-04"
   },
   "their_stats_all_markets": {
-    "avg_clv_pct": 0.1544,
-    "hit_rate_pct": 56.4,
-    "n": 2448,
-    "pnl_total": 3727.42,
-    "roi_pct": 3.81,
-    "stake_total": 97764.68,
+    "avg_clv_pct": 0.1778,
+    "hit_rate_pct": 56.63,
+    "n": 2800,
+    "pnl_total": 3816.55,
+    "roi_pct": 3.4,
+    "stake_total": 112314.02,
     "staking": "their own (Kelly-style, variable)"
   },
   "window": {
-    "end": "2026-09-29",
+    "end": "2026-10-16",
     "start": "2026-05-04"
   }
 }
