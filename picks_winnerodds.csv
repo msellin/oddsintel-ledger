@@ -1,4 +1,9 @@
 source,kickoff_date,league,home_team,away_team,market,pick,odds,result,pnl_per_unit,ref_url
+winnerodds,2026-10-07,England,,,asian_handicap,ah-0.5_1,2.270,won,1.2700,https://winnerodds.com
+winnerodds,2026-10-07,England,,,asian_handicap,ah-0_1,1.500,won,0.5000,https://winnerodds.com
+winnerodds,2026-10-07,England,,,asian_handicap,ah-0_1,1.333,won,0.3330,https://winnerodds.com
+winnerodds,2026-10-07,England,,,1x2,1,1.450,won,0.4500,https://winnerodds.com
+winnerodds,2026-10-07,England,,,asian_handicap,ah-0_1,1.260,won,0.2600,https://winnerodds.com
 winnerodds,2026-10-07,England,,,asian_handicap,ah-0_1,1.444,void,0.0000,https://winnerodds.com
 winnerodds,2026-10-07,England,,,asian_handicap,ah-0.5_1,2.200,won,1.2000,https://winnerodds.com
 winnerodds,2026-10-07,England,,,asian_handicap,ah-0.5_1,3.080,lost,-1.0000,https://winnerodds.com
