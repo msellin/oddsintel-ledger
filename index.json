@@ -262,5 +262,11 @@
     "n_bets": 2092,
     "roi_pct": 4.8939,
     "sha256": "55bff9b8c03a1db81d8c12dfdbc4320aadd3e50dd30deb62eac79ab2eb0937b5"
+  },
+  "2026-10-17": {
+    "generated_at_utc": "2026-10-17T00:45:42.179150+00:00",
+    "n_bets": 2158,
+    "roi_pct": 5.2205,
+    "sha256": "8cb2c19597cf0cf912fe18b68131e167536f9b44288550b6e9f802d8d3450481"
   }
 }
