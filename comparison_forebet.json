@@ -1,178 +1,178 @@
 {
   "source": "Forebet",
   "source_url": "https://www.forebet.com/en/football-predictions/predictions-1x2/<date>  (and /under-over-25-goals/<date>)",
-  "snapshot_at_utc": "2026-10-16T07:06:14+00:00",
+  "snapshot_at_utc": "2026-10-17T06:58:18+00:00",
   "window": {
     "start": "2026-05-04",
-    "end": "2026-10-17"
+    "end": "2026-10-18"
   },
-  "data_through": "2026-10-15",
+  "data_through": "2026-10-16",
   "data_age_days": 1,
   "status": "ok",
   "min_sample_each_side": 50,
   "scope_notes": "1X2 highest-prob pick + OU 2.5 pick only, soccer, settled rows (Forebet's own predict_y/predict_no flag), 10 EUR flat stake. Coverage limited to ~last 38 days because Forebet date URLs older than that silently fall back to today. FOREBET-REPRICE-2026-09-02: their_stats is NOT Forebet's published ROI. Forebet's quoted odds are frequently unobtainable — see scripts/verify_forebet_odds_cross_source.py, which shows 9.5% of their picks claiming >1.5x the best price available anywhere against 0.7% for a third-party control, concentrated on winners (p=2.4e-06). their_stats therefore re-settles their own picks at the BEST closing price across our books — the most favourable realistic assumption for them — over the subset we can fixture-match. Their published figure is kept verbatim as their_stats_claimed_odds, and at_median_close / at_bet365_close in their_reprice show what an ordinary single account would get.",
   "reproducible_via": "scripts/scrape_forebet.py + scripts/audit_vs_forebet.py",
   "their_stats": {
-    "n": 2219,
-    "roi_pct": -0.37,
-    "hit_rate_pct": 50.11,
-    "pnl_total": -81.22,
-    "stake_total": 22190.0,
+    "n": 2256,
+    "roi_pct": -0.82,
+    "hit_rate_pct": 49.91,
+    "pnl_total": -185.68,
+    "stake_total": 22560.0,
     "window_start": "2026-05-25",
-    "window_end": "2026-10-15",
-    "ci_low_pct": -5.08,
-    "ci_high_pct": 4.35,
+    "window_end": "2026-10-16",
+    "ci_low_pct": -5.49,
+    "ci_high_pct": 3.84,
     "priced_at": "best closing price across our books",
-    "n_total_picks": 3337,
-    "coverage_pct": 66.5
+    "n_total_picks": 3399,
+    "coverage_pct": 66.4
   },
   "their_stats_claimed_odds": {
-    "n": 3337,
-    "stake_total": 33370.0,
-    "pnl_total": 2570.1,
-    "roi_pct": 7.7,
-    "hit_rate_pct": 51.03,
+    "n": 3399,
+    "stake_total": 33990.0,
+    "pnl_total": 2521.1,
+    "roi_pct": 7.42,
+    "hit_rate_pct": 50.96,
     "avg_odds": 2.28,
     "priced_at": "Forebet's own published odds"
   },
   "their_reprice": {
-    "n_total": 3337,
-    "n_repriced": 2219,
-    "coverage_pct": 66.5,
+    "n_total": 3399,
+    "n_repriced": 2256,
+    "coverage_pct": 66.4,
     "median_books_at_close": 12,
     "at_claimed_odds": {
-      "n": 2219,
-      "roi_pct": 6.99,
-      "hit_rate_pct": 50.11,
-      "pnl_total": 1551.6,
-      "stake_total": 22190.0,
+      "n": 2256,
+      "roi_pct": 6.58,
+      "hit_rate_pct": 49.91,
+      "pnl_total": 1484.9,
+      "stake_total": 22560.0,
       "window_start": "2026-05-25",
-      "window_end": "2026-10-15",
-      "ci_low_pct": 1.97,
-      "ci_high_pct": 12.02
+      "window_end": "2026-10-16",
+      "ci_low_pct": 1.6,
+      "ci_high_pct": 11.56
     },
     "at_best_close": {
-      "n": 2219,
-      "roi_pct": -0.37,
-      "hit_rate_pct": 50.11,
-      "pnl_total": -81.22,
-      "stake_total": 22190.0,
+      "n": 2256,
+      "roi_pct": -0.82,
+      "hit_rate_pct": 49.91,
+      "pnl_total": -185.68,
+      "stake_total": 22560.0,
       "window_start": "2026-05-25",
-      "window_end": "2026-10-15",
-      "ci_low_pct": -5.08,
-      "ci_high_pct": 4.35
+      "window_end": "2026-10-16",
+      "ci_low_pct": -5.49,
+      "ci_high_pct": 3.84
     },
     "at_median_close": {
-      "n": 2219,
-      "roi_pct": -5.81,
-      "hit_rate_pct": 50.11,
-      "pnl_total": -1290.22,
-      "stake_total": 22190.0,
+      "n": 2256,
+      "roi_pct": -6.24,
+      "hit_rate_pct": 49.91,
+      "pnl_total": -1408.27,
+      "stake_total": 22560.0,
       "window_start": "2026-05-25",
-      "window_end": "2026-10-15",
-      "ci_low_pct": -10.21,
-      "ci_high_pct": -1.42
+      "window_end": "2026-10-16",
+      "ci_low_pct": -10.6,
+      "ci_high_pct": -1.89
     },
     "at_bet365_close": {
-      "n": 2048,
-      "roi_pct": -5.23,
-      "hit_rate_pct": 50.05,
-      "pnl_total": -1070.5,
-      "stake_total": 20480.0,
+      "n": 2080,
+      "roi_pct": -5.58,
+      "hit_rate_pct": 49.86,
+      "pnl_total": -1160.9,
+      "stake_total": 20800.0,
       "window_start": "2026-05-25",
-      "window_end": "2026-10-15",
-      "ci_low_pct": -9.84,
-      "ci_high_pct": -0.62
+      "window_end": "2026-10-16",
+      "ci_low_pct": -10.15,
+      "ci_high_pct": -1.01
     }
   },
   "their_breakdown": {
     "by_market": {
       "1x2": {
-        "n": 1788,
-        "stake_total": 17880.0,
-        "pnl_total": -364.3,
-        "roi_pct": -2.04,
-        "hit_rate_pct": 47.87,
-        "avg_odds": 2.443
+        "n": 1822,
+        "stake_total": 18220.0,
+        "pnl_total": -449.6,
+        "roi_pct": -2.47,
+        "hit_rate_pct": 47.75,
+        "avg_odds": 2.442
       },
       "over_under_25": {
-        "n": 1549,
-        "stake_total": 15490.0,
-        "pnl_total": 2934.4,
-        "roi_pct": 18.94,
-        "hit_rate_pct": 54.68,
-        "avg_odds": 2.093
+        "n": 1577,
+        "stake_total": 15770.0,
+        "pnl_total": 2970.7,
+        "roi_pct": 18.84,
+        "hit_rate_pct": 54.66,
+        "avg_odds": 2.092
       }
     },
     "by_pick": {
       "1x2::1": {
-        "n": 747,
-        "stake_total": 7470.0,
-        "pnl_total": 226.3,
-        "roi_pct": 3.03,
-        "hit_rate_pct": 59.97,
-        "avg_odds": 1.881
+        "n": 758,
+        "stake_total": 7580.0,
+        "pnl_total": 218.9,
+        "roi_pct": 2.89,
+        "hit_rate_pct": 59.89,
+        "avg_odds": 1.879
       },
       "1x2::2": {
-        "n": 608,
-        "stake_total": 6080.0,
-        "pnl_total": -232.4,
-        "roi_pct": -3.82,
-        "hit_rate_pct": 47.53,
-        "avg_odds": 2.424
+        "n": 619,
+        "stake_total": 6190.0,
+        "pnl_total": -254.8,
+        "roi_pct": -4.12,
+        "hit_rate_pct": 47.66,
+        "avg_odds": 2.414
       },
       "1x2::X": {
-        "n": 433,
-        "stake_total": 4330.0,
-        "pnl_total": -358.2,
-        "roi_pct": -8.27,
-        "hit_rate_pct": 27.48,
-        "avg_odds": 3.439
+        "n": 445,
+        "stake_total": 4450.0,
+        "pnl_total": -413.7,
+        "roi_pct": -9.3,
+        "hit_rate_pct": 27.19,
+        "avg_odds": 3.441
       },
       "over_under_25::Over": {
-        "n": 684,
-        "stake_total": 6840.0,
-        "pnl_total": 2036.8,
-        "roi_pct": 29.78,
-        "hit_rate_pct": 57.89,
+        "n": 694,
+        "stake_total": 6940.0,
+        "pnl_total": 2068.1,
+        "roi_pct": 29.8,
+        "hit_rate_pct": 57.93,
         "avg_odds": 2.149
       },
       "over_under_25::Under": {
-        "n": 865,
-        "stake_total": 8650.0,
-        "pnl_total": 897.6,
-        "roi_pct": 10.38,
-        "hit_rate_pct": 52.14,
-        "avg_odds": 2.049
+        "n": 883,
+        "stake_total": 8830.0,
+        "pnl_total": 902.6,
+        "roi_pct": 10.22,
+        "hit_rate_pct": 52.1,
+        "avg_odds": 2.047
       }
     }
   },
   "their_drop_reasons": {
-    "no_pick_odds": 1197,
-    "not_settled": 105
+    "no_pick_odds": 1207,
+    "not_settled": 117
   },
   "our_stats_same_window": {
-    "n": 1868,
-    "stake_total": 18680.0,
-    "pnl_total": 587.13,
-    "roi_pct": 3.14,
-    "hit_rate_pct": 50.91,
+    "n": 1926,
+    "stake_total": 19260.0,
+    "pnl_total": 647.63,
+    "roi_pct": 3.36,
+    "hit_rate_pct": 51.04,
     "avg_odds": 2.183,
     "priced_at": "best price live at pick time",
-    "n_total_settled": 1910,
-    "coverage_pct": 97.8,
-    "roi_pct_recorded": 6.44,
-    "roi_pct_recorded_all_rows": 6.03,
-    "hit_rate_pct_recorded_all_rows": 50.73,
+    "n_total_settled": 1968,
+    "coverage_pct": 97.9,
+    "roi_pct_recorded": 6.77,
+    "roi_pct_recorded_all_rows": 6.37,
+    "hit_rate_pct_recorded_all_rows": 50.86,
     "restatement_note": "roi_pct is priced at odds that were live at pick time. roi_pct_recorded is the same bets at the stored odds_at_pick, which STALE-BEST-ODDS-2026-09-02 showed to be a high-water mark across the whole snapshot history rather than a price on offer."
   },
   "our_stats_matched_window": {
-    "n": 1768,
-    "roi_pct": 6.95,
-    "ci_low_pct": 1.55,
-    "ci_high_pct": 12.36,
+    "n": 1836,
+    "roi_pct": 7.41,
+    "ci_low_pct": 2.11,
+    "ci_high_pct": 12.72,
     "window_start": "2026-05-25",
-    "window_end": "2026-10-15",
+    "window_end": "2026-10-16",
     "basis": "landing headline: every pick logged before kick-off (bot_ledger_headline, #235), public price, ACTIVE non-VIP bots"
   }
 }
