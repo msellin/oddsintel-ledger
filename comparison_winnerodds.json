@@ -2,79 +2,79 @@
   "min_sample_each_side": 50,
   "our_stats_matched_window": {
     "basis": "landing headline: every pick logged before kick-off (bot_ledger_headline, #235), public price, ACTIVE non-VIP bots",
-    "ci_high_pct": 13.24,
-    "ci_low_pct": 2.24,
-    "n": 1747,
-    "roi_pct": 7.74,
-    "window_end": "2026-10-14",
+    "ci_high_pct": 12.87,
+    "ci_low_pct": 2.56,
+    "n": 1971,
+    "roi_pct": 7.71,
+    "window_end": "2026-10-17",
     "window_start": "2026-05-04"
   },
   "our_stats_same_window": {
-    "avg_odds": 2.176,
-    "coverage_pct": 97.8,
-    "hit_rate_pct": 51.07,
-    "hit_rate_pct_recorded_all_rows": 50.92,
-    "n": 2011,
-    "n_total_settled": 2056,
-    "pnl_total": 625.51,
+    "avg_odds": 2.169,
+    "coverage_pct": 97.9,
+    "hit_rate_pct": 51.22,
+    "hit_rate_pct_recorded_all_rows": 51.08,
+    "n": 2085,
+    "n_total_settled": 2130,
+    "pnl_total": 694.92,
     "priced_at": "best price live at pick time",
     "restatement_note": "roi_pct is priced at odds that were live at pick time. roi_pct_recorded is the same bets at the stored odds_at_pick, which STALE-BEST-ODDS-2026-09-02 showed to be a high-water mark across the whole snapshot history rather than a price on offer.",
-    "roi_pct": 3.11,
-    "roi_pct_recorded": 6.64,
-    "roi_pct_recorded_all_rows": 6.33,
-    "stake_total": 20110.0
+    "roi_pct": 3.33,
+    "roi_pct_recorded": 6.88,
+    "roi_pct_recorded_all_rows": 6.57,
+    "stake_total": 20850.0
   },
   "reproducible_via": "scripts/audit_vs_winnerodds.py",
   "scope_notes": "WinnerOdds picks pulled from their public GraphQL endpoint (period=12, FOOTBALL). their_stats is the COMPARABLE subset: their 1X2 + OU 2.5 picks only, re-settled at \u20ac10 flat to match our staking. WINNERODDS-MARKET-RESOLVE 2026-09-02 \u2014 this used to publish their all-markets figure against our 1X2+OU2.5 figure, which is not the same measurement: 47% of their bets are Asian Handicap (a market we do not model) and 16% are OU 3.5, and they stake Kelly-style (mean \u20ac37) where we stake flat. Their all-markets number is kept as their_stats_all_markets, and the full split as their_by_market. OddsIntel cohort: production strategies (calibrated+beta+active maturity), 1X2 + OU 2.5, settled (won/lost), \u20ac10 flat, inplay_* excluded.",
-  "snapshot_at_utc": "2026-10-18T07:16:14.609399+00:00",
+  "snapshot_at_utc": "2026-10-19T07:41:22.012570+00:00",
   "source": "WinnerOdds",
   "source_url": "https://winnerodds.com",
   "status": "ok",
   "their_by_market": {
     "1x2": {
-      "hit_rate_pct": 50.72,
-      "n": 690,
-      "roi_pct": 10.76
+      "hit_rate_pct": 50.56,
+      "n": 712,
+      "roi_pct": 10.58
     },
     "asian_handicap": {
-      "hit_rate_pct": 62.06,
-      "n": 1244,
-      "roi_pct": 1.9
+      "hit_rate_pct": 61.92,
+      "n": 1279,
+      "roi_pct": 1.47
     },
     "over_under_25": {
-      "hit_rate_pct": 50.0,
-      "n": 298,
-      "roi_pct": 3.72
+      "hit_rate_pct": 50.17,
+      "n": 299,
+      "roi_pct": 4.11
     },
     "over_under_35": {
-      "hit_rate_pct": 55.16,
-      "n": 417,
-      "roi_pct": -2.82
+      "hit_rate_pct": 55.37,
+      "n": 419,
+      "roi_pct": -2.5
     }
   },
   "their_stats": {
-    "avg_clv_pct": 0.1581,
-    "ci_high_pct": 16.46,
-    "ci_low_pct": 0.81,
-    "hit_rate_pct": 50.51,
-    "n": 988,
-    "pnl_total": 853.3,
-    "roi_pct": 8.64,
-    "stake_total": 9880.0,
-    "window_end": "2026-10-14",
+    "avg_clv_pct": 0.1459,
+    "ci_high_pct": 16.44,
+    "ci_low_pct": 0.89,
+    "hit_rate_pct": 50.45,
+    "n": 1011,
+    "pnl_total": 876.03,
+    "roi_pct": 8.66,
+    "stake_total": 10110.0,
+    "window_end": "2026-10-17",
     "window_start": "2026-05-04"
   },
   "their_stats_all_markets": {
-    "avg_clv_pct": 0.1581,
-    "hit_rate_pct": 56.66,
-    "n": 2904,
-    "pnl_total": 3811.39,
-    "roi_pct": 3.27,
-    "stake_total": 116684.54,
+    "avg_clv_pct": 0.1459,
+    "hit_rate_pct": 56.63,
+    "n": 2976,
+    "pnl_total": 3755.43,
+    "roi_pct": 3.13,
+    "stake_total": 119928.95,
     "staking": "their own (Kelly-style, variable)"
   },
   "window": {
-    "end": "2026-10-19",
+    "end": "2026-10-20",
     "start": "2026-05-04"
   }
 }
