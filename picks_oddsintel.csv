@@ -835,8 +835,8 @@ oddsintel,2026-09-30,NM Cupen,Hønefoss,KFUM Oslo,1x2,away,1.530,won,0.5300,http
 oddsintel,2026-09-30,UEFA U21 Championship - Qualification,Czech Republic U21,Bulgaria U21,1x2,home,1.520,won,0.5200,https://oddsintel.app/picks
 oddsintel,2026-09-30,Gulf Cup of Nations,United Arab Emirates,Qatar,over_under_25,under,2.050,won,1.0500,https://oddsintel.app/picks
 oddsintel,2026-09-30,WSL Cup,Birmingham City W,Liverpool W,1x2,away,1.500,won,0.5000,https://oddsintel.app/picks
-oddsintel,2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,over_under_25,under,2.470,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,Copa Uruguay,Cerro Largo,Rentistas,over_under_25,under,1.730,won,0.7300,https://oddsintel.app/picks
+oddsintel,2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,over_under_25,under,2.470,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,Copa de la División Profesional,Oriente Petrolero,The Strongest,over_under_25,over,1.620,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,USL Championship,Miami FC,Sporting JAX,1x2,home,1.610,won,0.6100,https://oddsintel.app/picks
 oddsintel,2026-09-30,Primera B,Union San Felipe,San Luis,1x2,away,2.180,won,1.1800,https://oddsintel.app/picks
@@ -853,8 +853,8 @@ oddsintel,2026-10-01,QSL Cup,Al Shamal,Muaither SC,1x2,home,1.530,won,0.5300,htt
 oddsintel,2026-10-01,UEFA Champions League Women,Manchester City W,Real Madrid (W),1x2,home,1.730,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,Friendlies,Uzbekistan,Syria,1x2,home,1.410,won,0.4100,https://oddsintel.app/picks
 oddsintel,2026-10-01,Liga Alef,Maccabi Yavne,Ironi Beit Shemesh,1x2,home,1.670,won,0.6700,https://oddsintel.app/picks
-oddsintel,2026-10-01,Liga Alef,Hapoel Ihud Bnei Jatt,Maccabi Nujeidat Ahmed,over_under_25,over,1.900,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,CONCACAF Nations League,Curaçao,Trinidad and Tobago,over_under_25,over,2.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-01,Liga Alef,Hapoel Ihud Bnei Jatt,Maccabi Nujeidat Ahmed,over_under_25,over,1.900,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,UEFA Nations League,Malta,Gibraltar,1x2,home,1.330,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,UEFA Champions League Women,Austria Wien W,Inter Milano W,1x2,away,1.780,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-01,CONCACAF Nations League,Curaçao,Trinidad and Tobago,1x2,home,1.680,won,0.6800,https://oddsintel.app/picks
@@ -2381,3 +2381,50 @@ oddsintel,2026-10-19,Ligue 2,Rodez,Montpellier,1x2,away,2.330,won,1.3300,https:/
 oddsintel,2026-10-19,Úrvalsdeild,Fram Reykjavík,IA Akranes,1x2,home,2.010,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-19,Liga Pro,Mushuc Runa SC,Orense SC,1x2,home,1.900,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-19,Primera B,Real Cartagena,Patriotas,1x2,home,1.810,won,0.8100,https://oddsintel.app/picks
+oddsintel,2026-10-20,Premier League,Mebrat Hayl,Sheger Ketema,1x2,draw,2.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,Premier League,Masr,Future FC,1x2,draw,3.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,Reserve League,Newell's Old Boys Res.,Platense Res.,1x2,home,1.880,won,0.8800,https://oddsintel.app/picks
+oddsintel,2026-10-20,FA Cup,Forest Green,Chesham United,1x2,home,1.360,won,0.3600,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Champions League,FC Porto,PSV Eindhoven,1x2,home,1.630,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Champions League,Fenerbahçe,Slavia Praha,1x2,home,1.710,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Champions League,Liverpool,Villarreal,1x2,home,1.600,won,0.6000,https://oddsintel.app/picks
+oddsintel,2026-10-20,Non League Premier - Northern,Guiseley AFC,Cleethorpes Town,1x2,home,2.330,won,1.3300,https://oddsintel.app/picks
+oddsintel,2026-10-20,Pro League,Al Taawon,Al-Qadisiyah FC,1x2,away,1.500,won,0.5000,https://oddsintel.app/picks
+oddsintel,2026-10-20,Non League Premier - Southern South,Chichester City,Berkhamsted,1x2,home,2.380,won,1.3800,https://oddsintel.app/picks
+oddsintel,2026-10-20,Non League Premier - Southern South,Hanworth Villa,Chippenham Town,1x2,home,1.700,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,Non League Premier - Southern Central,Rushall Olympic,Leamington,1x2,home,1.930,won,0.9300,https://oddsintel.app/picks
+oddsintel,2026-10-20,Superettan,IFK Norrkoping,Orebro SK,1x2,home,1.810,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Champions League,Napoli,Bodo/Glimt,1x2,home,1.750,won,0.7500,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Champions League,Paris Saint Germain,Barcelona,1x2,home,2.550,won,1.5500,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Youth League,Porto U19,PSV U19,1x2,home,1.810,won,0.8100,https://oddsintel.app/picks
+oddsintel,2026-10-20,Reserve League,Aldosivi Res.,Banfield Res.,1x2,home,2.400,won,1.4000,https://oddsintel.app/picks
+oddsintel,2026-10-20,Non League Premier - Isthmian,Brentwood Town,Dartford,1x2,home,2.700,won,1.7000,https://oddsintel.app/picks
+oddsintel,2026-10-20,Premier League,El Geish,Pyramids FC,1x2,away,1.520,won,0.5200,https://oddsintel.app/picks
+oddsintel,2026-10-20,AFC Challenge League,Fortis,Goa,1x2,away,2.150,won,1.1500,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Champions League,Fenerbahçe,Slavia Praha,1x2,home,1.690,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Champions League,Sabah FA,Borussia Dortmund,1x2,away,1.350,won,0.3500,https://oddsintel.app/picks
+oddsintel,2026-10-20,Liga II,ASA Targu Mures,Chindia Târgovişte,1x2,away,2.150,won,1.1500,https://oddsintel.app/picks
+oddsintel,2026-10-20,Non League Premier - Southern Central,Banbury United,Leighton Town,1x2,home,2.050,won,1.0500,https://oddsintel.app/picks
+oddsintel,2026-10-20,FA Cup,United of Manchester,Altrincham,1x2,away,2.250,won,1.2500,https://oddsintel.app/picks
+oddsintel,2026-10-20,League One,Huddersfield,Peterborough,1x2,home,1.580,won,0.5800,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Youth League,Liverpool U19,Villarreal U19,1x2,away,2.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,FA Cup,Harrogate Town,Bury,1x2,home,1.800,won,0.8000,https://oddsintel.app/picks
+oddsintel,2026-10-20,League One,Luton,Barnsley,1x2,home,1.560,won,0.5600,https://oddsintel.app/picks
+oddsintel,2026-10-20,Cup,Sogdiana,Andijan,1x2,home,2.650,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,League One,Burton Albion,Bradford,1x2,away,2.030,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,League One,Doncaster,Stockport County,1x2,away,1.870,won,0.8700,https://oddsintel.app/picks
+oddsintel,2026-10-20,Championship,Wolves,Portsmouth,1x2,home,1.650,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,League One,Blackpool,Milton Keynes Dons,1x2,away,3.140,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Champions League,Napoli,Bodo/Glimt,1x2,home,1.830,won,0.8300,https://oddsintel.app/picks
+oddsintel,2026-10-21,Liga MX,FC Juarez,Atlante FC,1x2,home,3.250,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,League One,Bromley,Leicester,1x2,away,1.760,won,0.7600,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Champions League,VfB Stuttgart,Atletico Madrid,1x2,away,2.130,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Champions League,VfB Stuttgart,Atletico Madrid,1x2,away,2.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,UEFA Champions League,Manchester City,AEK Athens FC,1x2,home,1.200,won,0.2000,https://oddsintel.app/picks
+oddsintel,2026-10-20,League One,Notts County,Sheffield Wednesday,1x2,away,2.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,League One,Oxford United,Wigan,1x2,home,2.020,won,1.0200,https://oddsintel.app/picks
+oddsintel,2026-10-20,League Cup,Dundela,Moyola Park,1x2,home,2.170,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-20,League Cup,Bangor,Dungannon Swifts,1x2,away,1.830,won,0.8300,https://oddsintel.app/picks
+oddsintel,2026-10-21,CONMEBOL Sudamericana,Vasco DA Gama,Boca Juniors,1x2,draw,3.200,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-21,Liga MX,Guadalajara Chivas,Necaxa,1x2,home,1.400,won,0.4000,https://oddsintel.app/picks
+oddsintel,2026-10-21,Liga MX,FC Juarez,Atlante FC,1x2,away,2.310,won,1.3100,https://oddsintel.app/picks

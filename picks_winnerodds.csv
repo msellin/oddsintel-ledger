@@ -1,4 +1,18 @@
 source,kickoff_date,league,home_team,away_team,market,pick,odds,result,pnl_per_unit,ref_url
+winnerodds,2026-10-12,USA,,,asian_handicap,ah-0_1,1.320,won,0.3200,https://winnerodds.com
+winnerodds,2026-10-17,Mexico,,,over_under_25,u2.5,5.750,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-17,Mexico,,,asian_handicap,ah-0_2,5.000,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-12,El Salvador,,,1x2,2,2.200,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-13,Argentina,,,asian_handicap,ah-0_2,1.885,won,0.8850,https://winnerodds.com
+winnerodds,2026-10-17,Belgium,,,asian_handicap,ah+0.5_2,2.200,won,1.2000,https://winnerodds.com
+winnerodds,2026-10-17,Turkey,,,1x2,1,4.100,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-16,France,,,asian_handicap,ah+0.5_2,2.747,won,1.7470,https://winnerodds.com
+winnerodds,2026-10-16,France,,,asian_handicap,ah-0_1,2.450,won,1.4500,https://winnerodds.com
+winnerodds,2026-10-15,Turkey,,,1x2,1,1.181,won,0.1810,https://winnerodds.com
+winnerodds,2026-10-15,Turkey,,,asian_handicap,ah-0_1,1.312,won,0.3120,https://winnerodds.com
+winnerodds,2026-10-15,Bahrain,,,asian_handicap,ah-0_2,1.900,void,0.0000,https://winnerodds.com
+winnerodds,2026-10-13,Croatia,,,asian_handicap,ah-0_1,1.500,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-16,Burkina Faso,,,1x2,2,2.600,won,1.6000,https://winnerodds.com
 winnerodds,2026-10-15,Austria,,,1x2,1,2.875,won,1.8750,https://winnerodds.com
 winnerodds,2026-10-14,Spain,,,asian_handicap,ah-0_2,3.250,lost,-1.0000,https://winnerodds.com
 winnerodds,2026-10-17,Belgium,,,asian_handicap,ah+0.5_2,2.580,won,1.5800,https://winnerodds.com
