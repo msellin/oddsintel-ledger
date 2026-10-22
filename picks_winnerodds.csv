@@ -1,4 +1,11 @@
 source,kickoff_date,league,home_team,away_team,market,pick,odds,result,pnl_per_unit,ref_url
+winnerodds,2026-10-17,Spain,,,1x2,2,2.721,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-15,Russia,,,1x2,1,1.630,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-16,Estonia,,,asian_handicap,ah-0_1,1.300,won,0.3000,https://winnerodds.com
+winnerodds,2026-10-16,Malta,,,asian_handicap,ah-0_2,1.222,void,0.0000,https://winnerodds.com
+winnerodds,2026-10-08,Germany,,,asian_handicap,ah+0.5_2,8.350,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-18,Austria,,,1x2,1,2.100,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-15,Indonesia,,,asian_handicap,ah-0_1,1.273,void,0.0000,https://winnerodds.com
 winnerodds,2026-10-12,USA,,,asian_handicap,ah-0_1,1.320,won,0.3200,https://winnerodds.com
 winnerodds,2026-10-17,Mexico,,,over_under_25,u2.5,5.750,lost,-1.0000,https://winnerodds.com
 winnerodds,2026-10-17,Mexico,,,asian_handicap,ah-0_2,5.000,lost,-1.0000,https://winnerodds.com
@@ -46,8 +53,8 @@ winnerodds,2026-10-16,Netherlands,,,asian_handicap,ah-0_2,1.900,void,0.0000,http
 winnerodds,2026-10-13,Slovakia,,,asian_handicap,ah-0.5_1,2.250,lost,-1.0000,https://winnerodds.com
 winnerodds,2026-10-17,Thailand,,,asian_handicap,ah-0.5_1,3.000,lost,-1.0000,https://winnerodds.com
 winnerodds,2026-10-17,Norway,,,1x2,2,2.500,lost,-1.0000,https://winnerodds.com
-winnerodds,2026-10-16,Germany,,,asian_handicap,ah-0_1,1.250,won,0.2500,https://winnerodds.com
 winnerodds,2026-10-16,Norway,,,1x2,1,1.260,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-16,Germany,,,asian_handicap,ah-0_1,1.250,won,0.2500,https://winnerodds.com
 winnerodds,2026-10-16,Germany,,,1x2,2,2.450,won,1.4500,https://winnerodds.com
 winnerodds,2026-10-15,Germany,,,asian_handicap,ah-0.5_1,2.010,won,1.0100,https://winnerodds.com
 winnerodds,2026-10-15,Azerbaijan,,,1x2,2,1.390,won,0.3900,https://winnerodds.com
