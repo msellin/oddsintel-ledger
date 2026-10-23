@@ -14,6 +14,9 @@ prove the picks that were posted, but not every pick is posted. The seal covers 
   selection, recorded odds, pick time, kick-off). Since `"format":2` (2026-09-28) each line also carries
   `graded_odds` / `graded_basis`: the price the public record grades the pick at (best price available on
   any publishable book at pick time), so that price is provably fixed before kick-off as well.
+  Since `"format":3` (2026-10-23) `graded_odds` is the price the record now grades at: the 2nd-best fresh
+  bookmaker price at pick time (`graded_basis` `B2v1:second`), or the best when only one book had a price
+  (`B2v1:best`). The record never grades a pick above the price its seal names.
 - `<date>/<batch>.tsr` — the TSA's signed token over `sha256(<batch>.jsonl)`.
 - `index.json` — every batch with its sha256, TSA, TSA time and pick count.
 
