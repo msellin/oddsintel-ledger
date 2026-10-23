@@ -6,7 +6,8 @@
     "start": "2026-05-04",
     "end": "2026-10-24"
   },
-  "status": "ok",
+  "status": "stale-source",
+  "data_through": "2026-09-27",
   "min_sample_each_side": 50,
   "scope_notes": "1X2 + OU 2.5 only, soccer, settled bets (Correct/Incorrect), open/non-paywalled picks only (premium/PRO cards excluded — their odds and exact pick are hidden), 10 EUR flat stake.",
   "reproducible_via": "scripts/scrape_signalodds.py + scripts/audit_vs_signalodds.py",
