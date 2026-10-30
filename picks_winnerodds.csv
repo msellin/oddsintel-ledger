@@ -1,4 +1,13 @@
 source,kickoff_date,league,home_team,away_team,market,pick,odds,result,pnl_per_unit,ref_url
+winnerodds,2026-10-22,Greece,,,asian_handicap,ah-0_1,1.615,void,0.0000,https://winnerodds.com
+winnerodds,2026-10-21,Germany,,,asian_handicap,ah-0_2,1.500,won,0.5000,https://winnerodds.com
+winnerodds,2026-10-18,Germany,,,asian_handicap,ah+0.5_2,3.525,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-18,Germany,,,asian_handicap,ah-0_1,1.430,void,0.0000,https://winnerodds.com
+winnerodds,2026-10-24,Hungary,,,asian_handicap,ah-0_2,1.125,won,0.1250,https://winnerodds.com
+winnerodds,2026-10-24,England,,,over_under_35,u3.5,2.100,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-24,Sweden,,,over_under_35,u3.5,1.430,won,0.4300,https://winnerodds.com
+winnerodds,2026-10-22,Spain,,,asian_handicap,ah-0_2,2.250,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-10-21,Sweden,,,asian_handicap,ah-0_1,1.430,won,0.4300,https://winnerodds.com
 winnerodds,2026-10-21,Sweden,,,1x2,2,1.925,won,0.9250,https://winnerodds.com
 winnerodds,2026-10-20,Latvia,,,asian_handicap,ah-0_2,1.833,won,0.8330,https://winnerodds.com
 winnerodds,2026-10-20,Latvia,,,over_under_25,u2.5,2.150,won,1.1500,https://winnerodds.com
