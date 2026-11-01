@@ -835,9 +835,9 @@ oddsintel,2026-09-30,NM Cupen,Hønefoss,KFUM Oslo,1x2,away,1.530,won,0.5300,http
 oddsintel,2026-09-30,UEFA U21 Championship - Qualification,Czech Republic U21,Bulgaria U21,1x2,home,1.520,won,0.5200,https://oddsintel.app/picks
 oddsintel,2026-09-30,Gulf Cup of Nations,United Arab Emirates,Qatar,over_under_25,under,2.050,won,1.0500,https://oddsintel.app/picks
 oddsintel,2026-09-30,WSL Cup,Birmingham City W,Liverpool W,1x2,away,1.500,won,0.5000,https://oddsintel.app/picks
-oddsintel,2026-10-01,Copa de la División Profesional,Oriente Petrolero,The Strongest,over_under_25,over,1.620,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,Copa Uruguay,Cerro Largo,Rentistas,over_under_25,under,1.730,won,0.7300,https://oddsintel.app/picks
 oddsintel,2026-09-30,UEFA Europa Cup - Women,Rangers W,Hammarby W,over_under_25,under,2.470,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-01,Copa de la División Profesional,Oriente Petrolero,The Strongest,over_under_25,over,1.620,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-09-30,USL Championship,Miami FC,Sporting JAX,1x2,home,1.610,won,0.6100,https://oddsintel.app/picks
 oddsintel,2026-09-30,Primera B,Union San Felipe,San Luis,1x2,away,2.180,won,1.1800,https://oddsintel.app/picks
 oddsintel,2026-09-30,Copa de la División Profesional,Real Tomayapo,Nacional Potosí,1x2,home,2.550,lost,-1.0000,https://oddsintel.app/picks
@@ -908,8 +908,8 @@ oddsintel,2026-10-02,UEFA Nations League,France,Italy,over_under_25,over,1.560,l
 oddsintel,2026-10-02,UEFA Nations League,Hungary,Georgia,1x2,home,2.250,won,1.2500,https://oddsintel.app/picks
 oddsintel,2026-10-02,UEFA Nations League,Hungary,Georgia,1x2,home,2.250,won,1.2500,https://oddsintel.app/picks
 oddsintel,2026-10-02,UEFA Nations League,Ukraine,Northern Ireland,1x2,home,2.013,lost,-1.0000,https://oddsintel.app/picks
-oddsintel,2026-10-02,Friendlies Clubs,Gornik Zabrze,Odra Opole,over_under_25,over,1.570,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,UEFA Nations League,Poland,Romania,over_under_25,under,2.400,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-02,Friendlies Clubs,Gornik Zabrze,Odra Opole,over_under_25,over,1.570,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Serie B,São Bernardo,CRB,1x2,home,2.710,won,1.7100,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,HNK Gorica,Bravo,1x2,home,2.750,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-02,Friendlies Clubs,Sudtirol,Wacker Innsbruck,1x2,home,1.790,lost,-1.0000,https://oddsintel.app/picks
@@ -2921,4 +2921,45 @@ oddsintel,2026-10-30,Copa do Brasil U20,Santa Cruz AC U20,Atlético Mineiro U20,
 oddsintel,2026-10-30,Premier Division,Sligo Rovers,Derry City,1x2,away,1.630,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-30,Premier Division,Dundalk,Shamrock Rovers,1x2,away,1.950,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-30,Premier Division,St Patrick's Athl.,Bohemians,1x2,home,2.000,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Israel Championship U19,Hapoel Haifa U19,Bnei Yehuda Tel Aviv U19,1x2,away,2.850,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Ligue 3,Le Puy Foot,Caen,1x2,home,2.420,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,La Liga,Levante,Atletico Madrid,1x2,away,1.596,won,0.5960,https://oddsintel.app/picks
+oddsintel,2026-10-31,Non League Premier - Southern Central,Stamford,Halesowen Town,1x2,away,1.630,won,0.6300,https://oddsintel.app/picks
+oddsintel,2026-10-31,Major League Soccer,New York City FC,CF Montreal,1x2,home,1.471,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,J3 League,Parceiro Nagano,Biwako Shiga,1x2,home,2.850,won,1.8500,https://oddsintel.app/picks
+oddsintel,2026-10-31,NB I. Women,Szent Mihaly W,Astra Hungary W,1x2,home,1.580,won,0.5800,https://oddsintel.app/picks
+oddsintel,2026-10-31,Super Liga,Sheriff Tiraspol,Zimbru,1x2,home,1.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Serie A,Udinese,AS Roma,1x2,away,1.616,won,0.6160,https://oddsintel.app/picks
+oddsintel,2026-10-31,Liga Pro,Emelec,Leones del Norte,1x2,home,1.980,lost,-1.0000,https://oddsintel.app/picks
 oddsintel,2026-10-31,J3 League,Fukushima United,Matsumoto Yamaga,1x2,away,1.900,won,0.9000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Premier League,Manchester City,Brighton,1x2,home,1.779,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Second League,Nesebar,Chernomorets 1919 Burgas,1x2,away,2.300,won,1.3000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Serie A,Bologna,Monza,1x2,home,1.752,won,0.7520,https://oddsintel.app/picks
+oddsintel,2026-10-31,First Amateur Division,Heist,Houtvenne,1x2,home,1.980,won,0.9800,https://oddsintel.app/picks
+oddsintel,2026-10-31,National League - South,Braintree,Hampton & Richmond,1x2,away,2.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Ekstraklasa,Wieczysta Krakow,Jagiellonia,1x2,away,2.850,won,1.8500,https://oddsintel.app/picks
+oddsintel,2026-10-31,Liga 3,LKS Lodz II,ZKS Olimpia Zambrow,1x2,home,2.100,won,1.1000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Liga 1,PSM Makassar,Persepam Madura Utd,1x2,home,2.020,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Bundesliga,Bayer Leverkusen,VfB Stuttgart,1x2,home,1.800,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,La Liga,Real Betis,Malaga,1x2,home,1.352,won,0.3520,https://oddsintel.app/picks
+oddsintel,2026-10-31,Division 2,Lørenskog,Follo,1x2,away,1.930,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,First League. Women,Ostrava W,Viktoria Plzen W,1x2,away,1.870,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Bundesliga,Bayern München,Borussia Dortmund,1x2,home,1.371,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Pro League,Al Taawon,Al-Ettifaq,1x2,away,2.814,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Denmark Championship U19,Vejle U19,Brondby U19,1x2,away,2.180,won,1.1800,https://oddsintel.app/picks
+oddsintel,2026-10-31,Championship,Wolves,Cardiff,1x2,home,1.670,won,0.6700,https://oddsintel.app/picks
+oddsintel,2026-10-31,Super League,FC Luzern,FC Sion,1x2,away,2.710,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,2. Liga,Sturm Graz II,Voitsberg,1x2,home,2.750,won,1.7500,https://oddsintel.app/picks
+oddsintel,2026-10-31,Non League Premier - Northern,Ashton United,Rylands,1x2,away,2.800,won,1.8000,https://oddsintel.app/picks
+oddsintel,2026-10-31,2. Liga,Rapid Wien II,FC Liefering,1x2,away,2.200,won,1.2000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Championship,Burnley,Portsmouth,1x2,home,2.360,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,1. Liga,Leevon / PPK,Valmiera / BSS,1x2,home,2.150,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,A Lyga,Hegelmann Litauen,Kauno Žalgiris,1x2,away,1.340,won,0.3400,https://oddsintel.app/picks
+oddsintel,2026-10-31,Championship,Millwall,Derby,1x2,home,1.700,won,0.7000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Premier League,Hull City,Ipswich,1x2,away,2.547,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,La Liga,Rayo Vallecano,Celta Vigo,1x2,home,2.539,won,1.5390,https://oddsintel.app/picks
+oddsintel,2026-10-31,Segunda División RFEF - Group 3,Valencia II,Castellonense,1x2,home,1.850,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Primera División,Real Oruro,Nacional Potosí,1x2,home,2.880,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Challenger Pro League,Club Brugge NXT,Sporting Hasselt,1x2,home,2.750,lost,-1.0000,https://oddsintel.app/picks
+oddsintel,2026-10-31,Serie A,Coritiba,Vitoria,1x2,home,2.248,won,1.2480,https://oddsintel.app/picks
+oddsintel,2026-10-31,Division Profesional - Clausura,Club Sp. San Lorenzo,Libertad Asuncion,1x2,away,1.480,lost,-1.0000,https://oddsintel.app/picks

@@ -1,4 +1,249 @@
 source,kickoff_date,league,home_team,away_team,market,pick,odds,result,pnl_per_unit,ref_url
+betaminic,2026-10-31,Mexico - Liga Premier,Tritones Vallarta,Pioneros de Cancun,1x2,Home,5.000,won,4.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Mexico - Liga Premier,Zacatepec FC,Racing de Veracruz,1x2,Away,2.350,won,1.3500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Brazil - Copa Santa Catarina,Blumenau,Figueirense,1x2,Away,2.150,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Andorra - Premier Division,Esperanca d'Andorra,SC Escaldes,over_under_25,Under,2.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Belgium - First Amateur Division,Mandel United,Dessel Sport,1x2,Home,2.380,won,1.3800,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Argentina - Torneo Federal A,Douglas Haig,Club Villa Mitre,1x2,Home,2.250,won,1.2500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Spain - Primera Federacion Women,Cacereno,Sport Extremadura,1x2,Home,2.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,France - National 2,Gazelec FCO Ajaccio,Bretigny Football,1x2,Home,2.380,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Spain - Regional Leagues,Guadix,Club Polideportivo Almeria,1x2,Home,2.200,won,1.2000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Poland - 3rd Liga,Wisloka Debica,Ostrowiec Swietokrzyski,1x2,Away,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Brazil - Carioca B1,Sao Cristovao,Macae Esporte,1x2,Home,2.250,won,1.2500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Brazil - Pernambucano,Santa Fe PE,Aguia,1x2,Away,3.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Brazil - Carioca B1,Nova Cidade,Petropolis,1x2,Home,3.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Morocco - Botola 2,Yacoub El Mansour,Massira,1x2,Home,1.800,won,0.8000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Netherlands - U21 Divisie,Cambuur,Twente / Heracles,1x2,Away,5.750,won,4.7500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Switzerland - 2. Liga Interregional,Yverdon Sport II,Ajoie-Monterri,1x2,Home,2.900,won,1.9000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,France - National 1,Bourges,Troyes II,1x2,Home,2.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,France - National 2,Orleans II,Sainte Genevieve Sports,1x2,Home,2.750,won,1.7500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,France - National 2,ASPTT Dijon,Lyon II,1x2,Away,2.500,won,1.5000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Switzerland - 2. Liga Interregional,Chiasso,SC Cham II,1x2,Home,2.500,won,1.5000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Argentina - Primera C Metropolitana,Argentino de Rosario,Defensores de Glew,1x2,Away,4.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Mexico - Liga TDP,Aguilas Teotihuacan,Caudillos de Morelos,1x2,Away,2.150,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Sierra Leone - Premier League,Wusum Stars,Old Edwardians,1x2,Home,2.700,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Spain - Segunda Federacion Women,Burgos,Racing Santander,1x2,Home,2.550,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Spain - U19 League,AD Merida,Trival Valderas,1x2,Home,2.700,won,1.7000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Spain - Regional Leagues,Ordenes,Betanzos,1x2,Away,2.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Mexico - U21 League,Pachuca,Tigres UANL,1x2,Home,2.200,won,1.2000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Israel - U19 Elite Division,Hapoel Rishon Lezion,Hapoel Jerusalem,1x2,Away,3.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,England - Isthmian Premier League,Brentwood Town,Cray Wanderers,1x2,Away,3.000,won,2.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Austria - Landesliga,Wildon,Ilzer SV,1x2,Home,1.950,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Nigeria - NPFL,Doma United,Ikorodu City,over_under_25,Over,1.850,won,0.8500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Georgia - Erovnuli Liga 2,Sioni Bolnisi,Odishi 1919 Zugdidi,1x2,Away,3.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,England - Northern League Division 1,Consett,Bradford Park Avenue,1x2,Away,1.950,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,England - Northern League Division 1,Kidsgrove Athletic,Clitheroe,1x2,Away,2.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Estonia - Meistriliiga Women,Harju JK Laagri,FC Elva,1x2,Away,5.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,England - Southern League Division 1,Barnstaple Town,Slimbridge,1x2,Home,1.950,won,0.9500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Spain - U19 League,Alcobendas,Union Adarve,1x2,Away,3.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Algeria - Ligue 2,MC El Bayadh,ASM Oran,1x2,Home,3.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Spain - U19 League,CD Roda,Patacona,1x2,Home,2.150,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Algeria - Ligue 2,NC Magra,Azazga,1x2,Home,2.000,won,1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Italy - Primavera 2 U19,Vicenza,Cremonese,1x2,Away,3.000,won,2.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,France - National 1,Chantilly,Le Pays du Valois,1x2,Home,6.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,France - U19 League,FC Saint Lo Manche,USSA Vertou,1x2,Home,4.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Georgia - Erovnuli Liga 2,Kolkheti 1913 Poti,Gareji,1x2,Home,1.950,won,0.9500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Slovenia - 3. SNL,Skofja Loka,NK Litija,1x2,Away,1.910,won,0.9100,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Austria - Regionalliga Ost,Scheiblingkirchen-Warth,Marchfeld Donauauen,1x2,Away,1.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Poland - 3rd Liga,Sokol Kolbuszowa Dolna,Hetman Zamosc,1x2,Home,2.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Slovenia - 3. SNL,Videm,NK Ormoz,1x2,Home,2.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Latvia - 1st Liga,Leevon PPK,Valmiera,1x2,Home,2.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Austria - Landesliga,Hellas Kagran,Dinamo Helfort,1x2,Away,1.730,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,UAE - Reserve League U23,Al Ittihad Kalba,Shabab Al Ahli,1x2,Home,2.400,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Bulgaria - Second League,Nesebar,Chernomorets 1919 Burgas,1x2,Home,3.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Spain - U19 League,Eibar,Leonesa,1x2,Away,7.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Bosnia and Herzegovina - 1st League,HNK Capljina,Radnik Hadzici,1x2,Home,1.950,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Sweden - Elitettan Women,Enskede,Husqvarna,1x2,Away,3.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Serbia - U19 League,Partizan Belgrade,FK Brodarac,1x2,Away,5.500,won,4.5000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Norway - 3rd Division,Baerum,Frigg,1x2,Away,5.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Sweden - Division 2,IFK Trelleborg,Skara,1x2,Home,2.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Poland - Ekstraliga Women,Czarni Sosnowiec,Pogon Szczecin,1x2,Away,3.400,won,2.4000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Denmark - Denmark Series,Tarnby FF,Saby Fodbold,1x2,Home,3.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Poland - 3rd Liga,Sparta Katowice,LKS Barycz Sulow,1x2,Home,1.950,won,0.9500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Poland - U19 League,Talent Warszawa,Escola Varsovia,1x2,Away,4.000,won,3.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Poland - 3rd Liga,LKS Lodz II,Olimpia Zambrow,1x2,Home,2.100,won,1.1000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Vietnam - V League,Nam Dinh,The Cong-Viettel,1x2,Home,1.900,won,0.9000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,India - I-League,Mohammedan,Shillong Lajong,1x2,Home,4.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Italy - Primavera 3 U19,Vis Pesaro,Dolomiti Bellunesi,1x2,Away,3.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Greece - Super League U19,Atromitos,Volos,1x2,Away,2.700,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Italy - Primavera 3 U19,Gubbio,Sorrento,1x2,Away,2.380,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Kenya - Premier League Women,Shabana,Gideon Starlets,over_under_25,Under,2.350,won,1.3500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Italy - Primavera 2 U19,Pro Vercelli 1892,Udinese,1x2,Away,2.550,won,1.5500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Kosovo - Superliga U19,KF Trepca Mitrovica,Malisheva,1x2,Away,2.050,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Turkey - Super Lig U19,Kocaelispor,Caykur Rizespor,1x2,Home,2.450,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Czech Republic - 4. Liga,Tempo Prague,Slany,1x2,Home,2.150,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Czech Republic - 4. Liga,Sparta Brno,Kurim,1x2,Away,2.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Czech Republic - 4. Liga,Slavoj Vysehrad,Rapid Psary,1x2,Home,4.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Israel - U19 Elite Division,Hapoel Haifa,Bnei Yehuda,1x2,Away,2.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,South Africa - Super League Women,University of Fort Hare,Tshwane University Of Technology,1x2,Home,1.800,won,0.8000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,South Africa - Diski Challenge U23,Orlando Pirates,Sekhukhune United,1x2,Away,4.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,South Africa - Diski Challenge U23,Chippa United,Milford,1x2,Away,2.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,South Africa - Super League Women,First Touch,Ramatlaohle,1x2,Away,2.750,won,1.7500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Japan - J3 League,Fukushima United,Matsumoto Yamaga,over_under_25,Under,2.350,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Solomon Islands - S-League,Southern United,Green Shield,over_under_25,Under,2.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-31,Solomon Islands - S-League,SOSA,GHUPO,over_under_25,Under,3.000,won,2.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Mexico - Liga TDP,Volcanes de Colima,Gallos Viejos,1x2,Away,3.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Brazil - U20 Cup,Santa Cruz PE,Atletico Mineiro,1x2,Away,1.910,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Mexico - Liga TDP,Alebrijes de Oaxaca II,CDM,1x2,Away,2.100,won,1.1000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Belgium - Reserve Pro League U21,Beerschot,Waasland-Beveren,1x2,Home,3.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,International - Premier League Cup U21,Leicester City,Sporting CP,1x2,Away,2.000,won,1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Austria - Regionalliga South,Wolfsberg,Austria Klagenfurt,1x2,Away,1.950,won,0.9500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Czech Republic - 4. Liga,Hluboka nad Vltavou,Rokycany,1x2,Home,1.570,won,0.5700,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,France - National 1,Stade Briochin,Angouleme Charente,1x2,Home,2.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Austria - Landesliga,SV Rohrbach,Lebring,1x2,Away,3.600,won,2.6000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Austria - Bundesliga Women,Rapid Vienna,Sudburgenland / Hartberg,1x2,Away,5.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Slovakia - 3. Liga,KFC Komarno II,Dunajska Luzna,1x2,Away,1.910,won,0.9100,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Ukraine - Premier League,Shakhtar Donetsk,Obolon,over_under_25,Under,2.600,won,1.6000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Bulgaria - Second League,Pirin Blagoevgrad,Etar Veliko Tarnovo,1x2,Away,2.050,won,1.0500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Egypt - 2nd Division A,Tersana,Maleyet Kafr El Zayiat,over_under_25,Over,2.750,won,1.7500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Thailand - League 2,Mahasarakham,Chanthaburi,1x2,Away,2.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Georgia - Liga 3,FC Iberia 2010,Kolkheti Khobi,1x2,Away,2.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,China - U20 League,Shenzhen Peng City,Shanghai Shenhua,over_under_25,Under,2.630,won,1.6300,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Israel - Liga Alef,Sderot,Ironi Beit Shemesh,1x2,Home,2.000,won,1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-30,Indonesia - Championship,Barito Putera,Persis Solo,over_under_25,Under,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-29,Greece - Cup,Volos,Atromitos,1x2,Away,2.750,won,1.7500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-29,Jordan - 1st Division,Al Sareeh,Sama Al Sarhan,1x2,Home,2.450,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-29,Norway - U19 League,Lillestrom,Brann,1x2,Home,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-29,Iraq - Stars League,Al Mosul,Al Jolan,1x2,Home,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-29,UAE - U21 League,Al Dhaid,Al Jazira,1x2,Away,2.500,won,1.5000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-29,Egypt - 2nd Division B,Orange Sport FSI,Egypt Insurance,1x2,Away,1.910,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-29,Saudi Arabia - Division 2,Jubbah,Al-Arabi,1x2,Away,2.500,won,1.5000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-29,Saudi Arabia - Division 2,Al-Shoulla Al-Kharj,Al-Washm,1x2,Home,2.450,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-29,Kenya - Premier League,Mathare United,Tusker,1x2,Away,2.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-29,Tanzania - Premier League,Pamba,Singida Black Stars,1x2,Away,2.250,won,1.2500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-29,Uzbekistan - Pro League,Kattaqorgon,Olimpik Mobiuz,1x2,Away,3.200,won,2.2000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Paraguay - Cup,Sportivo Luqueno,Deportivo Recoleta,1x2,Home,2.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Scotland - Lowland League,Renfrew,Troon,1x2,Home,2.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,England - National League Premier Women,Liverpool Feds,Huddersfield Town,1x2,Home,3.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Bosnia and Herzegovina - Cup,GOSK Gabela,Siroki Brijeg,1x2,Away,1.950,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Spain - Copa Catalunya,L Escala,Peralada,1x2,Away,3.000,won,2.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Italy - Serie D Cup,Villa Valle,Brusaporto,1x2,Home,1.730,won,0.7300,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Ecuador - Serie B,9 de Octubre,Cuenca Juniors,1x2,Home,1.380,won,0.3800,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Switzerland - Erste Liga Cup,Collina d'Oro,Taverne,1x2,Away,2.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Hungary - Cup,Zalaegerszegi,Gyori ETO,1x2,Away,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Denmark - U19 League,Esbjerg fB,Horsens,1x2,Home,1.950,won,0.9500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Greece - Cup,Larissa,OFI Crete,over_under_25,Over,2.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Israel - State Cup,Ironi Nesher,Hapoel Nir Ramat HaSharon,1x2,Away,4.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Israel - State Cup,Hapoel Nof Hagalil,Maccabi Yavne,1x2,Home,2.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Turkey - Cup,52 Orduspor,1461 Trabzon,1x2,Away,3.250,won,2.2500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Israel - State Cup,Hapoel Ironi Karmiel,Hapoel Azor,1x2,Home,2.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Israel - State Cup,Bnei Yehuda Tel Aviv,FC Ashdod,1x2,Home,2.400,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Argentina - Reserve League,San Telmo,Agropecuario,over_under_25,Over,1.850,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,UEFA - Youth League U19,Dinamo Tbilisi,FC Copenhagen,1x2,Home,6.500,won,5.5000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Czech Republic - 3. Liga,Varnsdorf,Horni Redice,1x2,Away,7.500,won,6.5000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Italy - Serie D Cup,Modica,Licata,1x2,Home,2.400,won,1.4000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Italy - Serie D Cup,Prato,Ternana,1x2,Away,4.750,won,3.7500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Romania - Cup,Corona Brasov,Arges Pitesti,1x2,Away,2.000,won,1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Zambia - Super League,Roan United,Zesco United,1x2,Away,2.380,won,1.3800,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Saudi Arabia - Division 2,Weg Taif,Mudhar Club,1x2,Home,2.350,won,1.3500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Saudi Arabia - Division 2,Al Nairyah,Al Taraji,1x2,Away,3.600,won,2.6000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Serbia - Cup,Teleoptik,Mladost Lucani,1x2,Home,5.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Serbia - Cup,Vrsac,OFK Beograd,1x2,Away,1.800,won,0.8000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Serbia - Cup,Smederevo,TSC,1x2,Away,2.250,won,1.2500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Kenya - Premier League,Muranga Seal,Nairobi United,1x2,Away,2.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Turkey - Cup,Balikesirspor,Arnavutkoy Belediyespor,1x2,Home,1.750,won,0.7500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Armenia - Cup,Lernayin Artsakh,Shirak,1x2,Away,2.000,won,1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Turkey - Cup,Silivrispor,Beyoglu Yeni Carsi,1x2,Home,4.000,won,3.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Turkey - Cup,Menemen,Karacabey Belediyespor,1x2,Away,3.000,won,2.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Turkey - Cup,Inegolspor,Sebat Genclikspor,1x2,Away,3.000,won,2.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Turkey - Cup,Gebzespor,Yesilyurt Belediyespor,1x2,Away,4.750,won,3.7500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Turkey - Cup,Eskisehir Anadolu,68 Aksaray Belediyespor,1x2,Home,3.500,won,2.5000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Italy - Primavera Cup,Frosinone U20,Virtus Entella U19,1x2,Home,2.630,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-28,Solomon Islands - S-League,Honiara City,KOSSA,over_under_25,Under,3.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Brazil - U20 Cup,Operario Ferroviario,Flamengo,1x2,Away,1.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Northern Ireland - Conference Premier,Dollingstown,Portstewart,1x2,Home,3.800,won,2.8000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Northern Ireland - Conference Premier,Ballyclare Comrades,Coagh United,1x2,Away,3.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Northern Ireland - Conference Premier,Oxford Sunnyside,Knockbreda,1x2,Home,1.800,won,0.8000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,England - Southern League Division 1,Bristol Manor Farm,Swindon Supermarine,1x2,Home,9.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Netherlands - Cup,Roda JC,De Graafschap,1x2,Home,2.100,won,1.1000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Brazil - Pernambucano,Vera Cruz,Ibis,1x2,Away,3.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Tanzania - Premier League,Dodoma,JKT Tanzania,over_under_25,Over,2.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Gulf Club Champions League,Al Riffa,Qatar SC,1x2,Home,3.000,won,2.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,AFC - Champions League Elite,Shabab Al Ahli,Esteghlal,1x2,Away,4.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Czech Republic - Cup,Slovan Liberec,Teplice,1x2,Home,1.480,won,0.4800,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,England - Professional Development League U21,Bolton Wanderers,Huddersfield Town,1x2,Home,2.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,England - Professional Development League U21,Bristol City,Millwall,1x2,Away,3.500,won,2.5000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Uganda - Premier League,NEC,Ntugasaze,over_under_25,Over,2.000,won,1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,International - Premier League Cup U21,Ipswich Town,PSV,1x2,Away,2.000,won,1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Bosnia and Herzegovina - Cup,Igman Konjic,BSK Banja Luka,over_under_25,Over,2.000,won,1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Hungary - Cup,Kaposvari Rakoczi,Ajka,1x2,Away,2.000,won,1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Netherlands - U21 Divisie,Twente / Heracles,PEC Zwolle,1x2,Home,2.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-27,Ukraine - Cup,Livyi Bereg,Veres Rivne,1x2,Home,2.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-26,Northern Ireland - Reserve League,Bangor,Portadown,1x2,Away,2.100,won,1.1000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-26,England - Premier League 2 U21,Blackburn Rovers,West Bromwich Albion,1x2,Home,2.500,won,1.5000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-26,AFC - Champions League Elite,Al-Qadisiyah,Al Sadd,over_under_25,Over,1.900,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-26,Argentina - Primera B Metropolitana,UAI Urquiza,Villa San Carlos,1x2,Away,6.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-26,Brazil - Paulista U20,Sao Paulo,Palmeiras,1x2,Draw,3.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-26,Argentina - Primera C Metropolitana,Sacachispas,Club Sportivo Barracas,1x2,Home,3.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-26,Uruguay - Primera Division Amateur,Terremoto,Deportivo Italiano,1x2,Home,2.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-26,Bahrain - 2nd Division,Umm Al Hassam,Al Budaiya,1x2,Away,4.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-26,Austria - Amateur Cup,Lebring,Kalsdorf,1x2,Home,5.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-26,Armenia - Cup,FC Van,Gandzasar Kapan,1x2,Home,2.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-26,Austria - Amateur Cup,Wildon,Tillmitsch,1x2,Home,3.300,won,2.3000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Mexico - Liga TDP,Canoneros II,Lonsdaleita,1x2,Away,2.150,won,1.1500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Nicaragua - Primera Division,ART Municipal Jalapa,UNAN Managua,1x2,Home,2.050,won,1.0500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,CONMEBOL - Copa Libertadores Femenina,Deportivo Cali,Olimpia Asuncion,1x2,Home,1.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Mexico - Liga Premier,Montaneses,Lobos ULMX,1x2,Home,2.050,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Argentina - Primera C Metropolitana,Deportivo Espanol,Victoriano Arenas,1x2,Home,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Mexico - U19 League,Atlas,Puebla,1x2,Home,4.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Morocco - Botola 2,Ittihad Khemisset,Mouloudia Oujda,1x2,Draw,2.880,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Israel - Liga Alef,Hapoel Marmorek,Maccabi Yavne,1x2,Away,2.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - U19 League,Sant Andreu,Club Gimnastic Manresa,1x2,Away,2.400,won,1.4000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - Tercera Division,San Roque,Egabrense,1x2,Home,1.900,won,0.9000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - Regional Leagues,Nuevo Caceres SF,CP Amanecer,1x2,Home,2.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - Regional Leagues,Almodovar,Conquense II,1x2,Home,2.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,CAF - Champions League Qualifiers,Al Hilal,Sidama Bunna,1x2,Home,1.400,won,0.4000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - U19 League,Marbella,CF Alhendin Balompie,1x2,Home,1.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Netherlands - Eredivisie Women,PEC Zwolle,FC Twente,over_under_25,Under,3.400,won,2.4000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - Tercera Division,Cultural Deportiva Leonesa B,Calasanz de Soria,1x2,Home,1.670,won,0.6700,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - Regional Leagues,Becerril,Burgos,1x2,Away,2.400,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,CAF - Confederation Cup Qualifiers,ASKO Kara,Diarra,1x2,Home,1.800,won,0.8000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Burkina Faso - Premier League,ASF Bobo Dioulasso,Vitesse,1x2,Away,2.750,won,1.7500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - Segunda Federacion Women,Cordoba,Sporting de Huelva,1x2,Away,2.750,won,1.7500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Mexico - U21 League,Queretaro,Cruz Azul,1x2,Home,3.600,won,2.6000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Portugal - Campeonato de Portugal Prio,Nazarenos,Oliveira do Hospital,1x2,Away,1.830,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Portugal - Campeonato de Portugal Prio,Alverca B,AD Nogueirense,1x2,Home,2.200,won,1.2000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Portugal - Campeonato de Portugal Prio,1 Dezembro,Vitoria Setubal,1x2,Away,2.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Portugal - Campeonato de Portugal Prio,Sertanense,Fatima,1x2,Away,3.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Portugal - Campeonato de Portugal Prio,Alcochetense,Serpa,1x2,Home,2.100,won,1.1000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Cameroon - Elite One,Stade Renard,Panthere,1x2,Home,2.200,won,1.2000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Switzerland - 2. Liga Interregional,Racing Club Lausanne,Saviese,1x2,Home,2.350,won,1.3500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Poland - U19 League,Arka Gdynia,Polonia Warsaw,1x2,Home,3.100,won,2.1000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Belgium - 2nd Amateur Division,Entite Manageoise,Acren-Lessines,1x2,Away,2.630,won,1.6300,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,England - FA Cup Women,Luton Town,Cambridge United,1x2,Home,1.850,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,England - Women Super League 2,Ipswich Town,Sunderland,1x2,Away,1.850,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,England - Women Super League 2,Nottingham Forest,Newcastle United,1x2,Home,4.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Italy - Serie D,Vigor Senigallia,Ancona,1x2,Away,2.600,won,1.6000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Slovenia - League Women,Primorje Ajdovscina,Olimpija Ljubljana,1x2,Home,5.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Italy - Serie D,Athletic Club Palermo,Avola 1949,1x2,Home,2.300,won,1.3000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Czech Republic - 4. Liga,Svitavy,Kosmonosy,1x2,Home,5.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Serbia - U19 League,Spartak Subotica,Partizan Belgrade,1x2,Home,2.380,won,1.3800,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Kazakhstan - Premier League,Aktobe,Kairat Almaty,1x2,Home,3.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Andorra - Premier Division,Atletic Club d'Escaldes,FC Rangers,1x2,Home,3.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Czech Republic - 4. Liga,Hanacka Slavia Kromeriz II,SK Krumvir,1x2,Away,2.050,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Czech Republic - 4. Liga,Kozlovice,Sokol Lanzhot,1x2,Home,1.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Norway - 3rd Division,Fauske Sprint,Bossekop UL,1x2,Away,3.900,won,2.9000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Indonesia - Championship,PSMS Medan,PSIS Semarang,1x2,Home,2.150,won,1.1500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - Segunda Federacion Women,Guiniguada Apolinario,Cacereno II,1x2,Home,1.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Kenya - Premier League,Nairobi United,APS Bomet,1x2,Home,2.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Hungary - NB 3,Balatonalmadi SE,Komaromi VSE,1x2,Away,2.050,won,1.0500,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Hungary - NB 1 Women,Fehervar,Szent Mihaly,1x2,Away,1.910,won,0.9100,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - U19 League,Las Zocas,Mensajero,1x2,Away,4.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Poland - U19 League,Jagiellonia Bialystok,Arkonia Szczecin,1x2,Away,3.900,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - Segunda Federacion Women,Zaragoza CFF,CE Europa,1x2,Away,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - Regional Leagues,Arroyo CP,CP Chinato,1x2,Home,2.400,won,1.4000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - U19 League,Oberena,SD Huesca,1x2,Away,3.700,won,2.7000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Maldives - Premier League,TC Sports Club,Biss Buru,1x2,Home,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Greece - Super League Women,Odysseas Moschato,OFI,1x2,Away,2.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Spain - Tercera Division,Santurtzi,Amurrio,1x2,Home,1.800,won,0.8000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Czech Republic - 1. Liga Women,Viktoria Plzen,Prague Raptors,1x2,Away,2.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Andorra - Premier Division,Penya Encarnada d`Andorra,Esperanca d'Andorra,1x2,Home,3.900,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Greece - Super League U19,Aris Thessaloniki,Atromitos,1x2,Home,2.630,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Uzbekistan - Pro League,Pakhtakor Tashkent II,BuxDU,1x2,Home,1.910,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Myanmar - National League,Chinland,Myawady,1x2,Home,2.400,won,1.4000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Cambodia - Premier League,Kirivong Soksen Chey,Life FC SihanoukVille,1x2,Home,2.700,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Hong Kong - HKFA 2. Division,Kwong Wah,Double Flower,1x2,Home,2.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
+betaminic,2026-10-25,Japan - Nadeshiko Division 2 Women,Veertien Mie,Diavorosso Hiroshima,1x2,Away,2.000,won,1.0000,https://www.betaminic.com/shootingbets/results/
 betaminic,2026-10-25,CONMEBOL - Copa Libertadores Femenina,Corinthians,Independiente del Valle,1x2,Home,1.830,won,0.8300,https://www.betaminic.com/shootingbets/results/
 betaminic,2026-10-24,USA - USL League One,Sarasota Paradise,Westchester SC,1x2,Away,3.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
 betaminic,2026-10-24,Mexico - Liga Premier,Deportiva Venados,Tigres de Alica,1x2,Home,2.600,won,1.6000,https://www.betaminic.com/shootingbets/results/
@@ -4257,243 +4502,3 @@ betaminic,2026-06-04,Poland - 4th Liga,Gedania Gdansk,Czarni Pruszcz Gdanski,1x2
 betaminic,2026-06-04,Thailand - University League,Bangkok University,Nakhon Sawan Rajabhat University,over_under_25,Under,2.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
 betaminic,2026-06-04,USA - Women Premier Soccer League,San Ramon,Lamorinda United,1x2,Away,1.850,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
 betaminic,2026-06-04,Argentina - Copa Santa Fe,Independiente FC Bigand,Los Andes,1x2,Away,5.000,won,4.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,USA - USL League 2,Charlotte Eagles,Tobacco Road,1x2,Home,1.900,won,0.9000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,USA - NPSL,Cleveland,Ambassadors FC Ohio,1x2,Home,3.500,won,2.5000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,USA - USL League 2,New England FC,Connecticut Rush,1x2,Away,6.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Northern Ireland - Championship Women,Strabane Athletic,Ballymoney United,1x2,Home,1.910,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Northern Ireland - Championship Women,Greenisland,St. James Swifts,1x2,Home,5.000,won,4.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Ireland - Leinster Senior League,Finglas United,St. Mochtas,1x2,Away,2.400,won,1.4000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Switzerland - U19 Elite,FC Winterthur,FC Lausanne Sport,1x2,Home,2.550,won,1.5500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Austria - Regionalliga Mitte,Kalsdorf,Wallern / St Marienkirchen,1x2,Away,3.600,won,2.6000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Austria - Regionalliga Mitte,Atus Velden,Gleisdorf 09,1x2,Home,1.700,won,0.7000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Norway - 3rd Division,NTNUI,Kvik,1x2,Home,3.300,won,2.3000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Austria - Landesliga,Spittal an der Drau,KAC 1909,1x2,Home,2.450,won,1.4500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Finland - Kolmonen,KajHa,KaPa Kajaani,1x2,Away,4.330,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Finland - Kolmonen,Mikkelin Palloilijat II,LAUTP ll,1x2,Away,29.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Poland - 4th Liga,Garbarnia Krakow,Beskid Andrychow,1x2,Away,1.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,International - Friendlies Women,Tanzania,Malawi,over_under_25,Over,2.050,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,International - Friendlies Women,Myanmar,Uzbekistan,over_under_25,Over,1.900,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,SAFF - Championship Women,Nepal,Bangladesh,1x2,Home,1.570,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Australia - NPL New South Wales U20,Sydney Olympic,UNSW,1x2,Home,4.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Australia - New South Wales League 2,Hawkesbury City,Gladesville Ryde Magic,1x2,Home,2.500,won,1.5000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Thailand - University League,Rajamangala University of Technology Thanyaburi,Nakhon Ratchasima College,1x2,Home,1.830,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Kosovo - U21 League,Prishtina,Malisheva,over_under_25,Under,2.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,Panama - Liga de Futbol Nacional,Atletico Rio Abajo,AF Chilibre,over_under_25,Under,2.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-03,USA - USL League 2,West Chester United,Reading United,1x2,Away,3.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-02,Algeria - Ligue 1,USM Alger,Belouizdad,1x2,Home,5.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-02,Ireland - Leinster Senior League,Tolka Rovers,Malahide United,1x2,Home,5.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-02,Paraguay - Cup,Club Atletico Colegiales,General Diaz,1x2,Away,3.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-02,Ireland - Munster Senior League,College Corinthians,Ringmahon Rangers,1x2,Away,3.300,won,2.3000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-02,Brazil - Amazonense U20,Fast Clube,Manauara,1x2,Away,3.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-02,Israel - U19 Cup,Bnei Yehuda,Hapoel Beer Sheva,over_under_25,Under,2.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-02,Iraq - Stars League,Erbil,Amanat Baghdad,1x2,Home,1.570,won,0.5700,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-02,Argentina - Reserve League,Deportivo Paraguayo,Juventud Unida San Miguel,1x2,Away,2.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-02,International - Maurice Revello Youth Tournament,China,DR Congo,1x2,Away,2.150,won,1.1500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-02,Vietnam - 2nd Division,PVF Vietnam,Da Nang II,1x2,Home,3.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-01,Brazil - Brasileiro Women A3,Planalto EC,Rolim de Moura,1x2,Away,9.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-01,Argentina - Primera C Metropolitana,Club Atletico Fenix,Canuelas,1x2,Away,2.380,won,1.3800,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-01,Argentina - Primera C Metropolitana,Sportivo Barracas,CA Atlas,1x2,Away,3.900,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-01,Norway - 3rd Division,Lyn II,Gjoevik-Lyn,1x2,Away,2.050,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-01,Brazil - Gaucho U20,Sao Jose RS,Ypiranga RS,1x2,Home,2.400,won,1.4000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-01,Brazil - Carioca C,EC Tigres do Brasil,Unisouza Futebol Clube,1x2,Away,3.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-01,International - Maurice Revello Youth Tournament,Venezuela,Canada,1x2,Away,6.000,won,5.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-01,Poland - 4th Liga,Luzyce Luban,Gornik Zlotoryja,1x2,Away,2.900,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-01,Iraq - Stars League,Diyala,Duhok,over_under_25,Over,1.900,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-01,International - Maurice Revello Youth Tournament,Japan,Ivory Coast Youth,1x2,Home,3.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-06-01,Kenya - Super League,Kisumu All Stars,Migori Youth,1x2,Away,2.400,won,1.4000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,USA - USL League 2,Westchester Flames,Staten Island ASC,1x2,Away,2.400,won,1.4000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Dominica - Premier League,Bath Estate,Sagicor South East,over_under_25,Under,2.850,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,USA - USL League 2,Marin Legends,Academica,1x2,Away,2.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,USA - USL League 2,Chicago Dutch Lions,Edgewater Castle,1x2,Away,3.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Curacao - 1st Division,Scherpenheuvel,Inter Willemstad,1x2,Home,2.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,USA - Women Premier Soccer League,Milwaukee Bavarian,Green Bay Glory,1x2,Home,1.550,won,0.5500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Peru - Liga 3,Alianza Lima II,Universitario de Deportes II,1x2,Home,3.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Aruba - Divison di Honor,SV Brazil Junior,River Plate Aruba,1x2,Home,2.150,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Brazil - Catarinense 2,Caravaggio,Hercilio Luz,1x2,Away,2.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Brazil - Serie D,Decisao,Sergipe,1x2,Away,1.850,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Uruguay - Primera Division Amateur,Deportivo LSM,Platense,1x2,Home,2.300,won,1.3000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Argentina - Primera C Metropolitana,Leandro N. Alem,JJ Urquiza,1x2,Away,3.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Mali - Premiere Division,Onze Createurs,Mali Coura,1x2,Away,3.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Brazil - Paulista U20,Sao Caetano,Botafogo SP,1x2,Away,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Brazil - Brasileiro Women A2,Doce Mel,AE 3B da Amazonia,1x2,Away,1.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Argentina - Torneo Federal A,Circulo Deportivo,Club Villa Mitre,1x2,Away,2.700,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Brazil - Paulista Serie B,Paulinia Futebol Universitario,Osasco Audax,1x2,Away,3.100,won,2.1000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Ghana - FA Cup,Dreams,Nations,1x2,Away,6.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Albania - Superliga,Vllaznia Shkoder,AF Elbasani,1x2,Home,2.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Paraguay - Women League,Sportivo Luqueno,Sportivo San Lorenzo,1x2,Home,6.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,International - Maurice Revello Youth Tournament,DR Congo,Tunisia,1x2,Home,4.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Peru - Liga 2,AD Cantolao,Universidad de San Martin,1x2,Away,2.600,won,1.6000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Argentina - Primera C Metropolitana,Juventud Unida San Miguel,Victoriano Arenas,1x2,Away,2.700,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Hungary - NB 3,Gyirmot,Monori SE,1x2,Home,1.620,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Bosnia and Herzegovina - 1st League,Slavija Sarajevo,Laktasi,1x2,Home,2.380,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Iceland - 2. Deild,UMF Selfoss,Vikingur Olafsvik,1x2,Away,4.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Spain - Primera Division Women,Athletic Bilbao,Alhama,1x2,Draw,5.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Finland - Kakkonen Group C,Narpes Kraft,TP-47,1x2,Away,3.400,won,2.4000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Estonia - Esiliiga A,Tallinna Kalev,Levadia Tallinn II,1x2,Away,3.000,won,2.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Iceland - 4. Deild,Ellidi,Ulfarnir,1x2,Home,1.910,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Spain - Primera Division Women,Espanyol,Sevilla,1x2,Away,2.550,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Poland - 4th Liga,Powisle Dzierzgon,Gedania Gdansk,1x2,Home,6.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Norway - 3rd Division,Raelingen FK,Orn Horten,1x2,Away,1.830,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Brazil - Catarinense U20,Avai,Figueirense,1x2,Home,2.000,won,1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,International - Maurice Revello Youth Tournament,China,Saudi Arabia,1x2,Home,3.100,won,2.1000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Brazil - Paulista Serie B,Santacruzense,Matonense,1x2,Home,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Brazil - Paulista Serie B,Uniao Mogi,Manthiqueira,1x2,Home,2.200,won,1.2000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Denmark - Division 1 Women,Naestved,B 93,1x2,Away,3.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Croatia - 1. HNL Women,Medimurje Cakovec,Dinamo Zagreb,1x2,Away,1.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Norway - 3rd Division,Stabaek II,Mandalskameratene,1x2,Away,2.450,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Norway - 3rd Division,Viking II,Brodd,1x2,Home,2.050,won,1.0500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Vietnam - V League,Nam Dinh,Song Lam Nghe An,1x2,Home,1.440,won,0.4400,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Sweden - 2nd Division,Torslanda,Jonsereds,1x2,Home,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Finland - Kolmonen,EPS/Reservi,NuPS,1x2,Away,2.450,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Denmark - Division 2 Women,Odense Q II,Ballerup-Skovlunde Fodbold,1x2,Home,3.500,won,2.5000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Ireland - Leinster Senior League,Lucan United,St. Francis,1x2,Home,2.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Denmark - Division 2 Women,B73 Slagelse,Svogerslev,1x2,Away,2.880,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Korea Republic - K4 League,Haman,Jinju Citizen,over_under_25,Under,2.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Austria - Landesliga,SV Burmoos,Salzburger AK 1914,1x2,Home,2.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Australia - Queensland Premier League 3,Moggill,Yeronga Eagles,1x2,Away,2.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Australia - Queensland Premier League 2,Taringa Rovers,Southside Eagles,1x2,Away,3.600,won,2.6000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Australia - Queensland Premier League 3,Ipswich Knights,North Pine,1x2,Away,2.700,won,1.7000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Australia - Queensland Premier League 3,Redcliffe Dolphins,Springfield United,1x2,Home,7.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Japan - Regional League,Baleine Shimonoseki,SRC Hiroshima,over_under_25,Under,2.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Australia - NPL Tasmania,Clarence Zebras,South East United,1x2,Home,1.440,won,0.4400,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Japan - Regional League,ENEOS Mizushima,Yonago Genki SC,1x2,Home,3.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,Japan - Regional League,MSP Yashima FC,Llamas Kochi,1x2,Home,3.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,USA - USL League 2,Tucson,Southern California Eagles,1x2,Draw,6.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,USA - USL League 2,Texoma,Denton Diablos,1x2,Home,2.400,won,1.4000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-31,USA - USL League 2,Montgomery,East Atlanta,1x2,Home,2.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Brazil - Serie D,Sao Raimundo EC,GAS,1x2,Home,1.500,won,0.5000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Brazil - Serie D,Galvez,Porto Velho,1x2,Home,10.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,USA - USL League 2,Lakeland United,Brevard Fire,1x2,Home,1.620,won,0.6200,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,USA - USL League 2,Morris Elite,Manhattan,1x2,Away,2.750,won,1.7500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,USA - USL League 2,AC Connecticut,Boston City,1x2,Away,8.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Argentina - Torneo Federal A,Sportivo Las Parejas,Atletico Escobar,1x2,Home,1.730,won,0.7300,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,USA - USL Women League,Morris Elite,Cedar Stars Academy,1x2,Home,1.910,won,0.9100,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Brazil - Mineiro 2,Democrata SL,Aymores,1x2,Draw,2.880,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Argentina - Primera C Metropolitana,Argentino de Rosario,Estrella del Sur,1x2,Away,2.900,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Argentina - Primera B Metropolitana,Real Pilar,UAI Urquiza,1x2,Home,2.000,won,1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Canada - Northern Super League Women,Montreal Roses,Vancouver Rise,1x2,Home,2.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Brazil - Paulista Serie B,Votoraty,SC Paulinense,1x2,Home,2.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Brazil - Baiano U20,Jequie,Conquista,1x2,Home,5.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Argentina - Primera C Metropolitana,Club El Porvenir,Deportivo Muniz,1x2,Away,5.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Finland - Kolmonen,Gnistan Ogeli,SibboV,1x2,Home,3.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Spain - Regional Leagues,CD Ferriolense,UD Arenal,1x2,Home,2.050,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Iceland - 1. Deild Women,UMF Selfoss,Volsungur,1x2,Away,3.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Poland - 4th Liga,Victoria Sulejowek,Wilga Garwolin,1x2,Away,6.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Croatia - 3. NL,Zagora,GOSK Kastela,1x2,Home,1.420,won,0.4200,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Croatia - 3. NL,Dinamo Predavac,Polet,1x2,Away,6.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Poland - 3rd Liga,Bron Radom,Warta Sieradz,1x2,Home,3.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Poland - 3rd Liga,Polonia Sroda Slaska,Pogon Nowe Skalmierzyce,1x2,Home,1.850,won,0.8500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Poland - 3rd Liga,Wisla Plock II,GKS Belchatow,1x2,Home,2.250,won,1.2500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Poland - 3rd Liga,Naprzod Jedrzejow,Stal Krasnik,1x2,Home,2.450,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Poland - 3rd Liga,Wda Swiecie,Notec Czarnkow,1x2,Home,3.300,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Poland - 3rd Liga,Lipno Steszew,Unia Swarzedz,1x2,Away,2.630,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Czech Republic - 4. Liga,Ostrov,Chomutov,1x2,Away,2.350,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Poland - 3rd Liga,Korona Kielce II,Wislanie Skawina,1x2,Home,2.200,won,1.2000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Netherlands - U21 Divisie,Maastricht,Spartaan'20,1x2,Away,8.500,won,7.5000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Switzerland - Promotion League,Lausanne Sport II,Schaffhausen,1x2,Away,2.050,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Austria - Landesliga,Deutschkreutz,SV Eberau,1x2,Home,2.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Austria - Landesliga,Lumitech Jennersdorf,ASKO Klingenbach,1x2,Home,3.800,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Austria - Landesliga,1980 Wien,LAC-Inter,1x2,Away,2.350,won,1.3500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Croatia - Prva NL,Hrvace,Dubrava Zagreb,1x2,Home,1.910,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Switzerland - 1. Liga Classic,Meyrin,Chenois,1x2,Home,4.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Sweden - Elitettan Women,Elfsborg,Enskede,1x2,Away,6.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Iceland - 1. Deild Women,Keflavik,IA Akranes,1x2,Home,2.380,won,1.3800,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Croatia - 2. NL,Trnje,Dugo Selo,1x2,Home,4.330,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Norway - 3rd Division,Vag,Staal Joerpeland,1x2,Home,2.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Poland - 4th Liga,Pisa Barczewo,Rominta Goldap,1x2,Away,2.600,won,1.6000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Netherlands - U21 Divisie,HVV Hollandia,AFC 34,over_under_25,Under,3.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Austria - Regionalliga West,Seekirchen,Dornbirn,1x2,Away,3.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Sweden - Damallsvenskan,Djurgardens,Eskilstuna United,1x2,Away,4.330,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Norway - 3rd Division,Spjelkavik,Byasen,1x2,Home,2.700,won,1.7000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Paraguay - Division Intermedia,Resistencia,Club Fernando de La Mora,1x2,Away,3.400,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Poland - 4th Liga,KOS Victoria 1922 Czestochowa,LKS Drama Zbroslawice,1x2,Away,2.050,won,1.0500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Poland - 2nd Liga,Chojniczanka Chojnice,Rekord Bielsko Biala,1x2,Home,1.900,won,0.9000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Lithuania - 1 Lyga,Transinvest II,Kauno Zalgiris II,1x2,Away,2.350,won,1.3500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Georgia - Erovnuli Liga 2,Kolkheti 1913 Poti,Sioni Bolnisi,1x2,Home,2.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Georgia - Erovnuli Liga 2,Gareji,Samtredia,1x2,Away,4.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Norway - 3rd Division,Nardo,Rosenborg II,1x2,Home,2.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Brazil - Baiano U20,Feirense,Juazeirense,1x2,Home,3.700,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Denmark - 2nd Division,Helsingor,Brabrand,1x2,Away,3.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Macau - Primeira Divisao,Benfica Macau,Cheng Fung,1x2,Home,1.830,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Norway - 3rd Division,Heming,Union Carl Berner,1x2,Away,3.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Lithuania - 1 Lyga,Tauras Taurage,Hegelmann II,1x2,Home,1.550,won,0.5500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Norway - 3rd Division,Nordstrand,KFUM Oslo II,1x2,Home,1.950,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Sweden - Elitettan Women,IFK Goteborg,Hacken II,1x2,Home,1.300,won,0.3000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Norway - 3rd Division,Lillestrom II,Alta,1x2,Home,2.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Sweden - 2nd Division,Forward,Ragsveds,1x2,Away,3.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Finland - Kolmonen,ToTe,VJS II,1x2,Home,2.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Netherlands - U21 Divisie,Excelsior Maassluis,FC Eindhoven,1x2,Away,3.500,won,2.5000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Georgia - Erovnuli Liga,Meshakhte Tkibuli,Dinamo Tbilisi,1x2,Away,1.850,won,0.8500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Netherlands - U21 Divisie,SC Telstar,IJsselmeervogels,over_under_25,Under,3.450,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Estonia - Meistriliiga Women,Saku Sporting,Flora Tallinn,over_under_25,Under,3.400,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Poland - Ekstraliga Women,Lech Poznan,Rekord Bielsko-Biala,1x2,Away,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - NPL New South Wales U20,Manly United,Blacktown City,1x2,Home,2.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - New South Wales League 2,Camden Tigers,Central Coast United,1x2,Home,3.700,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - New South Wales League 1,Bulls Academy,Newcastle Jets II,1x2,Away,2.700,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Hungary - U19 League,Puskas Akademia,Illes,1x2,Away,3.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - Queensland Premier League 3,North Brisbane,University of Queensland,1x2,Away,1.530,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - Western Australia State League 1,Murdoch University Melville,Kingsley Westside,1x2,Home,2.880,won,1.8800,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - Western Australia State League 1,Inglewood United,Cockburn City,1x2,Home,1.910,won,0.9100,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - Western Australia State League 1,Curtin University,Joondalup City,1x2,Home,4.330,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - Western Australia State League 1,Subiaco,UWA Nedlands,1x2,Home,5.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - New South Wales League 2,Bankstown United,Fraser Park,1x2,Home,3.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - Western Australia State League 1,Mandurah City,Floreat Athena,1x2,Away,1.900,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - Tasmania Super League Women,Launceston United,Kingborough Lions United,1x2,Away,4.750,won,3.7500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - NPL New South Wales U20,St George Saints,St George City,1x2,Away,2.880,won,1.8800,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - New South Wales League 1,Hakoah Sydney City,Bankstown City Lions,1x2,Home,2.700,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - Northern NSW Reserves League,Adamstown Rosebud,Newcastle Olympic,1x2,Away,2.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - NPL Capital Territory,Canberra Juventus,Tuggeranong United,1x2,Home,2.450,won,1.4500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - Victoria Premier League 2,Moreland City,Eastern Lions,1x2,Home,3.100,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Australia - NPL Capital Territory Youth U23,Canberra Juventus,Tuggeranong United,1x2,Home,2.600,won,1.6000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,New Zealand - Chatham Cup,Wellington Olympic,Miramar Rangers,1x2,Home,1.830,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,New Zealand - Chatham Cup,Northern AFC,Wanaka,1x2,Away,8.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,Uruguay - Primera Division Amateur,Parque de Plata,Club Atletico Basanez,1x2,Away,3.750,won,2.7500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-30,USA - Women Premier Soccer League,Minnesota Bliss,Mankato Soccer Club,1x2,Home,2.200,won,1.2000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Dominica - Premier League,Middleham United,Harlem United,1x2,Home,2.500,won,1.5000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Mexico - Liga TDP,Delfines de Coatzacoalcos,Saltillo Soccer,1x2,Home,2.100,won,1.1000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Northern Ireland - Premiership Women,Lisburn,Crusaders Strikers,over_under_25,Under,2.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,France - Feminine Division 1,Lyon,Paris FC,1x2,Home,1.420,won,0.4200,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Ireland - Leinster Senior League,St. Mochtas,Killester Donnycarney,1x2,Away,3.900,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Sweden - Elitettan Women,Gamla Upsala,Orebro SK,1x2,Away,2.050,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Brazil - Paulista U20,Osasco Audax,Capivariano,1x2,Away,2.450,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Brazil - Paulista U20,Velo Clube,Bandeirante,1x2,Home,2.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Switzerland - 2. Liga Interregional,Rotkreuz,Ibach,1x2,Away,6.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Austria - Regionalliga Ost,Wiener Sport-Club,Leobendorf,1x2,Home,2.250,won,1.2500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Austria - Landesliga,Siegendorf,Horitschon-Unterpetersdorf,1x2,Home,2.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Austria - Regionalliga Ost,Favoritner,Gloggnitz,1x2,Home,3.200,won,2.2000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Austria - Regionalliga Ost,Parndorf,Marchfeld Donauauen,1x2,Away,3.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Austria - Landesliga,UFC Fehring,Lebring,1x2,Home,3.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Austria - Landesliga,Austria Lustenau II,Brauerei Egg,1x2,Away,2.550,won,1.5500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Norway - 3rd Division,Hinna,Varhaug,1x2,Away,2.400,won,1.4000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Finland - Kolmonen,FC Lahti 69,TuPS,1x2,Away,2.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Finland - Kolmonen,JIPPO II,NiemU,1x2,Away,3.200,won,2.2000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Poland - 4th Liga,Obra 1912 Koscian,Kania Gostyn,1x2,Away,2.630,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Austria - Landesliga,Gerasdorf Stammersdorf,Dinamo Helfort,1x2,Away,1.800,won,0.8000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Finland - Kolmonen,MPS/Atletico Malmi,PPJ/Lauttasaari,1x2,Away,3.200,won,2.2000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Finland - Kakkonen Group B,EPS,EBK,1x2,Home,1.750,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Finland - Kolmonen,KoPa,LAUTP,1x2,Home,8.000,won,7.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Egypt - Premier League,ZED,Kahraba Ismailia,1x2,Away,2.200,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Bhutan - Premier League,Tensung,Ugyen Academy,1x2,Home,2.350,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,Denmark - Future Cup U21,Brondby,FC Copenhagen,1x2,Away,3.800,won,2.8000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,New Zealand - Northern League,Western Springs,Bay Olympic,1x2,Away,7.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,New Zealand - Chatham Cup,Christchurch United,Nomads United,1x2,Home,1.910,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-29,USA - USL League 2,Tacoma Stars,Oly Town,over_under_25,Under,2.630,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Iceland - U19 League,Breidablik/Augn/Smari,FH / IH,1x2,Away,9.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Brazil - Cup Women,Clube Atletico Piauiense,Santos,1x2,Home,4.500,won,3.5000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Brazil - Cup Women,Atletico Mineiro,Vitoria,1x2,Home,1.360,won,0.3600,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Scotland - Premier League Women 2,East Fife,Falkirk FC,1x2,Away,3.300,won,2.3000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Finland - Kolmonen,Ylojarvi United,Haka Juniorit,1x2,Home,2.250,won,1.2500,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Finland - Kolmonen,PPJ/Ruoholahti,MPS,1x2,Away,3.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Finland - Kolmonen,Fish United,TPV II,1x2,Home,6.250,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Finland - Kolmonen,Atlantis/Akatemia,RiPS,1x2,Home,2.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Hungary - NB 1 Women,Puskas Akademia,Ferencvaros,1x2,Away,1.800,won,0.8000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Finland - Kolmonen,Ylivieska,Lapuan Virkia,1x2,Away,3.600,won,2.6000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Poland - 4th Liga,Supraslanka Suprasl,Krypnianka Krypno,1x2,Away,3.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Finland - Kolmonen,MiPK,HaPK,1x2,Away,4.100,won,3.1000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Iraq - Stars League,Al Minaa,Al-Talaba,1x2,Away,3.000,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Georgia - Liga 3,Kolkheti Khobi,Lokomotivi Tbilisi,1x2,Away,2.700,won,1.7000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Kazakhstan - Premier League,Okzhetpes,Aktobe,1x2,Home,2.450,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Kosovo - U21 League,Ballkani,Dukagjini,over_under_25,Under,2.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Vietnam - 2nd Division,Phu Dong Ninh Binh,Hue FC,1x2,Home,4.500,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,USA - USL League 2,Stars FC,AMSG,1x2,Home,5.000,won,4.0000,https://www.betaminic.com/shootingbets/results/
-betaminic,2026-05-28,Puerto Rico - National League,PR Surf,Ponce,1x2,Away,2.600,lost,-1.0000,https://www.betaminic.com/shootingbets/results/
