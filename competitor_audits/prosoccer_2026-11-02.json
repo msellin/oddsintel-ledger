@@ -1,0 +1,459 @@
+{
+ "schema": "price_check/v1",
+ "site": "prosoccer",
+ "name": "ProSoccer.gr",
+ "slug": "prosoccer-review",
+ "url": "https://www.prosoccer.gr/en/football/predictions/",
+ "generated_at": "2026-11-02T10:21:24+00:00",
+ "prereg": {
+  "path": "ops/price-check/prosoccer.yml",
+  "logged_at": "2026-10-30T11:41:33Z",
+  "tests": [
+   "baseline",
+   "clv",
+   "our_numbers",
+   "own_odds",
+   "pinnacle_close",
+   "price_check"
+  ],
+  "dropped": []
+ },
+ "window": {
+  "start": "2026-10-31",
+  "end": "2026-11-02",
+  "days": 3
+ },
+ "price_basis": "the 'Avg. Odds' the site prints next to each match (average of bookmakers, no book named). ONE pick per match: its TIP. A single result tip (a1 / a2) is graded at the printed average odds of that outcome. A two-outcome tip (a12 / a21 / a1X / aX1 / a2X / aX2) is graded as that double chance; the site prints no price for it, so it has NO own-odds row and is judged only at the Pinnacle close (said so on the page, never priced from its 1X2 numbers). c-tips (rows with two odds columns) are not a market we test",
+ "proof": {
+  "grade": "C",
+  "grade_text": "grade C because 2 of 376 picks (0.5%) were first seen after kick-off or edited later; the other 374 were first seen before kick-off by our own capture",
+  "share_pre_ko_pct": 99.5,
+  "added_after_ko": 2,
+  "edited_after_ko": 0
+ },
+ "sample": {
+  "picks_read": 478,
+  "graded": 180,
+  "graded_busy": 180,
+  "voids": 1,
+  "ungraded": 51,
+  "unmatched_excluded": 95,
+  "site_graded_unmatched": 0,
+  "excluded_untested": {
+   "tip": 6
+  },
+  "unmatched": {
+   "double_chance": 44,
+   "1x2": 51
+  },
+  "wrong_match_by_score": {}
+ },
+ "markets": {
+  "1x2": {
+   "label": "Match result (1X2)",
+   "own_basis": "matched",
+   "greyed_unmatched": true,
+   "own": {
+    "n": 180,
+    "won": 108,
+    "win_rate": 60.0,
+    "avg_odds": 1.904,
+    "breakeven": 56.43,
+    "return_pct": 8.92,
+    "range": [
+     -20.0,
+     18.97
+    ],
+    "range_note": null,
+    "too_few": true
+   },
+   "own_matched": {
+    "n": 180,
+    "won": 108,
+    "win_rate": 60.0,
+    "avg_odds": 1.904,
+    "breakeven": 56.43,
+    "return_pct": 8.92,
+    "range": [
+     -20.0,
+     18.97
+    ],
+    "range_note": null,
+    "too_few": true
+   },
+   "n_void": 0,
+   "n_ungraded": 27,
+   "n_unmatched": 51,
+   "unmatched_pct": 19.8,
+   "odds_share_pct": 100.0,
+   "pnl": [
+    [
+     "2026-10-31",
+     19.54,
+     103
+    ],
+    [
+     "2026-11-01",
+     16.45,
+     178
+    ],
+    [
+     "2026-11-02",
+     16.05,
+     180
+    ]
+   ],
+   "price_check": {
+    "n": 183,
+    "tolerance_pct": 2.0,
+    "within_best_pct": 95.1,
+    "above_best_15x_pct": 0.0,
+    "median_vs_best_pct": -6.7,
+    "median_books": 9
+   },
+   "own_unmatched_only": {
+    "n": 0
+   },
+   "pinnacle": {
+    "n": 180,
+    "won": 108,
+    "win_rate": 60.0,
+    "avg_odds": 1.999,
+    "breakeven": 54.83,
+    "return_pct": 12.19,
+    "range": [
+     -14.03,
+     20.86
+    ],
+    "range_note": null,
+    "too_few": true,
+    "coverage_pct": 100.0
+   },
+   "clv": {
+    "n": 180,
+    "mean_pct": -6.11,
+    "range": [
+     -13.4,
+     -5.19
+    ],
+    "share_beating_pct": 22.8
+   },
+   "baseline": {
+    "site": {
+     "n": 180,
+     "won": 108,
+     "win_rate": 60.0,
+     "avg_odds": 1.999,
+     "breakeven": 54.83,
+     "return_pct": 12.19,
+     "range": [
+      -14.03,
+      20.86
+     ],
+     "range_note": null,
+     "too_few": true
+    },
+    "rule": {
+     "n": 0
+    },
+    "caveat": "the rule chooses with kick-off prices, so it shows what a win rate is made of, not a strategy"
+   },
+   "record": {
+    "n": 0
+   },
+   "bonferroni": null
+  },
+  "double_chance": {
+   "label": "Double chance",
+   "own_basis": "matched",
+   "greyed_unmatched": true,
+   "own": {
+    "n": 0
+   },
+   "own_matched": {
+    "n": 0
+   },
+   "n_void": 1,
+   "n_ungraded": 24,
+   "n_unmatched": 44,
+   "unmatched_pct": 20.7,
+   "odds_share_pct": 0.0,
+   "pnl": [],
+   "price_check": {
+    "n": 0
+   },
+   "own_unmatched_only": {
+    "n": 0
+   },
+   "pinnacle": {
+    "n": 137,
+    "won": 112,
+    "win_rate": 81.75,
+    "avg_odds": 1.404,
+    "breakeven": 72.37,
+    "return_pct": 11.58,
+    "range": [
+     7.48,
+     30.5
+    ],
+    "range_note": null,
+    "too_few": true,
+    "coverage_pct": 95.1
+   },
+   "clv": {
+    "n": 0
+   },
+   "baseline": {
+    "site": {
+     "n": 137,
+     "won": 112,
+     "win_rate": 81.75,
+     "avg_odds": 1.404,
+     "breakeven": 72.37,
+     "return_pct": 11.58,
+     "range": [
+      7.48,
+      30.5
+     ],
+     "range_note": null,
+     "too_few": true
+    },
+    "rule": {
+     "n": 0
+    },
+    "caveat": "the rule chooses with kick-off prices, so it shows what a win rate is made of, not a strategy"
+   },
+   "record": {
+    "n": 0
+   },
+   "bonferroni": null
+  }
+ },
+ "busy_markets": [],
+ "pooled": {
+  "own": {
+   "n": 180,
+   "won": 108,
+   "win_rate": 60.0,
+   "avg_odds": 1.904,
+   "breakeven": 56.43,
+   "return_pct": 8.92,
+   "range": [
+    -20.0,
+    18.97
+   ],
+   "range_note": null,
+   "too_few": true
+  },
+  "pinnacle": {
+   "n": 317,
+   "won": 220,
+   "win_rate": 69.4,
+   "avg_odds": 1.741,
+   "breakeven": 62.41,
+   "return_pct": 11.93,
+   "range": [
+    0.81,
+    14.73
+   ],
+   "range_note": null,
+   "too_few": false
+  },
+  "clv": {
+   "n": 180,
+   "mean_pct": -6.11,
+   "range": [
+    -13.4,
+    -5.19
+   ],
+   "share_beating_pct": 22.8
+  }
+ },
+ "scorecard": {
+  "shows_odds": "no",
+  "shows_pl": "no",
+  "profitable": "untested",
+  "profitable_k": 0,
+  "beats_close": "unreliable",
+  "beats_rule": "untested",
+  "record_matches": "untested",
+  "proof_grade": "C"
+ },
+ "tiles": [
+  {
+   "value": "180",
+   "label": "picks tested"
+  },
+  {
+   "value": "955",
+   "label": "picks read (2 first seen after kick-off, 22 edited later)"
+  },
+  {
+   "value": "+8.9%",
+   "label": "return at its own odds"
+  },
+  {
+   "value": "+11.9%",
+   "label": "at the sharp close; CLV unreliable (grade C)"
+  }
+ ],
+ "example_day": {
+  "day": "2026-10-31",
+  "card_n": 194,
+  "card_won": 134,
+  "prominent_n": 94,
+  "rows": [
+   {
+    "country": "Germany",
+    "home": "BAYERN MUNCHEN",
+    "away": "BORUSSIA DORTMU",
+    "market": "1x2",
+    "site_selection": "a1",
+    "odds": 1.3,
+    "outcome": "lost",
+    "score": "2-2",
+    "pin": 1.3175,
+    "league": "DE1"
+   },
+   {
+    "country": "Germany",
+    "home": "SCHALKE 04",
+    "away": "RB LEIPZIG",
+    "market": "1x2",
+    "site_selection": "a2",
+    "odds": 1.85,
+    "outcome": "won",
+    "score": "0-2",
+    "pin": 1.8696,
+    "league": "DE1"
+   },
+   {
+    "country": "Germany",
+    "home": "LEVERKUSEN",
+    "away": "STUTTGART",
+    "market": "1x2",
+    "site_selection": "a1",
+    "odds": 1.7,
+    "outcome": "lost",
+    "score": "2-4",
+    "pin": 1.7812,
+    "league": "DE1"
+   },
+   {
+    "country": "Germany",
+    "home": "MONCHENGLADBACH",
+    "away": "PADERBORN",
+    "market": "1x2",
+    "site_selection": "a1",
+    "odds": 1.8,
+    "outcome": "lost",
+    "score": "0-0",
+    "pin": 2.19,
+    "league": "DE1"
+   },
+   {
+    "country": "Germany",
+    "home": "AUGSBURG",
+    "away": "FREIBURG",
+    "market": "double_chance",
+    "site_selection": "a12",
+    "odds": null,
+    "outcome": "won",
+    "score": "1-2",
+    "pin": 1.3353387704769548,
+    "league": "DE1"
+   },
+   {
+    "country": "Germany",
+    "home": "WERDER BREMEN",
+    "away": "HOFFENHEIM",
+    "market": "double_chance",
+    "site_selection": "a21",
+    "odds": null,
+    "outcome": "won",
+    "score": "2-0",
+    "pin": 1.3386297565576393,
+    "league": "DE1"
+   }
+  ]
+ },
+ "ours": {
+  "primary": {
+   "basis": "every settled pre-match pick of every bot on /performance, at the published price",
+   "proof_grade": "C",
+   "own": {
+    "n": 115,
+    "won": 66,
+    "win_rate": 57.39,
+    "avg_odds": 2.084,
+    "breakeven": 50.72,
+    "return_pct": 12.02,
+    "range": [
+     0.07,
+     34.43
+    ],
+    "range_note": null,
+    "too_few": true
+   },
+   "pinnacle": {
+    "n": 0,
+    "coverage_pct": 0.0
+   },
+   "clv": {
+    "n": 0
+   }
+  },
+  "primary_sealed_pct": 95.7,
+  "telegram": {
+   "basis": "the subset posted to our public Telegram channel before kick-off",
+   "proof_grade": "B",
+   "own": {
+    "n": 49,
+    "won": 31,
+    "win_rate": 63.27,
+    "avg_odds": 2.004,
+    "breakeven": 52.61,
+    "return_pct": 22.25,
+    "range": [
+     11.06,
+     33.9
+    ],
+    "range_note": null,
+    "too_few": true
+   },
+   "pinnacle": {
+    "n": 0,
+    "coverage_pct": 0.0
+   },
+   "clv": {
+    "n": 0
+   }
+  }
+ },
+ "claims": [
+  {
+   "quote": "Since 2002 we have been publishing our free predictions on the web, which are generated by a computational intelligence software",
+   "url": "https://www.prosoccer.gr/en/football/predictions/",
+   "read_on": "2026-11-02",
+   "measures": "own_odds"
+  },
+  {
+   "quote": "Best of successful predictions for yesterday",
+   "url": "https://www.prosoccer.gr/",
+   "read_on": "2026-11-02",
+   "measures": "sample"
+  },
+  {
+   "quote": "The predictions are based on sports data entered in our system, which uses artificial neural networks.",
+   "url": "https://www.prosoccer.gr/en/about.html",
+   "read_on": "2026-11-02",
+   "measures": "own_odds"
+  }
+ ],
+ "facts": {
+  "shows_pl": "no",
+  "operator": "not named (footer 'About ProSoccer.GR © 2016-2018'; contact_us@prosoccer.gr; sister site progsport.com)",
+  "price": "free, no account, no paid tier seen (read 2026-10-30)",
+  "product": "free 1X2 probabilities and a TIP per match for 150+ leagues, average odds, two predicted scores and under/over 2.5 probabilities, from a neural-network model; week pages Monday..Monday"
+ }
+}
