@@ -163909,6 +163909,18 @@
    "vip": true
   },
   {
+   "batch_id": 13685,
+   "sha256": "41919cf257430e637923c0ec4a72501bd91e47054b8d1e2956294b1849346f42",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-30T15:46:00Z",
+   "files": [
+    "2026-10-30/13685.jsonl",
+    "2026-10-30/13685.tsr"
+   ],
+   "vip": false
+  },
+  {
    "batch_id": 13686,
    "sha256": "7d4a44c32f802da7c9717000da002d08e71999ba84cf8b0f832d0263d73b8c16",
    "picks": 1,
@@ -164461,6 +164473,18 @@
    "vip": false
   },
   {
+   "batch_id": 13732,
+   "sha256": "00e387ef8a638c3bd6cab99e81b4e9743cef68e00f7d708d364251655f642bdf",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T02:41:00Z",
+   "files": [
+    "2026-10-31/13732.jsonl",
+    "2026-10-31/13732.tsr"
+   ],
+   "vip": false
+  },
+  {
    "batch_id": 13733,
    "sha256": "05a965c641ad2d1ee58c0ab0819c32ef6c87aca0ad7735ad118d5cd75b8077ef",
    "picks": 1,
@@ -164737,6 +164761,18 @@
    "vip": false
   },
   {
+   "batch_id": 13756,
+   "sha256": "b537fab9bff20567aabc069d6d5e5cfd2abb6862ae73621e303f87c06f9dafb5",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T05:21:01Z",
+   "files": [
+    "2026-10-31/13756.jsonl",
+    "2026-10-31/13756.tsr"
+   ],
+   "vip": false
+  },
+  {
    "batch_id": 13757,
    "sha256": "1d8cc059c2ad41808ddb6c32e60f30461e236da57cc2e15f42c84716eac377fb",
    "picks": 1,
@@ -164917,6 +164953,18 @@
    "vip": false
   },
   {
+   "batch_id": 13772,
+   "sha256": "e33945a947e1997a4bc794b9552702433ce11e7484496f133d5dcdf27eac4466",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T06:36:02Z",
+   "files": [
+    "2026-10-31/13772.jsonl",
+    "2026-10-31/13772.tsr"
+   ],
+   "vip": false
+  },
+  {
    "batch_id": 13773,
    "sha256": "d7fc06ce0a23ddfad847bd8702aa1260977532d07af8bf1086cbab48daf584a4",
    "picks": 1,
@@ -164985,6 +165033,18 @@
    "files": [
     "2026-10-31/13778.jsonl",
     "2026-10-31/13778.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13779,
+   "sha256": "2673532453c133a9f842a585b1e61137a73b234a193f5f70cd1220ad1e937c46",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T07:06:02Z",
+   "files": [
+    "2026-10-31/13779.jsonl",
+    "2026-10-31/13779.tsr"
    ],
    "vip": false
   },
@@ -165709,6 +165769,18 @@
    "vip": false
   },
   {
+   "batch_id": 13842,
+   "sha256": "bc1fb740ebfa5a0e1f62286276a7214a61f4be1416bf8d499098821d67dde79a",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T11:45:23Z",
+   "files": [
+    "2026-10-31/13842.jsonl",
+    "2026-10-31/13842.tsr"
+   ],
+   "vip": false
+  },
+  {
    "batch_id": 13843,
    "sha256": "ffeec2d627308a5fd85d7e0adc1ac4f931662c0024c3ca2f6ddf5b1096dc33af",
    "picks": 1,
@@ -166033,6 +166105,18 @@
    "vip": true
   },
   {
+   "batch_id": 13870,
+   "sha256": "623933fdae37473a25e168842524d6622e32a78abc3036a6d41350f94cb03537",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T14:51:03Z",
+   "files": [
+    "2026-10-31/13870.jsonl",
+    "2026-10-31/13870.tsr"
+   ],
+   "vip": false
+  },
+  {
    "batch_id": 13871,
    "sha256": "a2bbb18728e7ae1099443a1c171117f86c2e5a33c3a0c5becb01ba6f791a6cb4",
    "picks": 1,
@@ -166069,6 +166153,30 @@
    "vip": false
   },
   {
+   "batch_id": 13874,
+   "sha256": "9fba23adfe3ff143af5a29c521e27b45dbb3b39743f354bceccf00b474167a17",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T15:46:00Z",
+   "files": [
+    "2026-10-31/13874.jsonl",
+    "2026-10-31/13874.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13875,
+   "sha256": "071364145054a0c83df02983d0a38e736b8128bcd2f8e045ea62a0660d3e4f7a",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T15:46:01Z",
+   "files": [
+    "2026-10-31/13875.jsonl",
+    "2026-10-31/13875.tsr"
+   ],
+   "vip": false
+  },
+  {
    "batch_id": 13876,
    "sha256": "1b6990605760a39d6567fe2ec20e2ba59e1bef75944417bf46b15b78ed51f640",
    "picks": 2,
@@ -166093,6 +166201,18 @@
    "vip": false
   },
   {
+   "batch_id": 13878,
+   "sha256": "338b1224f4e55b6121ae42a2e9472a1856223f38c3a2a4546239bd8f338f15a4",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T16:21:00Z",
+   "files": [
+    "2026-10-31/13878.jsonl",
+    "2026-10-31/13878.tsr"
+   ],
+   "vip": true
+  },
+  {
    "batch_id": 13879,
    "sha256": "4f7a010f905d80df50faaf2f6c7776dd865fbce95ddcd94d83de894e42951628",
    "picks": 1,
@@ -166113,6 +166233,18 @@
    "files": [
     "2026-10-31/13880.jsonl",
     "2026-10-31/13880.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13881,
+   "sha256": "ee5fcb4bda5c46e1b21e5508556ae8ff6d6bccc18055e467f47089671d437af0",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T16:36:02Z",
+   "files": [
+    "2026-10-31/13881.jsonl",
+    "2026-10-31/13881.tsr"
    ],
    "vip": false
   },
@@ -166165,6 +166297,18 @@
    "vip": false
   },
   {
+   "batch_id": 13886,
+   "sha256": "89fdfc9aaf1a113c5b612b1ac3167b2b04cdfc17ff51f2715a6de6a13cd43054",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T17:36:01Z",
+   "files": [
+    "2026-10-31/13886.jsonl",
+    "2026-10-31/13886.tsr"
+   ],
+   "vip": false
+  },
+  {
    "batch_id": 13887,
    "sha256": "89644d67a4e22fc358264665e0f63c19ed454ebcccf88c5cf70fd3655b06e412",
    "picks": 1,
@@ -166187,6 +166331,18 @@
     "2026-10-31/13888.tsr"
    ],
    "vip": false
+  },
+  {
+   "batch_id": 13889,
+   "sha256": "ef11d0622f0bc73b2776ee7e6220fc48d9c8bae111eef410bcb51c73e6b21690",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T18:36:00Z",
+   "files": [
+    "2026-10-31/13889.jsonl",
+    "2026-10-31/13889.tsr"
+   ],
+   "vip": true
   },
   {
    "batch_id": 13890,
@@ -166225,6 +166381,30 @@
    "vip": true
   },
   {
+   "batch_id": 13893,
+   "sha256": "eeac3270b1c358d60f2806ab9aaf5ab4efa74d9da1b5cb0a864431fec69cc0f3",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T20:36:00Z",
+   "files": [
+    "2026-10-31/13893.jsonl",
+    "2026-10-31/13893.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13894,
+   "sha256": "66831b21d6b618abe81864afe6d24117e2b2398d51847680252fa817ab9a5ac0",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T20:36:00Z",
+   "files": [
+    "2026-10-31/13894.jsonl",
+    "2026-10-31/13894.tsr"
+   ],
+   "vip": false
+  },
+  {
    "batch_id": 13895,
    "sha256": "6cfad6e51d8aceed0a9ae324c2d749f6cd3c7026dcf3392bb70708b7ebc04e49",
    "picks": 1,
@@ -166245,6 +166425,18 @@
    "files": [
     "2026-10-31/13896.jsonl",
     "2026-10-31/13896.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13897,
+   "sha256": "d080c401ca45e6ef2655ec1453237d6ada1dd7b8f2e13d3b82de213a01264277",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T21:06:01Z",
+   "files": [
+    "2026-10-31/13897.jsonl",
+    "2026-10-31/13897.tsr"
    ],
    "vip": false
   },
@@ -166273,6 +166465,42 @@
    "vip": false
   },
   {
+   "batch_id": 13901,
+   "sha256": "e8894d190311b59306e835c989921d4a741efed256b67c12da8ad12795706e85",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T23:36:00Z",
+   "files": [
+    "2026-10-31/13901.jsonl",
+    "2026-10-31/13901.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13902,
+   "sha256": "3adbb2e22e628c692a748df3a8b3fe4d72cc27b01ce5ddf93d6d075ca9794f9e",
+   "picks": 2,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T23:36:00Z",
+   "files": [
+    "2026-10-31/13902.jsonl",
+    "2026-10-31/13902.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13903,
+   "sha256": "880979b62b7424492e76679e4bb2c4b72771c6bbbd9032ed5dc5925cfa0c2c84",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-10-31T23:36:01Z",
+   "files": [
+    "2026-10-31/13903.jsonl",
+    "2026-10-31/13903.tsr"
+   ],
+   "vip": false
+  },
+  {
    "batch_id": 13904,
    "sha256": "96f9988bd85535a06f826e0a45b7bd08b46faf0e15940f6fca2dcdfbfd6ae457",
    "picks": 1,
@@ -166281,6 +166509,1266 @@
    "files": [
     "2026-11-01/13904.jsonl",
     "2026-11-01/13904.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13905,
+   "sha256": "fc1584ae45296f881f3f47ee0e1875e5cb0b16211d92b853264ccda1cc1c2c34",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T00:06:02Z",
+   "files": [
+    "2026-11-01/13905.jsonl",
+    "2026-11-01/13905.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13906,
+   "sha256": "922573b087559e3b10c7372108713202fce52d72fd033eed53cac12653343ae8",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T00:06:03Z",
+   "files": [
+    "2026-11-01/13906.jsonl",
+    "2026-11-01/13906.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13907,
+   "sha256": "0d2d0a993e6c58c7b8742c7218906d9cc862cf4ff75c44c790ec3b07d9b9e5d8",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T00:15:30Z",
+   "files": [
+    "2026-11-01/13907.jsonl",
+    "2026-11-01/13907.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13908,
+   "sha256": "5b482e09b87473a93223a7a6e1c89ce1f80c18bcc5544531087b840522880db6",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T00:41:00Z",
+   "files": [
+    "2026-11-01/13908.jsonl",
+    "2026-11-01/13908.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13909,
+   "sha256": "34a61d66c00ce576cbe8760ac1b2edac358c6d5b00db9deb83305cc13de5290f",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T00:41:01Z",
+   "files": [
+    "2026-11-01/13909.jsonl",
+    "2026-11-01/13909.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13910,
+   "sha256": "2299c2a620f68a78bb2e3319290e4229eceaf99e286ab972659d8bc5bd466ccd",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T00:51:00Z",
+   "files": [
+    "2026-11-01/13910.jsonl",
+    "2026-11-01/13910.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13911,
+   "sha256": "84c9e56e30953adce413291c9186a49065f85e0118808c3efdb92c86f32b4e66",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T01:06:00Z",
+   "files": [
+    "2026-11-01/13911.jsonl",
+    "2026-11-01/13911.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13912,
+   "sha256": "a9d0f1fd5b6b10ee18feae6cf00bac9f344b19d37a198f83a00b431465e84cb3",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T01:06:00Z",
+   "files": [
+    "2026-11-01/13912.jsonl",
+    "2026-11-01/13912.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13913,
+   "sha256": "b92b1fe9f810f3bf2be7769ca872cd974aefaae79c5347ce443b0eaf0c574a37",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T01:21:00Z",
+   "files": [
+    "2026-11-01/13913.jsonl",
+    "2026-11-01/13913.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13914,
+   "sha256": "434542a9cbca85961b5d77fd3fc4193e0aaf6de6f37b13ae7e0075e3c28213ab",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T01:36:00Z",
+   "files": [
+    "2026-11-01/13914.jsonl",
+    "2026-11-01/13914.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13915,
+   "sha256": "17cb74b16792bc22bf58bb1ee3acd049e31880faabff89a1346eb9d200664ad4",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T01:36:01Z",
+   "files": [
+    "2026-11-01/13915.jsonl",
+    "2026-11-01/13915.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13916,
+   "sha256": "333e611bb8553b5df8b9830aef5a57276572023e4a22d282268b4b8265423614",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T02:06:00Z",
+   "files": [
+    "2026-11-01/13916.jsonl",
+    "2026-11-01/13916.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13917,
+   "sha256": "eb7108768a8a94ab62ce7c765ac1adfa65d217adbf6afb3b01c681c72e18b3b3",
+   "picks": 4,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T02:06:01Z",
+   "files": [
+    "2026-11-01/13917.jsonl",
+    "2026-11-01/13917.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13918,
+   "sha256": "c68e2a6def131046cfd95e226648d60b1de1d6a5fce2dd366052de629ee47511",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T02:06:02Z",
+   "files": [
+    "2026-11-01/13918.jsonl",
+    "2026-11-01/13918.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13919,
+   "sha256": "407847c775cacb708ed08bb86403332f59eee3423ba0c845229a4050713add68",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T02:11:00Z",
+   "files": [
+    "2026-11-01/13919.jsonl",
+    "2026-11-01/13919.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13920,
+   "sha256": "b5619a7c57f85310879ef0699491d6286648eca2caf47db2c4d3a521805222ea",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T02:36:00Z",
+   "files": [
+    "2026-11-01/13920.jsonl",
+    "2026-11-01/13920.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13921,
+   "sha256": "8e4f9bfbd2a39b6800b0fb081199f36dbb3234c7a915df7e070fb9573ea41f9e",
+   "picks": 3,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T02:41:00Z",
+   "files": [
+    "2026-11-01/13921.jsonl",
+    "2026-11-01/13921.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13922,
+   "sha256": "f7de50b083d7eca9b3f005cf1460650d50f342e1e4134e925db0f95faed3eead",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T03:06:00Z",
+   "files": [
+    "2026-11-01/13922.jsonl",
+    "2026-11-01/13922.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13923,
+   "sha256": "07f8bab5a7330b412fb1d9a51f9f78af0140a23bfc9219a20a03d803f7276681",
+   "picks": 5,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T03:06:00Z",
+   "files": [
+    "2026-11-01/13923.jsonl",
+    "2026-11-01/13923.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13924,
+   "sha256": "5ed13ac3646442d10f66dc420cee629b0a9ae0a9a39b5a42f17c8265bfaa7ffe",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T03:06:01Z",
+   "files": [
+    "2026-11-01/13924.jsonl",
+    "2026-11-01/13924.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13925,
+   "sha256": "419cf3a2107fee19acfbbb4bbe770ba218e1a4af0f85fa5eae27fc8ecc311cff",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T03:11:00Z",
+   "files": [
+    "2026-11-01/13925.jsonl",
+    "2026-11-01/13925.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13926,
+   "sha256": "3c86177b783eb57f6ab2e8e5d1eaa9026d80657c2aa0bdca0574182f4c9515b2",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T03:36:00Z",
+   "files": [
+    "2026-11-01/13926.jsonl",
+    "2026-11-01/13926.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13927,
+   "sha256": "a72c3cc26221e6d4c07ba95cfeb15fa1fe970f66aba508b64858eeb104d2aaac",
+   "picks": 4,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T03:36:00Z",
+   "files": [
+    "2026-11-01/13927.jsonl",
+    "2026-11-01/13927.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13928,
+   "sha256": "95d1c597152add6313c333f51ba29282f2ae0d121eafdaae21adb218e14e0e3e",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T03:41:00Z",
+   "files": [
+    "2026-11-01/13928.jsonl",
+    "2026-11-01/13928.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13929,
+   "sha256": "773935f39e6665fe00a45b172863f75020d951e90f41b6f6f5d705b54a947ad0",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T03:46:00Z",
+   "files": [
+    "2026-11-01/13929.jsonl",
+    "2026-11-01/13929.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13930,
+   "sha256": "96668f8ad0dfbe4cc878fd1150f66fa28344b977c33e9e349afbdd62df92c3aa",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T04:06:00Z",
+   "files": [
+    "2026-11-01/13930.jsonl",
+    "2026-11-01/13930.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13931,
+   "sha256": "e0fdf7e41c0bb1aed5276f167e0d8634bad2777336765bb391c451c5570ae93a",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T04:41:00Z",
+   "files": [
+    "2026-11-01/13931.jsonl",
+    "2026-11-01/13931.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13932,
+   "sha256": "1b7ef58bfaa0d015e20adaaed6a9152a6afe918f3fc26b62b834addb87279ff4",
+   "picks": 2,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T05:06:00Z",
+   "files": [
+    "2026-11-01/13932.jsonl",
+    "2026-11-01/13932.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13933,
+   "sha256": "1596c6d58a0509f107a8969cfd3e49011f90f0fa63d61d424f32e023b8416373",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T05:06:00Z",
+   "files": [
+    "2026-11-01/13933.jsonl",
+    "2026-11-01/13933.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13934,
+   "sha256": "60ad7dc008e689ef6c34d4c421baa05546833d1c1349e74f4f313ab37f7418eb",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T05:06:01Z",
+   "files": [
+    "2026-11-01/13934.jsonl",
+    "2026-11-01/13934.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13935,
+   "sha256": "e0169b10469b267cd7e1085b2c158c230309fe48306472725a6c32783e191f9f",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T05:36:00Z",
+   "files": [
+    "2026-11-01/13935.jsonl",
+    "2026-11-01/13935.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13936,
+   "sha256": "0d7759b69402f0d2807330e47784b52bada08464872e685e6f7aa60c923a8e6e",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T05:36:01Z",
+   "files": [
+    "2026-11-01/13936.jsonl",
+    "2026-11-01/13936.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13937,
+   "sha256": "cc27674d3def4e929d60721d7458331d2306501cd8a5e0c99f4dac5aa400ad88",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T05:36:02Z",
+   "files": [
+    "2026-11-01/13937.jsonl",
+    "2026-11-01/13937.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13938,
+   "sha256": "179fc1abcde6524ff19a85c3ab2d6e7e37d339423dbbfdeb054f8c57ca0827db",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T05:36:02Z",
+   "files": [
+    "2026-11-01/13938.jsonl",
+    "2026-11-01/13938.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13939,
+   "sha256": "f4482e0ccba1f3a9615323dfa055213a57f37022abb6c1373ef839e6d9f032bd",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:06:00Z",
+   "files": [
+    "2026-11-01/13939.jsonl",
+    "2026-11-01/13939.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13940,
+   "sha256": "66134edcfe0b7b0fb5d12e28dad4ec0055c726b1349f2e755eb66dce1f9a03a4",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:06:01Z",
+   "files": [
+    "2026-11-01/13940.jsonl",
+    "2026-11-01/13940.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13941,
+   "sha256": "d26d46a3f9ddaa6ad70511ce22be2267aab9c54e939827478e587265c69c91b3",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:06:01Z",
+   "files": [
+    "2026-11-01/13941.jsonl",
+    "2026-11-01/13941.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13942,
+   "sha256": "e6a2447da15838412eeeca3322a95b044ec1935de6db3e4c9ec3833614e0de41",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:06:02Z",
+   "files": [
+    "2026-11-01/13942.jsonl",
+    "2026-11-01/13942.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13943,
+   "sha256": "12d1c85f54f094d4fdcb000ccd60e33727725bedc65f489382d4bce1d9e9c2d9",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:11:01Z",
+   "files": [
+    "2026-11-01/13943.jsonl",
+    "2026-11-01/13943.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13944,
+   "sha256": "4f24f9339b2a43a1b6c5c22b2c099227a8a9b93678261ef6cdc68ce23d6f6b38",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:14:38Z",
+   "files": [
+    "2026-11-01/13944.jsonl",
+    "2026-11-01/13944.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13945,
+   "sha256": "bf6dca876e52607a1729941ad13631648bcb9e2752a7caea95844987561403f2",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:14:38Z",
+   "files": [
+    "2026-11-01/13945.jsonl",
+    "2026-11-01/13945.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13946,
+   "sha256": "211f215f14f454bf9638c7c7b903296464c8290fc8fa2d0e8238ea6adb978392",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:36:00Z",
+   "files": [
+    "2026-11-01/13946.jsonl",
+    "2026-11-01/13946.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13947,
+   "sha256": "b60453bf072f2e7ee5c0d03b9312b86dbaf032b74be906ede598cc85e4eba0b1",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:36:01Z",
+   "files": [
+    "2026-11-01/13947.jsonl",
+    "2026-11-01/13947.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13948,
+   "sha256": "14cd4bfb1149459278d9bbdc309ea28f73f5bf19724bb11a7a400a1695bcbd0e",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:36:01Z",
+   "files": [
+    "2026-11-01/13948.jsonl",
+    "2026-11-01/13948.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13949,
+   "sha256": "f9ee64910d4b3b3342548a21974856574c4ccb6bbe99c6659b64ac1c1c11bece",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:36:02Z",
+   "files": [
+    "2026-11-01/13949.jsonl",
+    "2026-11-01/13949.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13950,
+   "sha256": "50febc62ede90ab443857557ec7aeefc5cc782317f83a79230df23653e48a0ff",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:36:02Z",
+   "files": [
+    "2026-11-01/13950.jsonl",
+    "2026-11-01/13950.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13951,
+   "sha256": "1d1b89a479812da2ef095dfd27eba4acf94461032cdc41551f6ecc3506ff844b",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:36:03Z",
+   "files": [
+    "2026-11-01/13951.jsonl",
+    "2026-11-01/13951.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13952,
+   "sha256": "cb245155e24a225a41fabcf86ab3f86e1515c35b3cd1ab8ea457ad1bd5167838",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:36:03Z",
+   "files": [
+    "2026-11-01/13952.jsonl",
+    "2026-11-01/13952.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13953,
+   "sha256": "b76c50a883a536f47100db059c3c668a6ccc3022fd77920ccb27893892c44aca",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T06:36:04Z",
+   "files": [
+    "2026-11-01/13953.jsonl",
+    "2026-11-01/13953.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13954,
+   "sha256": "394eed16f009ce038f635543ea8b0627eb476c5073b617678bf72541119b4272",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T07:06:00Z",
+   "files": [
+    "2026-11-01/13954.jsonl",
+    "2026-11-01/13954.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13955,
+   "sha256": "2870813e25985e82f9a85400fbacb1af84659bc989310dc3c7d5e9da7361469c",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T07:14:46Z",
+   "files": [
+    "2026-11-01/13955.jsonl",
+    "2026-11-01/13955.tsr"
+   ],
+   "vip": true
+  },
+  {
+   "batch_id": 13956,
+   "sha256": "b8eb51bfefd31a58c5a4dd2b8940d5bc0834423a5c8b7352661a85ea98d6eada",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T07:36:00Z",
+   "files": [
+    "2026-11-01/13956.jsonl",
+    "2026-11-01/13956.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13957,
+   "sha256": "8658a06d879694fe562c1e127bcc603e979fbaa2d09f4329ad700f888b919c6f",
+   "picks": 2,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T07:36:01Z",
+   "files": [
+    "2026-11-01/13957.jsonl",
+    "2026-11-01/13957.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13958,
+   "sha256": "10e88641d9d6a85e6af6e5fa9bec761b799590c35a487f779f52d64a285f4ebe",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T07:36:02Z",
+   "files": [
+    "2026-11-01/13958.jsonl",
+    "2026-11-01/13958.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13959,
+   "sha256": "9d02175329e4071251b719e50bc86ade01aa936b8598eeaad90a171ac8439906",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T07:41:00Z",
+   "files": [
+    "2026-11-01/13959.jsonl",
+    "2026-11-01/13959.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13960,
+   "sha256": "a800de299e0346d63c07f89e252ad4623b7bca204c7cc4e7f50a249baf306a8d",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T07:45:13Z",
+   "files": [
+    "2026-11-01/13960.jsonl",
+    "2026-11-01/13960.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13961,
+   "sha256": "2294b97c5d86b010e5737173d7ba885844189c8207d01581aff1c8102fa2b138",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T08:06:00Z",
+   "files": [
+    "2026-11-01/13961.jsonl",
+    "2026-11-01/13961.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13962,
+   "sha256": "7cd1ece10b82937562fa7c1d59030c90c3fca73908911b0abf688d038de36bee",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T08:06:01Z",
+   "files": [
+    "2026-11-01/13962.jsonl",
+    "2026-11-01/13962.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13963,
+   "sha256": "17b16e4b28ed62356f8703bddabe4d433864ffe1b7aea1e9c761c11f36500c75",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T08:06:01Z",
+   "files": [
+    "2026-11-01/13963.jsonl",
+    "2026-11-01/13963.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13964,
+   "sha256": "eaf1ffe80424931e99ef7bb56c31e66dec1b6ec51e66772f91c09450964f3b92",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T08:11:00Z",
+   "files": [
+    "2026-11-01/13964.jsonl",
+    "2026-11-01/13964.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13965,
+   "sha256": "fd4499f096bfa68a6a4c041a48375c56a681872f63180da2482c233a55be5bdd",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T08:11:01Z",
+   "files": [
+    "2026-11-01/13965.jsonl",
+    "2026-11-01/13965.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13966,
+   "sha256": "a31754b9d9ef4f8abd1af91bf3799ca0c3e118d5d55891b36d7f1ca6bec00f1c",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T08:11:01Z",
+   "files": [
+    "2026-11-01/13966.jsonl",
+    "2026-11-01/13966.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13967,
+   "sha256": "10f8ac967548ad3fd7499f45634f220135db2124779a5c04072301b81fc6054c",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T08:14:49Z",
+   "files": [
+    "2026-11-01/13967.jsonl",
+    "2026-11-01/13967.tsr"
+   ],
+   "vip": true
+  },
+  {
+   "batch_id": 13968,
+   "sha256": "7433d5b61f3badd63f2568d4f0018bd1f4af8e1deeaf3ed7f6ff1021fc896924",
+   "picks": 3,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T08:36:00Z",
+   "files": [
+    "2026-11-01/13968.jsonl",
+    "2026-11-01/13968.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13969,
+   "sha256": "964457f0ebcb6539963fdcd8c3a75f02ad29eb1e8966de1585e15731388269d5",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T08:36:01Z",
+   "files": [
+    "2026-11-01/13969.jsonl",
+    "2026-11-01/13969.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13970,
+   "sha256": "7408a70dcc3421329d22020ef208655560bd2908cbfd8626b530b8b67ebf35d4",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T08:41:00Z",
+   "files": [
+    "2026-11-01/13970.jsonl",
+    "2026-11-01/13970.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13971,
+   "sha256": "4b74f94af624f76a57ac1bec272893decf8439e4b0cff2d62ec026bfb27b4963",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T08:41:01Z",
+   "files": [
+    "2026-11-01/13971.jsonl",
+    "2026-11-01/13971.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13972,
+   "sha256": "9765b66bda42f26b1e3c104e5c58b925e716a0a01b638b29c94ceeddc3be3520",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T09:06:01Z",
+   "files": [
+    "2026-11-01/13972.jsonl",
+    "2026-11-01/13972.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13973,
+   "sha256": "6a1ecf82e0702129e81210df71acfea25cf93f14ff01492a95d5c50889b0ab74",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T09:06:02Z",
+   "files": [
+    "2026-11-01/13973.jsonl",
+    "2026-11-01/13973.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13974,
+   "sha256": "f5a355c128315073b2a98128d21d60e0e952a1a19a239c444f178960c3cf046f",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T09:11:00Z",
+   "files": [
+    "2026-11-01/13974.jsonl",
+    "2026-11-01/13974.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13975,
+   "sha256": "f0942d0456cfb18ce9cef18dd695f03fd106caa87266a38159c94c7caef9c973",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T09:21:01Z",
+   "files": [
+    "2026-11-01/13975.jsonl",
+    "2026-11-01/13975.tsr"
+   ],
+   "vip": true
+  },
+  {
+   "batch_id": 13976,
+   "sha256": "38a80b36598f4dad9315bfee9e665902651a46a7b5c7a85176076341fcfefc65",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T09:36:00Z",
+   "files": [
+    "2026-11-01/13976.jsonl",
+    "2026-11-01/13976.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13977,
+   "sha256": "860c4ea52bdc8effac7f9849b4360861274ac067854bdfe0c0bb8e31b5d1fe87",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T09:36:01Z",
+   "files": [
+    "2026-11-01/13977.jsonl",
+    "2026-11-01/13977.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13978,
+   "sha256": "1867f60a4c7b0250261bc8293a2c255ea1b4b1393cdad8e12db8543273919d01",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T10:11:00Z",
+   "files": [
+    "2026-11-01/13978.jsonl",
+    "2026-11-01/13978.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13979,
+   "sha256": "67e7cab9b6e7704fd64073812957b2cb5942ba8dbc7c1bf4a3b3c35400df3a19",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T10:11:01Z",
+   "files": [
+    "2026-11-01/13979.jsonl",
+    "2026-11-01/13979.tsr"
+   ],
+   "vip": true
+  },
+  {
+   "batch_id": 13980,
+   "sha256": "a4a2c422110130aaf398c3f68fb6a3d990d7b17c5b52dfb862a144ebd5e2c30c",
+   "picks": 2,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T10:41:00Z",
+   "files": [
+    "2026-11-01/13980.jsonl",
+    "2026-11-01/13980.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13981,
+   "sha256": "65c43b423974bad7ba36bb5633cdbe065857a3f7079e93ffff1ce6882c492c88",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T10:45:26Z",
+   "files": [
+    "2026-11-01/13981.jsonl",
+    "2026-11-01/13981.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13982,
+   "sha256": "076d57eab3efff96779b2ec5b17f90d2be2ac2ac4c4a6de37af15a9bb06a1c6a",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T11:11:00Z",
+   "files": [
+    "2026-11-01/13982.jsonl",
+    "2026-11-01/13982.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13983,
+   "sha256": "f66f87c5c0377e3b7bd91763270bbc2accf849f9f53176a6471adc1848a7206a",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T11:11:02Z",
+   "files": [
+    "2026-11-01/13983.jsonl",
+    "2026-11-01/13983.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13984,
+   "sha256": "753802ad2539c7a44b519b4f26d117f52252b33ae2ed57d4624b4b3241fcb7ff",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T11:11:02Z",
+   "files": [
+    "2026-11-01/13984.jsonl",
+    "2026-11-01/13984.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13985,
+   "sha256": "66f6518132fce178cccc4b8f148ba0a89d92545e8a1eaa0f5c1c945788f5a1cb",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T11:11:03Z",
+   "files": [
+    "2026-11-01/13985.jsonl",
+    "2026-11-01/13985.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13986,
+   "sha256": "5760329725faed54efa1ce8d10eff6bbc0ed8a5019313215c3efab38b70c28b7",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T11:36:00Z",
+   "files": [
+    "2026-11-01/13986.jsonl",
+    "2026-11-01/13986.tsr"
+   ],
+   "vip": true
+  },
+  {
+   "batch_id": 13987,
+   "sha256": "0d664ab10728f5de627f5963fc888ea9313c0c50f7b1939c1c61cf121c85c449",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T11:41:01Z",
+   "files": [
+    "2026-11-01/13987.jsonl",
+    "2026-11-01/13987.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13988,
+   "sha256": "d74ccf0ffdd37e07f998bb9cd4b8b51634a02fe5225ce9d8575f0633ffb1eb3b",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T11:41:02Z",
+   "files": [
+    "2026-11-01/13988.jsonl",
+    "2026-11-01/13988.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13989,
+   "sha256": "b3b3399376d3a827d79417fd7278e352d999a761c9cc63bd1450eb1da6f18939",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T11:51:01Z",
+   "files": [
+    "2026-11-01/13989.jsonl",
+    "2026-11-01/13989.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13990,
+   "sha256": "71a757063d895bc055853ab76eb3bbdc19a3b809e51bbecb2ec5f91e7f8df4bc",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T12:06:01Z",
+   "files": [
+    "2026-11-01/13990.jsonl",
+    "2026-11-01/13990.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13991,
+   "sha256": "d0fe38499d57e316c688358aa16f8383b0cfac2b9cfa542a1afeacf1dbe1cf8e",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T12:11:00Z",
+   "files": [
+    "2026-11-01/13991.jsonl",
+    "2026-11-01/13991.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13992,
+   "sha256": "e46026dd3c7831625284e22a2940bf4d34e5c8b8589976ea732ab7affc9e388f",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T12:11:01Z",
+   "files": [
+    "2026-11-01/13992.jsonl",
+    "2026-11-01/13992.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13993,
+   "sha256": "026b1c662125a1a94d3eb35750e7acb3456163d844d555df166ba3d0e58e7db2",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T12:41:00Z",
+   "files": [
+    "2026-11-01/13993.jsonl",
+    "2026-11-01/13993.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13994,
+   "sha256": "ca1a81f3a5544fb94ba563c26cbd0c1e2d55fe1aeeb4026b263ebdbb4034e7c9",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T12:45:45Z",
+   "files": [
+    "2026-11-01/13994.jsonl",
+    "2026-11-01/13994.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13995,
+   "sha256": "85462077aa57402c6f950600742bd6ae0803672ae6dcf6a123404cc4995616ec",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T13:11:00Z",
+   "files": [
+    "2026-11-01/13995.jsonl",
+    "2026-11-01/13995.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13996,
+   "sha256": "6c36a665e53017642ff118603023533765097d563700c7c1b7ee2846282d09d5",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T13:11:01Z",
+   "files": [
+    "2026-11-01/13996.jsonl",
+    "2026-11-01/13996.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13998,
+   "sha256": "62ed03b851f85a5fed476de8c459fef5222fb75b21db2c1c58d1d1d718812800",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T15:06:00Z",
+   "files": [
+    "2026-11-01/13998.jsonl",
+    "2026-11-01/13998.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 13999,
+   "sha256": "fe58dd280948e239f27feee2eb174cb251b1a3ae610835ae819967b1edb53d26",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T15:11:00Z",
+   "files": [
+    "2026-11-01/13999.jsonl",
+    "2026-11-01/13999.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 14000,
+   "sha256": "39804cf7c44011aa39a10d24b55284e539c51a055e89ff360d3a4158b82b4e14",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T15:36:00Z",
+   "files": [
+    "2026-11-01/14000.jsonl",
+    "2026-11-01/14000.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 14001,
+   "sha256": "6d03dc37162925c5f3a818e49a79c7ecf78fe3d880fa3ffdf4e54edea6c33f12",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T16:36:00Z",
+   "files": [
+    "2026-11-01/14001.jsonl",
+    "2026-11-01/14001.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 14002,
+   "sha256": "df4b1de803fc73aceb7d31a001d17618e9bbe2ad5534ba906650f97a76c23abe",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T16:36:01Z",
+   "files": [
+    "2026-11-01/14002.jsonl",
+    "2026-11-01/14002.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 14003,
+   "sha256": "7fa741da18d89a93b2fd32e50406907d85f072a482087a1197c325fa170bf2be",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T16:36:01Z",
+   "files": [
+    "2026-11-01/14003.jsonl",
+    "2026-11-01/14003.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 14004,
+   "sha256": "6418c1e2606b1dba14b00fbede651a909b3b35d24020cb5c36c697c4397329b2",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T16:36:02Z",
+   "files": [
+    "2026-11-01/14004.jsonl",
+    "2026-11-01/14004.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 14005,
+   "sha256": "03f498351f362328bc2015d93789b85eff54b0681e91886388d727285c50b3b9",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T17:36:00Z",
+   "files": [
+    "2026-11-01/14005.jsonl",
+    "2026-11-01/14005.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 14006,
+   "sha256": "29f27ab9bbdec53fc5f74f0deaefc7df0703f42bc599fde72f1b771ce23fa643",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T18:06:00Z",
+   "files": [
+    "2026-11-01/14006.jsonl",
+    "2026-11-01/14006.tsr"
+   ],
+   "vip": true
+  },
+  {
+   "batch_id": 14007,
+   "sha256": "b2a6202dbdb352de77846de9cf759cd103ba9d4cc8f9d7a2d5d4d64b9fb16fde",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T18:36:00Z",
+   "files": [
+    "2026-11-01/14007.jsonl",
+    "2026-11-01/14007.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 14008,
+   "sha256": "e1d6e08aaa692742aaccd58456aa27eb356c991b860008c74d37ec048871a60d",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T19:06:00Z",
+   "files": [
+    "2026-11-01/14008.jsonl",
+    "2026-11-01/14008.tsr"
+   ],
+   "vip": true
+  },
+  {
+   "batch_id": 14009,
+   "sha256": "56b8b89858857be82f14235aa3e11dfae71752bef61f74039448d8850fa656bc",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T20:06:00Z",
+   "files": [
+    "2026-11-01/14009.jsonl",
+    "2026-11-01/14009.tsr"
+   ],
+   "vip": false
+  },
+  {
+   "batch_id": 14010,
+   "sha256": "6f19d640d3494c38139155c255266e773dd9da0d1131430eb77dce5f326dc2ff",
+   "picks": 1,
+   "tsa": "http://timestamp.digicert.com",
+   "tsa_time_utc": "2026-11-01T20:36:00Z",
+   "files": [
+    "2026-11-01/14010.jsonl",
+    "2026-11-01/14010.tsr"
    ],
    "vip": false
   }
