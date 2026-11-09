@@ -2,49 +2,49 @@
   "min_sample_each_side": 50,
   "our_stats_matched_window": {
     "basis": "landing headline: every pick logged before kick-off (bot_ledger_headline, #235), public price, ACTIVE non-VIP bots",
-    "ci_high_pct": 9.37,
-    "ci_low_pct": 0.62,
-    "n": 2010,
-    "roi_pct": 5.0,
-    "window_end": "2026-11-04",
+    "ci_high_pct": 8.81,
+    "ci_low_pct": 0.2,
+    "n": 2080,
+    "roi_pct": 4.5,
+    "window_end": "2026-11-07",
     "window_start": "2026-09-27"
   },
   "our_stats_same_window": {
     "avg_odds": 1.964,
-    "coverage_pct": 97.8,
-    "hit_rate_pct": 54.22,
-    "hit_rate_pct_recorded_all_rows": 54.04,
-    "n": 2357,
-    "n_total_settled": 2411,
-    "pnl_total": 321.95,
+    "coverage_pct": 97.7,
+    "hit_rate_pct": 54.23,
+    "hit_rate_pct_recorded_all_rows": 54.08,
+    "n": 2386,
+    "n_total_settled": 2441,
+    "pnl_total": 319.65,
     "priced_at": "best price live at pick time",
     "restatement_note": "roi_pct is priced at odds that were live at pick time. roi_pct_recorded is the same bets at the stored odds_at_pick, which STALE-BEST-ODDS-2026-09-02 showed to be a high-water mark across the whole snapshot history rather than a price on offer.",
-    "roi_pct": 1.37,
-    "roi_pct_recorded": 4.29,
-    "roi_pct_recorded_all_rows": 4.06,
-    "stake_total": 23570.0
+    "roi_pct": 1.34,
+    "roi_pct_recorded": 4.24,
+    "roi_pct_recorded_all_rows": 4.08,
+    "stake_total": 23860.0
   },
   "reproducible_via": "scripts/audit_vs_winnerodds.py",
   "scope_notes": "WinnerOdds picks pulled from their public GraphQL endpoint (period=12, FOOTBALL). their_stats is the COMPARABLE subset: their 1X2 + OU 2.5 picks only, re-settled at \u20ac10 flat to match our staking. WINNERODDS-MARKET-RESOLVE 2026-09-02 \u2014 this used to publish their all-markets figure against our 1X2+OU2.5 figure, which is not the same measurement: 47% of their bets are Asian Handicap (a market we do not model) and 16% are OU 3.5, and they stake Kelly-style (mean \u20ac37) where we stake flat. Their all-markets number is kept as their_stats_all_markets, and the full split as their_by_market. OddsIntel cohort: production strategies (calibrated+beta+active maturity), 1X2 + OU 2.5, settled (won/lost), \u20ac10 flat, inplay_* excluded.",
-  "snapshot_at_utc": "2026-11-08T08:57:07.227565+00:00",
+  "snapshot_at_utc": "2026-11-09T09:35:10.357495+00:00",
   "source": "WinnerOdds",
   "source_url": "https://winnerodds.com",
   "status": "ok",
   "their_by_market": {
     "1x2": {
-      "hit_rate_pct": 50.98,
-      "n": 867,
-      "roi_pct": 11.3
+      "hit_rate_pct": 50.96,
+      "n": 887,
+      "roi_pct": 11.64
     },
     "asian_handicap": {
-      "hit_rate_pct": 62.06,
-      "n": 1534,
-      "roi_pct": 1.29
+      "hit_rate_pct": 62.32,
+      "n": 1571,
+      "roi_pct": 1.48
     },
     "over_under_25": {
-      "hit_rate_pct": 51.45,
-      "n": 344,
-      "roi_pct": 5.28
+      "hit_rate_pct": 51.0,
+      "n": 351,
+      "roi_pct": 4.67
     },
     "over_under_35": {
       "hit_rate_pct": 55.43,
@@ -53,28 +53,28 @@
     }
   },
   "their_stats": {
-    "avg_clv_pct": 0.1396,
-    "ci_high_pct": 16.65,
-    "ci_low_pct": 2.54,
-    "hit_rate_pct": 51.11,
-    "n": 1211,
-    "pnl_total": 1161.63,
-    "roi_pct": 9.59,
-    "stake_total": 12110.0,
-    "window_end": "2026-11-04",
+    "avg_clv_pct": 0.1393,
+    "ci_high_pct": 16.66,
+    "ci_low_pct": 2.67,
+    "hit_rate_pct": 50.97,
+    "n": 1238,
+    "pnl_total": 1196.82,
+    "roi_pct": 9.67,
+    "stake_total": 12380.0,
+    "window_end": "2026-11-07",
     "window_start": "2026-05-04"
   },
   "their_stats_all_markets": {
-    "avg_clv_pct": 0.1396,
-    "hit_rate_pct": 56.99,
-    "n": 3531,
-    "pnl_total": 4012.55,
-    "roi_pct": 2.82,
-    "stake_total": 142043.65,
+    "avg_clv_pct": 0.1393,
+    "hit_rate_pct": 57.06,
+    "n": 3607,
+    "pnl_total": 3974.08,
+    "roi_pct": 2.74,
+    "stake_total": 144991.2,
     "staking": "their own (Kelly-style, variable)"
   },
   "window": {
-    "end": "2026-11-09",
+    "end": "2026-11-10",
     "start": "2026-05-04"
   }
 }
