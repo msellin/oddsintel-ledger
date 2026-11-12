@@ -1,4 +1,6 @@
 source,kickoff_date,league,home_team,away_team,market,pick,odds,result,pnl_per_unit,ref_url
+winnerodds,2026-11-05,Israel,,,asian_handicap,ah-0_2,1.666,void,0.0000,https://winnerodds.com
+winnerodds,2026-11-03,Spain,,,asian_handicap,ah-0_1,1.420,void,0.0000,https://winnerodds.com
 winnerodds,2026-11-03,Spain,,,1x2,1,2.800,won,1.8000,https://winnerodds.com
 winnerodds,2026-11-07,Belgium,,,over_under_35,u3.5,1.690,won,0.6900,https://winnerodds.com
 winnerodds,2026-11-06,Germany,,,asian_handicap,ah-0_1,1.222,won,0.2220,https://winnerodds.com
