@@ -1,4 +1,9 @@
 source,kickoff_date,league,home_team,away_team,market,pick,odds,result,pnl_per_unit,ref_url
+winnerodds,2026-11-07,El Salvador,,,asian_handicap,ah-0_2,4.333,won,3.3330,https://winnerodds.com
+winnerodds,2026-11-04,Guatemala,,,asian_handicap,ah-0_1,1.250,won,0.2500,https://winnerodds.com
+winnerodds,2026-11-05,Portugal,,,asian_handicap,ah-0_2,1.650,won,0.6500,https://winnerodds.com
+winnerodds,2026-11-06,Belgium,,,1x2,2,2.900,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-06,Belgium,,,1x2,2,1.660,won,0.6600,https://winnerodds.com
 winnerodds,2026-11-05,Israel,,,asian_handicap,ah-0_2,1.666,void,0.0000,https://winnerodds.com
 winnerodds,2026-11-03,Spain,,,asian_handicap,ah-0_1,1.420,void,0.0000,https://winnerodds.com
 winnerodds,2026-11-03,Spain,,,1x2,1,2.800,won,1.8000,https://winnerodds.com
