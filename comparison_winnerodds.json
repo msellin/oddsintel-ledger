@@ -10,36 +10,36 @@
     "window_start": "2026-09-27"
   },
   "our_stats_same_window": {
-    "avg_odds": 1.964,
+    "avg_odds": 1.966,
     "coverage_pct": 97.7,
-    "hit_rate_pct": 54.2,
-    "hit_rate_pct_recorded_all_rows": 54.1,
-    "n": 2441,
-    "n_total_settled": 2499,
-    "pnl_total": 297.65,
+    "hit_rate_pct": 54.15,
+    "hit_rate_pct_recorded_all_rows": 54.05,
+    "n": 2447,
+    "n_total_settled": 2505,
+    "pnl_total": 283.85,
     "priced_at": "best price live at pick time",
     "restatement_note": "roi_pct is priced at odds that were live at pick time. roi_pct_recorded is the same bets at the stored odds_at_pick, which STALE-BEST-ODDS-2026-09-02 showed to be a high-water mark across the whole snapshot history rather than a price on offer.",
-    "roi_pct": 1.22,
-    "roi_pct_recorded": 4.08,
-    "roi_pct_recorded_all_rows": 4.09,
-    "stake_total": 24410.0
+    "roi_pct": 1.16,
+    "roi_pct_recorded": 4.01,
+    "roi_pct_recorded_all_rows": 4.02,
+    "stake_total": 24470.0
   },
   "reproducible_via": "scripts/audit_vs_winnerodds.py",
   "scope_notes": "WinnerOdds picks pulled from their public GraphQL endpoint (period=12, FOOTBALL). their_stats is the COMPARABLE subset: their 1X2 + OU 2.5 picks only, re-settled at \u20ac10 flat to match our staking. WINNERODDS-MARKET-RESOLVE 2026-09-02 \u2014 this used to publish their all-markets figure against our 1X2+OU2.5 figure, which is not the same measurement: 47% of their bets are Asian Handicap (a market we do not model) and 16% are OU 3.5, and they stake Kelly-style (mean \u20ac37) where we stake flat. Their all-markets number is kept as their_stats_all_markets, and the full split as their_by_market. OddsIntel cohort: production strategies (calibrated+beta+active maturity), 1X2 + OU 2.5, settled (won/lost), \u20ac10 flat, inplay_* excluded.",
-  "snapshot_at_utc": "2026-11-17T10:34:09.254873+00:00",
+  "snapshot_at_utc": "2026-11-18T10:08:03.840186+00:00",
   "source": "WinnerOdds",
   "source_url": "https://winnerodds.com",
   "status": "ok",
   "their_by_market": {
     "1x2": {
-      "hit_rate_pct": 51.19,
-      "n": 924,
-      "roi_pct": 11.92
+      "hit_rate_pct": 51.24,
+      "n": 925,
+      "roi_pct": 12.54
     },
     "asian_handicap": {
-      "hit_rate_pct": 62.44,
-      "n": 1616,
-      "roi_pct": 1.73
+      "hit_rate_pct": 62.45,
+      "n": 1619,
+      "roi_pct": 1.74
     },
     "over_under_25": {
       "hit_rate_pct": 50.67,
@@ -47,34 +47,34 @@
       "roi_pct": 3.87
     },
     "over_under_35": {
-      "hit_rate_pct": 55.78,
-      "n": 441,
-      "roi_pct": -2.47
+      "hit_rate_pct": 55.66,
+      "n": 442,
+      "roi_pct": -2.69
     }
   },
   "their_stats": {
-    "avg_clv_pct": 0.1424,
-    "ci_high_pct": 16.43,
-    "ci_low_pct": 2.8,
-    "hit_rate_pct": 51.04,
-    "n": 1295,
-    "pnl_total": 1245.12,
-    "roi_pct": 9.61,
-    "stake_total": 12950.0,
+    "avg_clv_pct": 0.1465,
+    "ci_high_pct": 16.92,
+    "ci_low_pct": 3.2,
+    "hit_rate_pct": 51.08,
+    "n": 1296,
+    "pnl_total": 1304.02,
+    "roi_pct": 10.06,
+    "stake_total": 12960.0,
     "window_end": "2026-11-12",
     "window_start": "2026-05-04"
   },
   "their_stats_all_markets": {
-    "avg_clv_pct": 0.1424,
+    "avg_clv_pct": 0.1465,
     "hit_rate_pct": 57.16,
-    "n": 3730,
-    "pnl_total": 4527.76,
-    "roi_pct": 3.04,
-    "stake_total": 149051.95,
+    "n": 3736,
+    "pnl_total": 4627.18,
+    "roi_pct": 3.1,
+    "stake_total": 149299.6,
     "staking": "their own (Kelly-style, variable)"
   },
   "window": {
-    "end": "2026-11-18",
+    "end": "2026-11-19",
     "start": "2026-05-04"
   }
 }

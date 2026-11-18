@@ -1,4 +1,10 @@
 source,kickoff_date,league,home_team,away_team,market,pick,odds,result,pnl_per_unit,ref_url
+winnerodds,2026-11-13,Belgium,,,over_under_35,u3.5,2.570,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-09,Germany,,,1x2,1,6.890,won,5.8900,https://winnerodds.com
+winnerodds,2026-11-09,Germany,,,asian_handicap,ah-0_1,1.450,void,0.0000,https://winnerodds.com
+winnerodds,2026-11-09,Germany,,,asian_handicap,ah-0_1,1.820,won,0.8200,https://winnerodds.com
+winnerodds,2026-11-13,Austria,,,asian_handicap,ah-0_1,1.470,won,0.4700,https://winnerodds.com
+winnerodds,2026-11-13,Poland,,,asian_handicap,ah-0_1,2.560,lost,-1.0000,https://winnerodds.com
 winnerodds,2026-11-12,Slovenia,,,asian_handicap,ah-0_1,1.142,won,0.1420,https://winnerodds.com
 winnerodds,2026-11-09,El Salvador,,,over_under_25,o2.5,1.830,lost,-1.0000,https://winnerodds.com
 winnerodds,2026-11-12,Egypt,,,over_under_25,o2.5,2.730,lost,-1.0000,https://winnerodds.com
