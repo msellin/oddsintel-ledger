@@ -1,4 +1,7 @@
 source,kickoff_date,league,home_team,away_team,market,pick,odds,result,pnl_per_unit,ref_url
+winnerodds,2026-11-09,Poland,,,1x2,2,1.800,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-09,Poland,,,1x2,2,2.836,won,1.8360,https://winnerodds.com
+winnerodds,2026-11-09,Germany,,,over_under_35,u3.5,1.910,won,0.9100,https://winnerodds.com
 winnerodds,2026-11-13,Turkey,,,1x2,2,4.200,lost,-1.0000,https://winnerodds.com
 winnerodds,2026-11-12,Germany,,,over_under_35,u3.5,1.670,won,0.6700,https://winnerodds.com
 winnerodds,2026-11-12,Germany,,,1x2,2,3.750,lost,-1.0000,https://winnerodds.com
