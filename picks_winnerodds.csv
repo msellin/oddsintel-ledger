@@ -1,4 +1,88 @@
 source,kickoff_date,league,home_team,away_team,market,pick,odds,result,pnl_per_unit,ref_url
+winnerodds,2026-11-15,Germany,,,asian_handicap,ah-0_1,1.440,won,0.4400,https://winnerodds.com
+winnerodds,2026-11-10,Austria,,,asian_handicap,ah-0_1,2.000,won,1.0000,https://winnerodds.com
+winnerodds,2026-11-20,Mauritania,,,over_under_25,o2.5,2.375,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-20,Austria,,,over_under_35,u3.5,2.030,won,1.0300,https://winnerodds.com
+winnerodds,2026-11-20,Poland,,,asian_handicap,ah-0_1,1.390,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-19,Mauritania,,,asian_handicap,ah-0_2,1.833,won,0.8330,https://winnerodds.com
+winnerodds,2026-11-17,Cyprus,,,1x2,1,1.340,won,0.3400,https://winnerodds.com
+winnerodds,2026-11-19,Slovenia,,,asian_handicap,ah-0_1,1.111,won,0.1110,https://winnerodds.com
+winnerodds,2026-11-17,Slovenia,,,asian_handicap,ah-0_1,2.240,void,0.0000,https://winnerodds.com
+winnerodds,2026-11-15,Serbia,,,asian_handicap,ah-0_1,2.240,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-20,Cote d'Ivoire,,,asian_handicap,ah-0_2,3.090,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-17,Bosnia and Herzegovina,,,asian_handicap,ah-0_1,1.166,won,0.1660,https://winnerodds.com
+winnerodds,2026-11-18,Azerbaijan,,,asian_handicap,ah-0_2,1.170,won,0.1700,https://winnerodds.com
+winnerodds,2026-11-20,Algeria,,,over_under_25,o2.5,2.700,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-19,Algeria,,,over_under_25,o2.5,2.500,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-19,Algeria,,,over_under_25,o2.5,2.500,won,1.5000,https://winnerodds.com
+winnerodds,2026-11-18,Algeria,,,asian_handicap,ah-0_2,3.500,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-18,India,,,over_under_25,u2.5,1.900,won,0.9000,https://winnerodds.com
+winnerodds,2026-11-18,Iraq,,,1x2,1,1.790,won,0.7900,https://winnerodds.com
+winnerodds,2026-11-19,United Arab Emirates,,,asian_handicap,ah-0_2,2.000,won,1.0000,https://winnerodds.com
+winnerodds,2026-11-19,Egypt,,,over_under_25,o2.5,2.500,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-18,Egypt,,,asian_handicap,ah-0_2,1.393,won,0.3930,https://winnerodds.com
+winnerodds,2026-11-13,Romania,,,asian_handicap,ah-0_1,1.360,won,0.3600,https://winnerodds.com
+winnerodds,2026-11-18,Vietnam,,,asian_handicap,ah-0_2,4.000,void,0.0000,https://winnerodds.com
+winnerodds,2026-11-20,Hong Kong,,,over_under_35,u3.5,1.900,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-20,Syria,,,asian_handicap,ah-0_2,1.190,won,0.1900,https://winnerodds.com
+winnerodds,2026-11-18,Indonesia,,,asian_handicap,ah-0_2,1.250,won,0.2500,https://winnerodds.com
+winnerodds,2026-11-19,United Arab Emirates,,,over_under_35,u3.5,2.320,won,1.3200,https://winnerodds.com
+winnerodds,2026-11-19,Egypt,,,over_under_35,u3.5,1.200,won,0.2000,https://winnerodds.com
+winnerodds,2026-11-17,Egypt,,,asian_handicap,ah-0_2,1.854,void,0.0000,https://winnerodds.com
+winnerodds,2026-11-17,Scotland,,,asian_handicap,ah+0.5_2,1.115,won,0.1150,https://winnerodds.com
+winnerodds,2026-11-17,Saudi Arabia,,,1x2,2,3.359,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-17,Uganda,,,asian_handicap,ah-0_1,1.533,won,0.5330,https://winnerodds.com
+winnerodds,2026-11-18,Bosnia and Herzegovina,,,asian_handicap,ah-0_1,3.200,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-17,Cameroon,,,asian_handicap,ah-0_1,1.444,won,0.4440,https://winnerodds.com
+winnerodds,2026-11-17,Turkey,,,asian_handicap,ah-0_1,1.290,void,0.0000,https://winnerodds.com
+winnerodds,2026-11-17,Turkey,,,1x2,2,2.550,won,1.5500,https://winnerodds.com
+winnerodds,2026-11-17,Northern Ireland,,,asian_handicap,ah-0_2,1.285,won,0.2850,https://winnerodds.com
+winnerodds,2026-11-15,England,,,asian_handicap,ah-0_1,1.500,won,0.5000,https://winnerodds.com
+winnerodds,2026-11-15,England,,,asian_handicap,ah-0_1,1.300,won,0.3000,https://winnerodds.com
+winnerodds,2026-11-15,England,,,asian_handicap,ah-0_1,1.650,void,0.0000,https://winnerodds.com
+winnerodds,2026-11-16,Croatia,,,asian_handicap,ah-0_2,1.533,won,0.5330,https://winnerodds.com
+winnerodds,2026-11-16,Czech Republic,,,1x2,1,1.330,won,0.3300,https://winnerodds.com
+winnerodds,2026-11-12,Germany,,,1x2,2,1.553,won,0.5530,https://winnerodds.com
+winnerodds,2026-11-12,Iran,,,asian_handicap,ah-0_1,1.800,won,0.8000,https://winnerodds.com
+winnerodds,2026-11-12,Iran,,,1x2,1,2.510,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-12,Iran,,,asian_handicap,ah-0_1,1.700,won,0.7000,https://winnerodds.com
+winnerodds,2026-11-14,Guatemala,,,asian_handicap,ah-0_1,1.363,won,0.3630,https://winnerodds.com
+winnerodds,2026-11-14,El Salvador,,,asian_handicap,ah-0_2,2.750,won,1.7500,https://winnerodds.com
+winnerodds,2026-11-15,Jamaica,,,asian_handicap,ah-0_2,1.260,won,0.2600,https://winnerodds.com
+winnerodds,2026-11-13,Spain,,,over_under_35,u3.5,3.000,won,2.0000,https://winnerodds.com
+winnerodds,2026-11-10,Italy,,,1x2,1,3.200,won,2.2000,https://winnerodds.com
+winnerodds,2026-11-10,Italy,,,1x2,1,1.430,won,0.4300,https://winnerodds.com
+winnerodds,2026-11-08,England,,,1x2,2,4.685,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-08,England,,,over_under_35,u3.5,1.500,won,0.5000,https://winnerodds.com
+winnerodds,2026-11-12,Spain,,,asian_handicap,ah-0_2,2.410,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-14,Netherlands,,,over_under_35,u3.5,2.000,won,1.0000,https://winnerodds.com
+winnerodds,2026-11-12,Netherlands,,,1x2,2,1.250,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-10,Spain,,,1x2,2,4.750,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-15,Ghana,,,asian_handicap,ah-0_1,1.220,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-14,Nigeria,,,asian_handicap,ah-0_1,1.410,won,0.4100,https://winnerodds.com
+winnerodds,2026-11-14,Morocco,,,asian_handicap,ah-0_1,1.710,won,0.7100,https://winnerodds.com
+winnerodds,2026-11-13,Spain,,,1x2,2,1.600,won,0.6000,https://winnerodds.com
+winnerodds,2026-11-14,Cameroon,,,asian_handicap,ah-0_1,1.500,won,0.5000,https://winnerodds.com
+winnerodds,2026-11-15,England,,,over_under_35,u3.5,1.575,won,0.5750,https://winnerodds.com
+winnerodds,2026-11-14,Italy,,,1x2,1,2.380,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-15,Italy,,,1x2,2,5.060,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-15,Italy,,,asian_handicap,ah-0_1,1.300,void,0.0000,https://winnerodds.com
+winnerodds,2026-11-15,Italy,,,asian_handicap,ah-0_1,1.266,void,0.0000,https://winnerodds.com
+winnerodds,2026-11-12,Italy,,,asian_handicap,ah-0_1,1.230,void,0.0000,https://winnerodds.com
+winnerodds,2026-11-12,Italy,,,asian_handicap,ah-0_1,1.280,won,0.2800,https://winnerodds.com
+winnerodds,2026-11-12,Italy,,,1x2,2,2.550,won,1.5500,https://winnerodds.com
+winnerodds,2026-11-12,Italy,,,asian_handicap,ah-0_1,1.220,won,0.2200,https://winnerodds.com
+winnerodds,2026-11-12,Spain,,,1x2,2,4.330,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-14,Greece,,,1x2,1,1.333,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-14,Greece,,,asian_handicap,ah-0_1,1.200,won,0.2000,https://winnerodds.com
+winnerodds,2026-11-14,Greece,,,asian_handicap,ah-0_1,1.111,void,0.0000,https://winnerodds.com
+winnerodds,2026-11-14,Cameroon,,,1x2,1,2.375,won,1.3750,https://winnerodds.com
+winnerodds,2026-11-13,Czech Republic,,,asian_handicap,ah-0_1,1.250,won,0.2500,https://winnerodds.com
+winnerodds,2026-11-13,Czech Republic,,,asian_handicap,ah-0_1,1.200,won,0.2000,https://winnerodds.com
+winnerodds,2026-11-09,Germany,,,1x2,2,1.830,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-15,Bulgaria,,,asian_handicap,ah-0_1,1.610,won,0.6100,https://winnerodds.com
+winnerodds,2026-11-14,Kenya,,,asian_handicap,ah-0_1,1.610,lost,-1.0000,https://winnerodds.com
+winnerodds,2026-11-10,Slovenia,,,asian_handicap,ah-0_1,1.610,won,0.6100,https://winnerodds.com
 winnerodds,2026-11-10,Spain,,,asian_handicap,ah-0_2,1.640,won,0.6400,https://winnerodds.com
 winnerodds,2026-11-12,Italy,,,1x2,2,3.100,lost,-1.0000,https://winnerodds.com
 winnerodds,2026-11-13,Poland,,,1x2,2,1.270,lost,-1.0000,https://winnerodds.com
